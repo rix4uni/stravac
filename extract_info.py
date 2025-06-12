@@ -56,7 +56,7 @@ for challenge_id in range(start, end):  # 5097 to 5099
         challenge_data["description"] = description.group(1)
 
     # Time range
-    time = re.search(r'title&quot;:&quot;([A-Z][a-z]{2} \d{1,2}, \d{4} to [A-Z][a-z]{2} \d{1,2}, \d{4})', html_content)
+    time = re.search(r'title&quot;:&quot;([A-Z][a-z]{2} \d{1,2}, \d{4} to [A-Z][a-z]{2} \d{1,2}, \d{4}.*?)&quot;,&quot;icons', html_content)
     if time:
         challenge_data["time"] = time.group(1)
 
@@ -69,7 +69,7 @@ for challenge_id in range(start, end):  # 5097 to 5099
     qa_match = re.search(r'text&quot;:&quot;Qualifying Activities: ([^"]+)&quot;,&quot;href&quot;:&quot;#qualifying-activities', html_content)
     if qa_match:
         activities = [activity.strip() for activity in qa_match.group(1).split(',')]
-        challenge_data["qualifying_activities"] = activities
+        challenge_data["tags"] = activities
 
     # Reward
     reward = re.search(r'reward&quot;:\{&quot;title&quot;:&quot;(.*?)&quot;,&quot;icons&quot;', html_content)
@@ -87,4 +87,4 @@ for challenge_id in range(start, end):  # 5097 to 5099
 print(json.dumps(all_challenges, indent=3))
 
 
-# python3 extract_info.py | unew strava_challenges.json
+# python3 extract_info.py | tee strava_challenges.json

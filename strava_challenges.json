@@ -5,9 +5,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5097/5097-logo.png",
       "name": "pliability Run to Hawaii Challenge",
       "description": "Complete 80K in June to earn free pliability\u2014and a shot at racing in Hawaii!",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete 80km of running",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Walk",
@@ -22,9 +22,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5098/5098-logo.png",
       "name": "Huawei: Fit 4 More Miles",
       "description": "Track 4 Active Hours &amp;amp; Enjoy 15% Off All Huawei Wearables and Audio!",
-      "time": "May 30, 2025 to Jun 26, 2025",
+      "time": "May 30, 2025 to Jun 26, 2025  \u2014  14 days left",
       "task": "Record 4 hours of any activity you like",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -72,7 +72,7 @@
       "name": "Montane 30km for Your Mind",
       "description": "Log 30km to earn 20% off plus the chance to win \u00a31000 worth of Montane kit",
       "task": "Complete a total of 30km",
-      "qualifying_activities": [
+      "tags": [
          "Hike",
          "Run",
          "Snowshoe",
@@ -87,9 +87,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5100/5100-logo.png",
       "name": "Columbia Hike Society Seek New Views",
       "description": "Join the Columbia Hike Society as we explore, connect, and Seek New Views.",
-      "time": "Jun 7, 2025 to Jun 20, 2025",
+      "time": "Jun 7, 2025 to Jun 20, 2025  \u2014  8 days left",
       "task": "Log 200 minutes of activity",
-      "qualifying_activities": [
+      "tags": [
          "Hike",
          "Run",
          "Walk",
@@ -104,7 +104,7 @@
       "name": "SCHEELS Ride With Us",
       "description": "Ride 100 miles in 3 weeks for a chance to win a $1,000 SCHEELS gift card!",
       "task": "Complete a total of 100 miles within 3 weeks",
-      "qualifying_activities": [
+      "tags": [
          "Handcycle",
          "Ride",
          "Virtual Ride",
@@ -118,9 +118,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5102/5102-logo.png",
       "name": "Challenge VITTEL\u00ae x STRAVA",
       "description": "Ride 172km in 6 weeks to revitalise yourself from head to toe with VITTEL\u00ae.",
-      "time": "Jun 9, 2025 to Jul 20, 2025",
+      "time": "Jun 9, 2025 to Jul 20, 2025  \u2014  38 days left",
       "task": "Ride a total of 172Km",
-      "qualifying_activities": [
+      "tags": [
          "E-Bike Ride",
          "Handcycle",
          "Ride",
@@ -134,9 +134,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5103/5103-logo.png",
       "name": "The Runna Stay Consistent Challenge",
       "description": "Stay Active this spring &amp;amp; Get Runna Rewards!",
-      "time": "May 16, 2025 to Jun 15, 2025",
+      "time": "May 16, 2025 to Jun 15, 2025  \u2014  3 days left",
       "task": "Log 16 active days",
-      "qualifying_activities": [
+      "tags": [
          "Crossfit",
          "Elliptical",
          "Hike",
@@ -156,7 +156,7 @@
       "name": "Forestry England Forest Runner 5k",
       "description": "Run 5K for a chance to win epic prizes",
       "task": "Run a 5K",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Wheelchair"
       ],
@@ -168,9 +168,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5105/5105-logo.png",
       "name": "Red Bull FROM 0 TO 400",
       "description": "Climb 1,200 metres of altitude in 3 weeks",
-      "time": "May 26, 2025 to Jun 15, 2025",
+      "time": "May 26, 2025 to Jun 15, 2025  \u2014  3 days left",
       "task": "Climb 1,200 metres elevation in 3 weeks",
-      "qualifying_activities": [
+      "tags": [
          "Hike",
          "Run",
          "Walk"
@@ -183,9 +183,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5106/5106-logo.png",
       "name": "June 5K x Brooks Challenge",
       "description": "From first attempts to PRs, chase your best 5K run with Brooks.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete a 5 km (3.1 mi) run.",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Wheelchair"
@@ -198,9 +198,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5107/5107-logo.png",
       "name": "June 10K Challenge",
       "description": "Lace 'em up and show us what you've got.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete a 10 km (6.2 mi) run.",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Wheelchair"
@@ -213,9 +213,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5108/5108-logo.png",
       "name": "June Half Marathon Challenge",
       "description": "Race day or training day \u2013 all that matters is that you run long.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete a 13.1 mi (21.1 km) run.",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Wheelchair"
@@ -228,9 +228,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5109/5109-logo.png",
       "name": "June Run 100K Challenge",
       "description": "One month. 100 kilometers. You in?",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Run a total of 100 km (62.1 mi) in a month.",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Wheelchair"
@@ -243,9 +243,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5110/5110-logo.png",
       "name": "June Run 300K Challenge",
       "description": "One month. 300 kilometers. You in?",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Run a total of 300 km (186.4 mi) in a month.",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Wheelchair"
@@ -258,9 +258,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5111/5111-logo.png",
       "name": "June Elevation Challenge",
       "description": "Push yourself to the vertical limit with this quad-busting challenge.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Climb a total of 2,000 m (6,561.7 ft) in a month.",
-      "qualifying_activities": [
+      "tags": [
          "Hike",
          "Run",
          "Snowshoe",
@@ -276,9 +276,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5112/5112-logo.png",
       "name": "June Gran Fondo Challenge",
       "description": "Take on our longest one-shot cycling challenge.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete a 100 km (62.1 mi) ride.",
-      "qualifying_activities": [
+      "tags": [
          "Handcycle",
          "Ride",
          "Virtual Ride"
@@ -291,9 +291,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5113/5113-logo.png",
       "name": "June Ride 200K Challenge",
       "description": "One month. 200 km. You in?",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Bike a total of 200 km (124.3 mi) in a month.",
-      "qualifying_activities": [
+      "tags": [
          "Handcycle",
          "Ride",
          "Virtual Ride"
@@ -306,9 +306,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5114/5114-logo.png",
       "name": "June Ride 800K Challenge",
       "description": "Take on our longest cycling distance challenge.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Bike a total of 800 km (497.1 mi) in a month.",
-      "qualifying_activities": [
+      "tags": [
          "Handcycle",
          "Ride",
          "Virtual Ride"
@@ -321,9 +321,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5115/5115-logo.png",
       "name": "June Cycling Elevation Challenge",
       "description": "Push yourself to the vertical limit with this quad-busting challenge.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Climb a total of 7,000 m (22,965.9 ft) in a month.",
-      "qualifying_activities": [
+      "tags": [
          "Handcycle",
          "Ride",
          "Virtual Ride"
@@ -336,9 +336,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5116/5116-logo.png",
       "name": "June Walk 50K Challenge",
       "description": "One foot, then the other. Push yourself to walk 50 km this month.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Walk a total of 50 km (31.1 mi) in a month.",
-      "qualifying_activities": [
+      "tags": [
          "Hike",
          "Snowshoe",
          "Walk",
@@ -352,9 +352,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5117/5117-logo.png",
       "name": "June 400-Minute Challenge",
       "description": "Can you log 400 minutes this month?",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete 400 minutes of activity in a month \u2013 any sport counts.",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -401,9 +401,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5118/5118-logo.png",
       "name": "June Ten Days Active Challenge",
       "description": "Can you set aside 10 minutes to be active for 10 days this month?",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Do 10 minutes of activity for 10 days this month.",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -451,7 +451,7 @@
       "name": "Fizik Leadout",
       "description": "Join the Leadout to earn rewards and win prizes from fizik and friends.",
       "task": "Ride 150 km",
-      "qualifying_activities": [
+      "tags": [
          "E-Bike Ride",
          "Ride",
          "Virtual Ride",
@@ -470,9 +470,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5121/5121-logo.png",
       "name": "Objective Tour de France with Jules",
       "description": "Jules invites you to win a spot to ride a stage of the Tour de France",
-      "time": "May 22, 2025 to Jun 12, 2025",
+      "time": "May 22, 2025 to Jun 12, 2025  \u2014  Ends today",
       "task": "Cycle 185 km in 3 weeks",
-      "qualifying_activities": [
+      "tags": [
          "Handcycle",
          "Ride",
          "Virtual Ride"
@@ -485,9 +485,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5122/5122-logo.png",
       "name": "Nike Brickell Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -499,7 +499,7 @@
       "name": "ASSOS Collective Thirteen Challenge",
       "description": "Ride 130km in 9 days. Get 15% off ASSOS. Win a Collective Thirteen Jersey.",
       "task": "Ride 130km in 9 days",
-      "qualifying_activities": [
+      "tags": [
          "E-Bike Ride",
          "Handcycle",
          "Ride",
@@ -514,9 +514,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5124/5124-logo.png",
       "name": "Nike Soho Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -527,9 +527,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5125/5125-logo.png",
       "name": "Nike The Grove Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -540,9 +540,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5126/5126-logo.png",
       "name": "Nike Ponce City Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -553,9 +553,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5127/5127-logo.png",
       "name": "Nike Aventura Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -566,9 +566,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5128/5128-logo.png",
       "name": "Nike Las Vegas Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -579,9 +579,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5129/5129-logo.png",
       "name": "Nike Boston Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -592,9 +592,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5130/5130-logo.png",
       "name": "Nike San Francisco Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -605,9 +605,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5131/5131-logo.png",
       "name": "Nike Santa Monica Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -618,9 +618,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5132/5132-logo.png",
       "name": "Nike South Congress Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -631,9 +631,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5133/5133-logo.png",
       "name": "Nike Domain Northside Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -644,9 +644,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5134/5134-logo.png",
       "name": "Nike Portland Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -657,9 +657,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5135/5135-logo.png",
       "name": "Nike Chicago Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -670,9 +670,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5136/5136-logo.png",
       "name": "Nike House of Innovation Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -683,9 +683,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5137/5137-logo.png",
       "name": "Nike Williamsburg Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -696,9 +696,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5138/5138-logo.png",
       "name": "Nike Redondo Beach Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -709,9 +709,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5139/5139-logo.png",
       "name": "Nike Palm Beach Gardens Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -722,9 +722,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5140/5140-logo.png",
       "name": "Nike Eugene Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -735,9 +735,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5141/5141-logo.png",
       "name": "Nike Hyde Park Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -748,9 +748,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5142/5142-logo.png",
       "name": "Nike Berkeley Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -761,9 +761,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5143/5143-logo.png",
       "name": "Nike Kansas City Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -774,9 +774,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5144/5144-logo.png",
       "name": "Nike Boulder Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -787,9 +787,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5145/5145-logo.png",
       "name": "Nike Nashville Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -800,9 +800,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5146/5146-logo.png",
       "name": "Nike South Beach Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -813,9 +813,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5147/5147-logo.png",
       "name": "Nike Bridgeport Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -826,9 +826,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5148/5148-logo.png",
       "name": "Nike Woodlands Segment",
       "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
-      "time": "May 21, 2025 to Jun 18, 2025",
+      "time": "May 21, 2025 to Jun 18, 2025  \u2014  6 days left",
       "task": "Complete this local segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete this segment to earn an exclusive completion badge."
@@ -839,9 +839,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5149/5149-logo.png",
       "name": "Red Bull St\u00f3wa na Raty",
       "description": "Przerzu\u0107 si\u0119 na rower i zdob\u0105d\u017a cenne nagrody!",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete 10 days active in a month",
-      "qualifying_activities": [
+      "tags": [
          "E-Bike Ride",
          "Handcycle",
          "Ride",
@@ -855,9 +855,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5150/5150-logo.png",
       "name": "Brooks Venice: Let's Run There",
       "description": "Let's Run There with Brooks",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete the Segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete the segment and earn a digital badge for your trophy case."
@@ -868,9 +868,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5151/5151-logo.png",
       "name": "Brooks NYC: Let's Run There",
       "description": "Let's Run There with Brooks",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete the Segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete the segment and earn a digital badge for your trophy case."
@@ -881,9 +881,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5152/5152-logo.png",
       "name": "Brooks Trailhead: Let's Run There",
       "description": "Most segment completions for the month wins head-to-toe gear from Brooks",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete the Brooks Trailhead Segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete the most segment attempts and win head-to-toe Brooks gear from the Seattle flagship store."
@@ -894,9 +894,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5153/5153-logo.png",
       "name": "Reach Beyond with Science in Sport",
       "description": "Complete 12 active days over 3 weeks for the chance to win prizes",
-      "time": "May 26, 2025 to Jun 15, 2025",
+      "time": "May 26, 2025 to Jun 15, 2025  \u2014  3 days left",
       "task": "Log 12 active days",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -943,9 +943,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5154/5154-logo.png",
       "name": "Do the Work with BetterHelp",
       "description": "Show up for men's mental health and get a week of free therapy!",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Do 15 minutes of activity for 10 days.",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -992,9 +992,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5155/5155-logo.png",
       "name": "Experience A New High: Altra x Sloan's",
       "description": "Get loopy around the lake to unlock a limited-edition Altra badge.",
-      "time": "Jun 2, 2025 to Jul 1, 2025",
+      "time": "Jun 2, 2025 to Jul 1, 2025  \u2014  19 days left",
       "task": "Run Sloan's Lake segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Crush this segment (or all 5) and earn an Altra badge for your Trophy Case."
@@ -1005,9 +1005,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5156/5156-logo.png",
       "name": "Experience A New High: Altra x Platte",
       "description": "Pass the high-flying Elitch coasters &amp;amp; follow the river to get your badge.",
-      "time": "Jun 2, 2025 to Jul 1, 2025",
+      "time": "Jun 2, 2025 to Jul 1, 2025  \u2014  19 days left",
       "task": "Run the Altra x Platte segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Crush this segment (or all 5) and earn an Altra badge for your Trophy Case."
@@ -1018,9 +1018,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5157/5157-logo.png",
       "name": "Rivian Summer Recharge Challenge",
       "description": "Log 15 hours of outdoor activity for a special badge and a chance to win.",
-      "time": "May 27, 2025 to Jun 24, 2025",
+      "time": "May 27, 2025 to Jun 24, 2025  \u2014  12 days left",
       "task": "Log 15 hours of outdoor activity",
-      "qualifying_activities": [
+      "tags": [
          "Canoe",
          "E-Bike Ride",
          "Football (Soccer)",
@@ -1053,9 +1053,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5158/5158-logo.png",
       "name": "BOOST Belfast Segment",
       "description": "Pushing through to the finish line? There's a BOOST for that!",
-      "time": "May 31, 2025 to Jun 30, 2025",
+      "time": "May 31, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Take on the segment challenge, and earn a year's supply of BOOST and merch",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "You've unlocked a shot at winning a year's supply of BOOST Sport and branded merch!"
@@ -1066,9 +1066,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5160/5160-logo.png",
       "name": "BOOST London Segment",
       "description": "Pushing through to the finish line? There's a BOOST for that!",
-      "time": "May 31, 2025 to Jun 30, 2025",
+      "time": "May 31, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Take on the segment challenge, and earn a year's supply of BOOST and merch",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "You've unlocked a shot at winning a year's supply of BOOST Sport and branded merch!"
@@ -1079,9 +1079,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5161/5161-logo.png",
       "name": "Le Col Million Strong Challenge",
       "description": "Record 240 minutes of activity for a chance to win a \u00a350/$60 Le Col reward",
-      "time": "Jun 8, 2025 to Jun 28, 2025",
+      "time": "Jun 8, 2025 to Jun 28, 2025  \u2014  16 days left",
       "task": "Record 240 minutes of activity",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1128,9 +1128,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5163/5163-logo.png",
       "name": "Shimano Super Cycling Sunday",
       "description": "Complete the challenge for a chance to win 4 VIP Tour de France tickets!",
-      "time": "Jun 8, 2025 to Jun 15, 2025",
+      "time": "Jun 8, 2025 to Jun 15, 2025  \u2014  3 days left",
       "task": "Ride a total of 50km (30 miles) in a week",
-      "qualifying_activities": [
+      "tags": [
          "E-Bike Ride",
          "Handcycle",
          "Ride",
@@ -1144,9 +1144,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5164/5164-logo.png",
       "name": "Green Chef Move 200 Challenge!",
       "description": "Move for 200 minutes and receive a special discount from Green Chef!",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Move for 200 minutes",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1194,7 +1194,7 @@
       "name": "The BOOST Sport 5K",
       "description": "Pushing through to the finish line? There's a BOOST for that!",
       "task": "Complete a 5 km (3.1 mi) run.",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Walk",
@@ -1209,7 +1209,7 @@
       "name": "Shokz: Global Running Day Challenge",
       "description": "Log your daily run to help us complete 42.195 laps around the Earth!",
       "task": "Complete 5 km of running or walking",
-      "qualifying_activities": [
+      "tags": [
          "Crossfit",
          "Hike",
          "Run",
@@ -1226,9 +1226,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5169/5169-logo.png",
       "name": "It\u2019s Personal 5K Challenge with Puresport",
       "description": "Earn \u00a325 off and a chance to win the PB Performance Bundle",
-      "time": "Jun 7, 2025 to Jun 29, 2025",
+      "time": "Jun 7, 2025 to Jun 29, 2025  \u2014  17 days left",
       "task": "Complete a 5km run",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Wheelchair"
@@ -1241,9 +1241,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5170/5170-logo.png",
       "name": "SunGod: No Better Time",
       "description": "Log 50 minutes of outdoor time to unlock a 20% reward at SunGod.co.",
-      "time": "Jun 14, 2025 to Jun 22, 2025",
+      "time": "Jun 14, 2025 to Jun 22, 2025  \u2014  2 days until start",
       "task": "50 minutes moving time",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1289,7 +1289,7 @@
       "name": "World Bicycle Relief's Pedal to Empower",
       "description": "Riding 1M km to empower women &amp;amp; girls with bikes! Sponsored by Backroads",
       "task": "Ride a minimum of 20 KM",
-      "qualifying_activities": [
+      "tags": [
          "E-Bike Ride",
          "Handcycle",
          "Ride",
@@ -1303,9 +1303,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5173/5173-logo.png",
       "name": "Get Sponsored By The Feed",
       "description": "Complete the challenge and earn $60 Feed Cash to fuel your training.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Complete 250 minutes of activity",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1352,9 +1352,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5174/5174-logo.png",
       "name": "Smoothie King X TCS NYC Bib Giveaway",
       "description": "Win an opportunity for a bib to the TCS New York City Marathon!",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Run a total of 26.2 miles this month",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Wheelchair"
@@ -1367,9 +1367,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5175/5175-logo.png",
       "name": "Omius Cool Summer Challenge",
       "description": "Kick off summer training &amp;amp; earn a discount on Omius cooling technology",
-      "time": "Jun 8, 2025 to Jul 5, 2025",
+      "time": "Jun 8, 2025 to Jul 5, 2025  \u2014  23 days left",
       "task": "200 minutes of running",
-      "qualifying_activities": [
+      "tags": [
          "Hike",
          "Run",
          "Walk",
@@ -1383,9 +1383,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5176/5176-logo.png",
       "name": "Train with Turkey",
       "description": "Get training to earn your badge. Fuel with turkey. You train. You turkey.",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Log 250 minutes of moving time",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1432,9 +1432,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5177/5177-logo.png",
       "name": "adidas adizero: Train to be your fastest.",
       "description": "How fast can I be?",
-      "time": "Jun 4, 2025 to Jul 8, 2025",
+      "time": "Jun 4, 2025 to Jul 8, 2025  \u2014  26 days left",
       "task": "Run your fastest 5K this year",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Virtual Run",
          "Wheelchair"
@@ -1447,9 +1447,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5178/5178-logo.png",
       "name": "Gatorade RUN10",
       "description": "Run 10 km and join the Gatorade community. #IsItInYou?",
-      "time": "Jun 10, 2025 to Jul 8, 2025",
+      "time": "Jun 10, 2025 to Jul 8, 2025  \u2014  26 days left",
       "task": "Complete 10 km with Gatorade",
-      "qualifying_activities": [
+      "tags": [
          "Run",
          "Walk",
          "Wheelchair"
@@ -1462,9 +1462,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5179/5179-logo.png",
       "name": "Eight Sleep Training Duo Challenge",
       "description": "Invite a friend &amp;amp; log 8km/5mi to be one of the first to try the new Pod 5",
-      "time": "Jun 7, 2025 to Jun 15, 2025",
+      "time": "Jun 7, 2025 to Jun 15, 2025  \u2014  3 days left",
       "task": "Log 8km/5mi of activity",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1507,9 +1507,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5181/5181-logo.png",
       "name": "Oboz Footwear: LOVE HIKING Challenge",
       "description": "Hike 20 miles to win a prize from Oboz Footwear and a Love Hiking badge.",
-      "time": "Jun 8, 2025 to Jun 21, 2025",
+      "time": "Jun 8, 2025 to Jun 21, 2025  \u2014  9 days left",
       "task": "Complete 20 miles in 2 weeks",
-      "qualifying_activities": [
+      "tags": [
          "Hike",
          "Run",
          "Walk",
@@ -1523,9 +1523,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5183/5183-logo.png",
       "name": "Blocks League - BNF Speed Zone",
       "description": "Fais ton meilleur temps sur cette Speed Zone Blocks league de 500m !",
-      "time": "Jun 6, 2025 to Jun 20, 2025",
+      "time": "Jun 6, 2025 to Jun 20, 2025  \u2014  8 days left",
       "task": "D\u00e9passe toi sur ce segment de 500m !",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Tente de gagner des produits exclusifs et ton badge Blocks League - BNF Speed Zone !"
@@ -1536,9 +1536,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5184/5184-logo.png",
       "name": "Breeze Airways Get Going Challenge",
       "description": "Log 220 minutes of activity this month in honor of Global Wellness Day",
-      "time": "Jun 14, 2025 to Jul 12, 2025",
+      "time": "Jun 14, 2025 to Jul 12, 2025  \u2014  2 days until start",
       "task": "Complete 220 minutes of activity",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1585,9 +1585,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5185/5185-logo.png",
       "name": "Creemore Explore Your Backyard Challenge",
       "description": "Log 1,987 activity minutes in 2 months for a chance to win a getaway!",
-      "time": "Jun 10, 2025 to Aug 10, 2025",
+      "time": "Jun 10, 2025 to Aug 10, 2025  \u2014  59 days left",
       "task": "Complete 1,987 minutes of activity.",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1634,9 +1634,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5187/5187-logo.png",
       "name": "Don't Buy Nuun, Earn It Challenge",
       "description": "Log 200 minutes of activity for two consecutive weeks to earn 30% off Nuun!",
-      "time": "Jun 9, 2025 to Jun 22, 2025",
+      "time": "Jun 9, 2025 to Jun 22, 2025  \u2014  10 days left",
       "task": "Complete 400 minutes of activity over 2 weeks.",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1684,7 +1684,7 @@
       "name": "Hyundai x adidas 10k Paris: Run to Progress",
       "description": "Ready. Set. Run to progress.",
       "task": "Complete the Segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Complete the Hyundai segment for a chance to win 2 bibs to Run In Lyon and earn a digital \\&quot;Run to progress\\&quot; badge!"
@@ -1695,9 +1695,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5189/5189-logo.png",
       "name": "TOUR DE FRANCE with ibis budget",
       "description": "Log 200 minutes of activity and try to win a VIP day at the Tour De France",
-      "time": "Jun 8, 2025 to Jun 21, 2025",
+      "time": "Jun 8, 2025 to Jun 21, 2025  \u2014  9 days left",
       "task": "Log 200 minutes of activity",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1744,9 +1744,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5190/5190-logo.png",
       "name": "Sweat with Pride Challenge",
       "description": "Movement is the bridge that connects us all this Pride Month",
-      "time": "Jun 1, 2025 to Jun 30, 2025",
+      "time": "Jun 1, 2025 to Jun 30, 2025  \u2014  18 days left",
       "task": "Stay active for 10 days.",
-      "qualifying_activities": [
+      "tags": [
          "Alpine Ski",
          "Backcountry Ski",
          "Canoe",
@@ -1793,9 +1793,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5191/5191-logo.png",
       "name": "Experience A New High: Altra x Wash Park",
       "description": "Crush this Wash Park route and earn an exclusive Altra badge.",
-      "time": "Jun 15, 2025 to Aug 9, 2025",
+      "time": "Jun 15, 2025 to Aug 9, 2025  \u2014  3 days until start",
       "task": "Run the Altra x City Park segment",
-      "qualifying_activities": [
+      "tags": [
          "Run"
       ],
       "reward": "Crush this segment (or all 5) and earn an Altra badge for your Trophy Case."
@@ -1806,9 +1806,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5196/5196-logo.png",
       "name": "On the Trail of the Tour by Decathlon",
       "description": "The Strava Challenge by Decathlon \u2013 win a trip to the Tour de France",
-      "time": "Jun 14, 2025 to Jul 6, 2025",
+      "time": "Jun 14, 2025 to Jul 6, 2025  \u2014  2 days until start",
       "task": "Complete 170 km in 3 weeks on the bike",
-      "qualifying_activities": [
+      "tags": [
          "Handcycle",
          "Ride",
          "Virtual Ride"
@@ -1821,9 +1821,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5197/5197-logo.png",
       "name": "UCAN Endurance 10 Challenge",
       "description": "Run 10 miles at once or split it up. However you do it, it counts.",
-      "time": "Jun 14, 2025 to Jun 29, 2025",
+      "time": "Jun 14, 2025 to Jun 29, 2025  \u2014  2 days until start",
       "task": "Complete 10 miles over 2 weeks",
-      "qualifying_activities": [
+      "tags": [
          "Hike",
          "Run",
          "Virtual Run",
@@ -1838,9 +1838,9 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5209/5209-logo.png",
       "name": "Outdoorvision Run Challenge",
       "description": "Run to protect your practice spaces and get the chance to win !",
-      "time": "Jun 14, 2025 to Jun 20, 2025",
+      "time": "Jun 14, 2025 to Jun 20, 2025  \u2014  2 days until start",
       "task": "Complete 1 hour of running",
-      "qualifying_activities": [
+      "tags": [
          "Hike",
          "Run",
          "Walk",
