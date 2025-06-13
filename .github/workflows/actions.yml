@@ -19,9 +19,12 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v3
 
-    - name: Scrape strava challenges
+    - name: Installing requirements
       run: |
         pip3 install -r requirements.txt
+
+    - name: Scrape strava challenges
+      run: |
         python3 extract_info.py | tee strava_challenges.json
 
     - name: Commit and push changes if there are any
