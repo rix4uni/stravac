@@ -115,13 +115,25 @@ function renderChallenges(challenges) {
           <div class="card-title">${c.name || 'No Title'}</div>
           <div class="card-detail"><strong>Time:</strong> ${c.time || '—'}</div>
           <div class="card-detail"><strong>Task:</strong> ${c.task || '—'}</div>
-          <div class="card-detail"><strong>Reward:</strong> ${c.reward || '—'}</div>
+          <div class="card-detail"><strong>Reward:</strong> ${decodeUnicode(c.reward) || '—'}</div>
           <div class="card-buttons">
             <a href="${c.challenge_url}" target="_blank" class="btn">Join Challenge</a>
             <a href="${clubUrl}" target="_blank" class="btn secondary">Join Club</a>
+          </div>
+          <div class="card-meta">
+            <span class="status">${c.status || "Ended"}</span>
+            <span class="days">${c.challenge_days || "0"} Days</span>
           </div>
         </div>
       </div>
     `;
   });
+
+  function decodeUnicode(str) {
+    try {
+      return str ? JSON.parse(`"${str.replace(/"/g, '\\"')}"`) : '';
+    } catch {
+      return str;
+    }
+  }
 }

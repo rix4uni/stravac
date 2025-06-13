@@ -4,6 +4,7 @@ import re
 import html
 import json
 import time as t
+from datetime import datetime
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
@@ -55,10 +56,39 @@ for challenge_id in range(start, end):  # 5097 to 5099
     if description:
         challenge_data["description"] = description.group(1)
 
-    # Time range
-    time = re.search(r'title&quot;:&quot;([A-Z][a-z]{2} \d{1,2}, \d{4} to [A-Z][a-z]{2} \d{1,2}, \d{4}.*?)&quot;,&quot;icons', html_content)
-    if time:
-        challenge_data["time"] = time.group(1)
+    # Time
+    time_match = re.search(r'title&quot;:&quot;([A-Z][a-z]{2} \d{1,2}, \d{4}) to ([A-Z][a-z]{2} \d{1,2}, \d{4})(.*?)&quot;,&quot;icons', html_content)
+    if time_match:
+        start_date_str = time_match.group(1)
+        end_date_str = time_match.group(2)
+        suffix = time_match.group(3)
+
+        # Time range
+        challenge_data["time"] = f"{start_date_str} to {end_date_str}{suffix}"
+        
+        # Start date
+        challenge_data["start_date"] = str(start_date_str)
+        
+        # End date
+        challenge_data["end_date"] = str(end_date_str)
+        
+        # Challenge status
+        if "days left" in suffix or "day left" in suffix:
+            challenge_data["status"] = "running"
+        elif "days until start" in suffix or "day until start" in suffix:
+            challenge_data["status"] = "upcoming"
+        else:
+            challenge_data["status"] = "ended"
+
+        # Calculate days
+        try:
+            start_date = datetime.strptime(start_date_str, "%b %d, %Y")
+            end_date = datetime.strptime(end_date_str, "%b %d, %Y")
+            challenge_days = (end_date - start_date).days + 1
+            challenge_data["challenge_days"] = str(challenge_days)
+        except ValueError as e:
+            challenge_data["challenge_days"] = "unknown"
+
 
     # Task
     task = re.search(r'"title":"([^"]+)",\s*"subtitles"', decoded_html)
