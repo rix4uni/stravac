@@ -77,9 +77,14 @@ for challenge_id in range(start, end):  # 5097 to 5099
         challenge_data["reward"] = reward.group(1)
 
     # Club
-    club = re.search(r'"(http://strava\.com/clubs/[^"]+)"', decoded_html)
+    club = re.search(r'clubUrl&quot;:&quot;/(.*?)&quot;,&quot;verified', html_content)
     if club:
-        challenge_data["club"] = club.group(1).rstrip('\\')
+        challenge_data["club"] = "https://www.strava.com/" + club.group(1)
+        
+    # Participants
+    participants = re.search(r';Participants&quot;,&quot;value&quot;:(.*?)}],&quot;auxiliaryStats', html_content)
+    if participants:
+        challenge_data["participants"] = participants.group(1)
 
     all_challenges.append(challenge_data)  # Add the challenge data to the list
 
