@@ -201,7 +201,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/81417",
-      "participants": "1443677"
+      "participants": "1443675"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5107",
@@ -415,7 +415,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1225878"
+      "participants": "1225876"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5118",
@@ -465,7 +465,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1265246"
+      "participants": "1265243"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5119",
@@ -1183,7 +1183,7 @@
       ],
       "reward": "Record 240 minutes of activity for a \u00a350 Le Col reward \\u0026 a chance to win 1 of 3 \u00a3300 vouchers to use at LeCol.cc",
       "club": "https://www.strava.com/clubs/88156",
-      "participants": "647761"
+      "participants": "647760"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5163",
@@ -1963,7 +1963,7 @@
       ],
       "reward": "Run a cumulative 26.2 miles and receive a digital finisher badge.",
       "club": "https://www.strava.com/clubs/108605",
-      "participants": "9350"
+      "participants": "9367"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5194",
@@ -1979,7 +1979,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/512841",
-      "participants": "1390502"
+      "participants": "1390497"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5195",
@@ -1995,7 +1995,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case, $20/\u00a315 when you spend $80/\u00a360 on the Runna apparel store + a 2 week free trial, AND 1 entry into the Runna giveaway!",
       "club": "https://www.strava.com/clubs/886292",
-      "participants": "1141464"
+      "participants": "1141461"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5196",
@@ -2160,7 +2160,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "342398"
+      "participants": "342397"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5206",
@@ -2227,7 +2227,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1236524"
+      "participants": "1236521"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5208",
@@ -2277,7 +2277,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1279498"
+      "participants": "1279495"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5209",
@@ -2579,7 +2579,7 @@
       ],
       "reward": "Record 240 minutes of activity for a \u00a350 Le Col reward \\u0026 a chance to win 1 of 3 \u00a3300 vouchers to use at LeCol.cc",
       "club": "https://www.strava.com/clubs/88156",
-      "participants": "702887"
+      "participants": "702885"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5224",
@@ -2670,7 +2670,7 @@
       ],
       "reward": "Keep your streak alive for 4 weeks to earn a finisher's badge that shows off your summer consistency.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "746385"
+      "participants": "746382"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5228",
@@ -3231,96 +3231,8 @@
       "reward": "Complete the challenge for the chance to win a Polar Vantage M3 Watch",
       "participants": "54410"
    },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5246",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5246/5246-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5246/5246-logo.png",
-      "name": "Suunto Run 5k Challenge",
-      "description": "Complete a 5km run for the chance to win the new Suunto Run GPS watch.",
-      "task": "Complete a 5km run",
-      "tags": [
-         "Run",
-         "Virtual Run",
-         "Wheelchair"
-      ],
-      "reward": "Complete the challenge for the chance to win 1 of 5 new Suunto Run GPS watches.",
-      "club": "https://www.strava.com/clubs/74478",
-      "participants": "218816"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5247",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5247/5247-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5247/5247-logo.png",
-      "name": "Gobik Challenge: I spy",
-      "description": "Gobik Challenge: I Spy \u2013 Ride 150 km in 2 weeks. Win a Gobik Bundle!",
-      "task": "Complete 150 Km riding in two weeks",
-      "tags": [
-         "E-Bike Ride",
-         "Handcycle",
-         "Ride"
-      ],
-      "reward": "Complete the Challenge for a chance to win Gobik\u2019s exclusive bundle and stay geared up for a year of rides!",
-      "club": "https://www.strava.com/clubs/432596",
-      "participants": "157959"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5248",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5248/5248-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5248/5248-logo.png",
-      "name": "Michelob ULTRA Zero Excuses Challenge",
-      "description": "Log 29 miles, then enter for a chance to win a bib to the NYC Marathon.",
-      "task": "Log 29 miles of activity by August 3",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Wheelchair",
-         "Windsurf",
-         "Workout"
-      ],
-      "reward": "Ready to make moves? Complete the challenge for your chance to win a bib to the NYC Marathon and more!\u200b",
-      "club": "https://www.strava.com/clubs/674998",
-      "participants": "135275"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5249",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5155/5155-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5249/5249-logo.png",
-      "name": "Experience A New High: Altra x REI Bridge",
-      "description": "Run from Mile High to REI and earn an exclusive Altra badge.",
-      "task": "Run the REI bridge segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Crush this segment (or all 5) and earn an Altra badge for your Trophy Case.",
-      "club": "https://www.strava.com/clubs/96511",
-      "participants": "3684"
-   }
+   {},
+   {},
+   {},
+   {}
 ]
