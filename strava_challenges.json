@@ -1,6 +1,20 @@
 [
    {
-      "challenge_url": "https://www.strava.com/challenges/5097"
+      "challenge_url": "https://www.strava.com/challenges/5097",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5097/5097-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5097/5097-logo.png",
+      "name": "pliability Run to Hawaii Challenge",
+      "description": "Complete 80K in June to earn free pliability\u2014and a shot at racing in Hawaii!",
+      "task": "Complete 80km of running",
+      "tags": [
+         "Run",
+         "Virtual Run",
+         "Walk",
+         "Wheelchair"
+      ],
+      "reward": "Complete 80K in June to earn a free month of pliability, plus a chance to win a trip to race in Hawaii!",
+      "club": "https://www.strava.com/clubs/1347475",
+      "participants": "284560"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5098",
@@ -50,7 +64,7 @@
       ],
       "reward": "Track 4 Active Hours \\u0026 Enjoy 15% Off All Huawei Wearables and Audio!",
       "club": "https://www.strava.com/clubs/1131952",
-      "participants": "325709"
+      "participants": "325708"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5099",
@@ -85,7 +99,7 @@
       ],
       "reward": "Complete the Columbia Hike Society challenge, earn your digital badge and a 10% discount on your first order.",
       "club": "https://www.strava.com/clubs/1235645",
-      "participants": "126564"
+      "participants": "126563"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5101",
@@ -118,7 +132,7 @@
          "Virtual Ride"
       ],
       "reward": "Unlock a new badge and have a chance to win, among other things, a VIP experience at the Tour de France.",
-      "participants": "110889"
+      "participants": "110888"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5103",
@@ -187,7 +201,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/81417",
-      "participants": "1443671"
+      "participants": "1443666"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5107",
@@ -203,7 +217,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1077619"
+      "participants": "1077615"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5108",
@@ -219,9 +233,24 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "579406"
+      "participants": "579403"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5109",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5109/5109-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5109/5109-logo.png",
+      "name": "June Run 100K Challenge",
+      "description": "One month. 100 kilometers. You in?",
+      "task": "Run a total of 100 km (62.1 mi) in a month.",
+      "tags": [
+         "Run",
+         "Virtual Run",
+         "Wheelchair"
+      ],
+      "reward": "Earn a digital finisher's badge for your Trophy Case.",
+      "club": "https://www.strava.com/clubs/231407",
+      "participants": "742108"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5110",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5110/5110-cover.png",
@@ -236,7 +265,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "322988"
+      "participants": "322985"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5111",
@@ -255,13 +284,56 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "522755"
+      "participants": "522753"
    },
-   {},
    {
-      "challenge_url": "https://www.strava.com/challenges/5113"
+      "challenge_url": "https://www.strava.com/challenges/5112",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5112/5112-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5112/5112-logo.png",
+      "name": "June Gran Fondo Challenge",
+      "description": "Take on our longest one-shot cycling challenge.",
+      "task": "Complete a 100 km (62.1 mi) ride.",
+      "tags": [
+         "Handcycle",
+         "Ride",
+         "Virtual Ride"
+      ],
+      "reward": "Earn a digital finisher's badge for your Trophy Case.",
+      "club": "https://www.strava.com/clubs/231407",
+      "participants": "438069"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5113",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5113/5113-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5113/5113-logo.png",
+      "name": "June Ride 200K Challenge",
+      "description": "One month. 200 km. You in?",
+      "task": "Bike a total of 200 km (124.3 mi) in a month.",
+      "tags": [
+         "Handcycle",
+         "Ride",
+         "Virtual Ride"
+      ],
+      "reward": "Earn a digital finisher's badge for your Trophy Case.",
+      "club": "https://www.strava.com/clubs/231407",
+      "participants": "601524"
+   },
+   {
+      "challenge_url": "https://www.strava.com/challenges/5114",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5114/5114-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5114/5114-logo.png",
+      "name": "June Ride 800K Challenge",
+      "description": "Take on our longest cycling distance challenge.",
+      "task": "Bike a total of 800 km (497.1 mi) in a month.",
+      "tags": [
+         "Handcycle",
+         "Ride",
+         "Virtual Ride"
+      ],
+      "reward": "Earn a digital finisher's badge for your Trophy Case.",
+      "club": "https://www.strava.com/clubs/231407",
+      "participants": "348856"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5115",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5115/5115-cover.png",
@@ -276,7 +348,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "342119"
+      "participants": "342117"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5116",
@@ -293,7 +365,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "534130"
+      "participants": "534127"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5117",
@@ -343,7 +415,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1225872"
+      "participants": "1225869"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5118",
@@ -393,7 +465,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1265238"
+      "participants": "1265234"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5119",
@@ -410,14 +482,29 @@
       ],
       "reward": "Roll off roads to earn rewards and win big with fizik, Factor, Rapha, Tailfin, Wahoo, Buff\u2014and Team Amani.",
       "club": "https://www.strava.com/clubs/291691",
-      "participants": "165323"
+      "participants": "165322"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5120",
       "name": "Run with Audible: Great Ocean Road",
       "description": "Complete the Audible Great Ocean Road segment to unlock 2-months of Audible"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5121",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5121/5121-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5121/5121-logo.png",
+      "name": "Objective Tour de France with Jules",
+      "description": "Jules invites you to win a spot to ride a stage of the Tour de France",
+      "task": "Cycle 185 km in 3 weeks",
+      "tags": [
+         "Handcycle",
+         "Ride",
+         "Virtual Ride"
+      ],
+      "reward": "Ride at least 185 km and try to win: a place for the Inside of the Tour de France or a high-end bike!",
+      "club": "https://www.strava.com/clubs/1492540",
+      "participants": "61059"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5122",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5122/5122-cover.png",
@@ -448,7 +535,7 @@
       ],
       "reward": "Enter to win a Collective Thirteen Jersey, get 15% off ASSOS online or in-store, and earn the Challenge badge",
       "club": "https://www.strava.com/clubs/99524",
-      "participants": "312792"
+      "participants": "312790"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5124",
@@ -632,7 +719,20 @@
       "club": "https://www.strava.com/clubs/1136931",
       "participants": "3594"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5137",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5122/5122-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5137/5137-logo.png",
+      "name": "Nike Williamsburg Segment",
+      "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
+      "task": "Complete this local segment",
+      "tags": [
+         "Run"
+      ],
+      "reward": "Complete this segment to earn an exclusive completion badge.",
+      "club": "https://www.strava.com/clubs/1136931",
+      "participants": "9069"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5138",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5122/5122-cover.png",
@@ -647,7 +747,20 @@
       "club": "https://www.strava.com/clubs/1136931",
       "participants": "4687"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5139",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5122/5122-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5139/5139-logo.png",
+      "name": "Nike Palm Beach Gardens Segment",
+      "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
+      "task": "Complete this local segment",
+      "tags": [
+         "Run"
+      ],
+      "reward": "Complete this segment to earn an exclusive completion badge.",
+      "club": "https://www.strava.com/clubs/1136931",
+      "participants": "1713"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5140",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5122/5122-cover.png",
@@ -732,7 +845,20 @@
       "club": "https://www.strava.com/clubs/1136931",
       "participants": "976"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5146",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5122/5122-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5146/5146-logo.png",
+      "name": "Nike South Beach Segment",
+      "description": "Finish this segment &amp;amp; get an exclusive Nike Store segment challenge badge.",
+      "task": "Complete this local segment",
+      "tags": [
+         "Run"
+      ],
+      "reward": "Complete this segment to earn an exclusive completion badge.",
+      "club": "https://www.strava.com/clubs/1136931",
+      "participants": "3340"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5147",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5122/5122-cover.png",
@@ -820,7 +946,56 @@
       "club": "https://www.strava.com/clubs/81417",
       "participants": "5080"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5153",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5153/5153-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5153/5153-logo.png",
+      "name": "Reach Beyond with Science in Sport",
+      "description": "Complete 12 active days over 3 weeks for the chance to win prizes",
+      "task": "Log 12 active days",
+      "tags": [
+         "Alpine Ski",
+         "Backcountry Ski",
+         "Canoe",
+         "Crossfit",
+         "E-Bike Ride",
+         "Elliptical",
+         "Football (Soccer)",
+         "Golf",
+         "Handcycle",
+         "Hike",
+         "Ice Skate",
+         "Inline Skate",
+         "Kayaking",
+         "Kitesurf",
+         "Nordic Ski",
+         "Ride",
+         "Rock Climb",
+         "Roller Ski",
+         "Rowing",
+         "Run",
+         "Sail",
+         "Skateboard",
+         "Snowboard",
+         "Snowshoe",
+         "Stair-Stepper",
+         "Stand Up Paddling",
+         "Surfing",
+         "Swim",
+         "Velomobile",
+         "Virtual Ride",
+         "Virtual Run",
+         "Walk",
+         "Weight Training",
+         "Wheelchair",
+         "Windsurf",
+         "Workout",
+         "Yoga"
+      ],
+      "reward": "Unlock 15% reward \\u0026 your chance to win an exclusive trip to create your own Energy Gel along with other SiS prizes",
+      "club": "https://www.strava.com/clubs/253686",
+      "participants": "111652"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5154",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5154/5154-cover.png",
@@ -869,7 +1044,7 @@
       ],
       "reward": "Complete this challenge and earn one free week of online therapy through BetterHelp!",
       "club": "https://www.strava.com/clubs/1196713",
-      "participants": "342766"
+      "participants": "342765"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5155",
@@ -1008,7 +1183,7 @@
       ],
       "reward": "Record 240 minutes of activity for a \u00a350 Le Col reward \\u0026 a chance to win 1 of 3 \u00a3300 vouchers to use at LeCol.cc",
       "club": "https://www.strava.com/clubs/88156",
-      "participants": "647758"
+      "participants": "647756"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5163",
@@ -1025,7 +1200,7 @@
       ],
       "reward": "Complete the challenge for a chance to win 4 VIP tickets to the Tour de France or 1 of 2 ULTEGRA C50 wheelsets!",
       "club": "https://www.strava.com/clubs/35884",
-      "participants": "125920"
+      "participants": "125918"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5164",
@@ -1076,7 +1251,6 @@
       "reward": "Complete 200 minutes of movement \\u0026 get rewarded with delicious and nutritious meals from Green Chef. Are you ready?",
       "participants": "228294"
    },
-   {},
    {
       "challenge_url": "https://www.strava.com/challenges/5166",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5159/5159-cover.png",
@@ -1127,7 +1301,20 @@
       "participants": "128345"
    },
    {
-      "challenge_url": "https://www.strava.com/challenges/5169"
+      "challenge_url": "https://www.strava.com/challenges/5169",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5169/5169-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5169/5169-logo.png",
+      "name": "It\u2019s Personal 5K Challenge with Puresport",
+      "description": "Earn \u00a325 off and a chance to win the PB Performance Bundle",
+      "task": "Complete a 5km run",
+      "tags": [
+         "Run",
+         "Virtual Run",
+         "Wheelchair"
+      ],
+      "reward": "Earn \u00a325 off and a chance to win 1 of 1500 exclusive Race Day bundles or 1 of 50 PB Performance Bundles",
+      "club": "https://www.strava.com/clubs/808560",
+      "participants": "132584"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5170",
@@ -1401,7 +1588,7 @@
       ],
       "reward": "Earn up to $350 off eightsleep.com, unlock the digital badge and enter for the chance to win the new Pod 5",
       "club": "https://www.strava.com/clubs/1071334",
-      "participants": "238351"
+      "participants": "238350"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5180",
@@ -1559,8 +1746,69 @@
       "reward": "Log 1,987 minutes in 2 months for the chance to win a two-night's stay at the Creemore Cottage!",
       "participants": "40947"
    },
-   {},
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5187",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5187/5187-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5187/5187-logo.png",
+      "name": "Don't Buy Nuun, Earn It Challenge",
+      "description": "Log 200 minutes of activity for two consecutive weeks to earn 30% off Nuun!",
+      "task": "Complete 200 minutes of activity over 2 weeks.",
+      "tags": [
+         "Alpine Ski",
+         "Backcountry Ski",
+         "Canoe",
+         "Crossfit",
+         "E-Bike Ride",
+         "Elliptical",
+         "Football (Soccer)",
+         "Golf",
+         "Handcycle",
+         "Hike",
+         "Ice Skate",
+         "Inline Skate",
+         "Kayaking",
+         "Kitesurf",
+         "Nordic Ski",
+         "Ride",
+         "Rock Climb",
+         "Roller Ski",
+         "Rowing",
+         "Run",
+         "Sail",
+         "Skateboard",
+         "Snowboard",
+         "Snowshoe",
+         "Stair-Stepper",
+         "Stand Up Paddling",
+         "Surfing",
+         "Swim",
+         "Velomobile",
+         "Virtual Ride",
+         "Virtual Run",
+         "Walk",
+         "Weight Training",
+         "Wheelchair",
+         "Windsurf",
+         "Workout",
+         "Yoga"
+      ],
+      "reward": "You\u2019ll get 30% off Nuun Hydration plus an exclusive badge.",
+      "club": "https://www.strava.com/clubs/169978",
+      "participants": "81251"
+   },
+   {
+      "challenge_url": "https://www.strava.com/challenges/5188",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5188/5188-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5188/5188-logo.png",
+      "name": "Hyundai x adidas 10k Paris: Run to Progress",
+      "description": "Ready. Set. Run to progress.",
+      "task": "Complete the Segment",
+      "tags": [
+         "Run"
+      ],
+      "reward": "Complete the Hyundai segment for a chance to win 2 bibs to Run In Lyon and earn a digital \\&quot;Run to progress\\&quot; badge!",
+      "participants": "29515"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5189",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5189/5189-cover.png",
@@ -1659,7 +1907,7 @@
       ],
       "reward": "Earn the coveted annual Pride digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "551229"
+      "participants": "551227"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5191",
@@ -1681,7 +1929,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5192/5192-logo.png",
       "name": "Virtual TCS New York City Marathon",
       "description": "Create Your Own TCS New York City Marathon Course",
-      "time": "Oct 25, 2025 to Nov 2, 2025  \u2014  5 days until start",
+      "time": "Oct 25, 2025 to Nov 2, 2025  \u2014  4 days until start",
       "start_date": "Oct 25, 2025",
       "end_date": "Nov 2, 2025",
       "status": "upcoming",
@@ -1702,7 +1950,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5193/5193-logo.png",
       "name": "Virtual TCS New York City Marathon Challenge",
       "description": "Run a total of 26.2 Miles Your Way",
-      "time": "Oct 25, 2025 to Nov 2, 2025  \u2014  5 days until start",
+      "time": "Oct 25, 2025 to Nov 2, 2025  \u2014  4 days until start",
       "start_date": "Oct 25, 2025",
       "end_date": "Nov 2, 2025",
       "status": "upcoming",
@@ -1715,7 +1963,7 @@
       ],
       "reward": "Run a cumulative 26.2 miles and receive a digital finisher badge.",
       "club": "https://www.strava.com/clubs/108605",
-      "participants": "9403"
+      "participants": "9445"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5194",
@@ -1731,7 +1979,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/512841",
-      "participants": "1390493"
+      "participants": "1390487"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5195",
@@ -1747,7 +1995,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case, $20/\u00a315 when you spend $80/\u00a360 on the Runna apparel store + a 2 week free trial, AND 1 entry into the Runna giveaway!",
       "club": "https://www.strava.com/clubs/886292",
-      "participants": "1141456"
+      "participants": "1141452"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5196",
@@ -1797,7 +2045,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "605777"
+      "participants": "605775"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5199",
@@ -1813,7 +2061,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "731532"
+      "participants": "731530"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5200",
@@ -1829,7 +2077,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "319120"
+      "participants": "319119"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5201",
@@ -1848,7 +2096,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "522887"
+      "participants": "522886"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5202",
@@ -1864,7 +2112,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "429718"
+      "participants": "429717"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5203",
@@ -1880,7 +2128,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "599349"
+      "participants": "599347"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5204",
@@ -1896,7 +2144,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "348964"
+      "participants": "348962"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5205",
@@ -1912,7 +2160,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "342396"
+      "participants": "342395"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5206",
@@ -1929,7 +2177,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "533948"
+      "participants": "533946"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5207",
@@ -1979,7 +2227,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1236517"
+      "participants": "1236515"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5208",
@@ -2029,7 +2277,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1279489"
+      "participants": "1279487"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5209",
@@ -2076,7 +2324,20 @@
       "club": "https://www.strava.com/clubs/512841",
       "participants": "7573"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5212",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5150/5150-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5212/5212-logo.png",
+      "name": "Brooks Paris: Let's Run There",
+      "description": "Let's Run There with Brooks",
+      "task": "Complete the Segment",
+      "tags": [
+         "Run"
+      ],
+      "reward": "Complete the segment and earn a digital badge for your trophy case.",
+      "club": "https://www.strava.com/clubs/512841",
+      "participants": "15904"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5213",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5213/5213-cover.png",
@@ -2203,7 +2464,55 @@
       "club": "https://www.strava.com/clubs/325132",
       "participants": "63077"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5221",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5221/5221-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5221/5221-logo.png",
+      "name": "Gatorade Water 5x Challenge",
+      "description": "Move for a minimum of 55 mins for 5 days this month.",
+      "task": "Complete 5 days of 55 minute activity.",
+      "tags": [
+         "Alpine Ski",
+         "Backcountry Ski",
+         "Canoe",
+         "Crossfit",
+         "E-Bike Ride",
+         "Elliptical",
+         "Football (Soccer)",
+         "Golf",
+         "Handcycle",
+         "Hike",
+         "Ice Skate",
+         "Inline Skate",
+         "Kayaking",
+         "Kitesurf",
+         "Nordic Ski",
+         "Ride",
+         "Rock Climb",
+         "Roller Ski",
+         "Rowing",
+         "Run",
+         "Sail",
+         "Skateboard",
+         "Snowboard",
+         "Snowshoe",
+         "Stair-Stepper",
+         "Stand Up Paddling",
+         "Surfing",
+         "Swim",
+         "Velomobile",
+         "Virtual Ride",
+         "Virtual Run",
+         "Walk",
+         "Weight Training",
+         "Wheelchair",
+         "Windsurf",
+         "Workout",
+         "Yoga"
+      ],
+      "reward": "Challenge finishers are entered for a chance to win a year\u2019s worth of Gatorade Water",
+      "participants": "60090"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5222",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5222/5222-cover.png",
@@ -2270,7 +2579,7 @@
       ],
       "reward": "Record 240 minutes of activity for a \u00a350 Le Col reward \\u0026 a chance to win 1 of 3 \u00a3300 vouchers to use at LeCol.cc",
       "club": "https://www.strava.com/clubs/88156",
-      "participants": "702883"
+      "participants": "702881"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5224",
@@ -2361,7 +2670,7 @@
       ],
       "reward": "Keep your streak alive for 4 weeks to earn a finisher's badge that shows off your summer consistency.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "746381"
+      "participants": "746379"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5228",
@@ -2615,7 +2924,7 @@
       ],
       "reward": "Run any 6 days in 2 weeks and unlock a free Skratch Fuel Pack and the challenge badge",
       "club": "https://www.strava.com/clubs/176397",
-      "participants": "131152"
+      "participants": "131151"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5235",
@@ -2684,7 +2993,7 @@
       ],
       "reward": "Unlock a MAAP code worth $75 AUD / $60 USD / \u20ac50 / \u00a350 by completing 3 hours of any activity.",
       "club": "https://www.strava.com/clubs/293623",
-      "participants": "394418"
+      "participants": "394417"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5237",
@@ -2701,7 +3010,7 @@
       ],
       "reward": "Complete 20 miles to unlock a unique Strava Badge and exclusive Bandit prizes.",
       "club": "https://www.strava.com/clubs/1020236",
-      "participants": "366553"
+      "participants": "366552"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5238",
@@ -2753,7 +3062,24 @@
       "club": "https://www.strava.com/clubs/1035537",
       "participants": "154945"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5241",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5241/5241-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5241/5241-logo.png",
+      "name": "CamelBak Podium Challenge",
+      "description": "It's summer! Ride your bike for 200 min to unlock your personal 20% discount code and win 1 of 3 Podium bottle packages!",
+      "task": "Complete 200 minutes of riding",
+      "tags": [
+         "E-Bike Ride",
+         "Handcycle",
+         "Ride",
+         "Velomobile",
+         "Virtual Ride"
+      ],
+      "reward": "Ride for 200 mins to earn a 20% discount code and enter for a chance to win 1 of 3 CamelBak Podium bottle packages",
+      "club": "https://www.strava.com/clubs/1116223",
+      "participants": "142015"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5242",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5242/5242-cover.png",
@@ -2802,7 +3128,7 @@
       ],
       "reward": "Complete the challenge and earn $60 Feed Cash to fuel your training.",
       "club": "https://www.strava.com/clubs/280372",
-      "participants": "140096"
+      "participants": "140095"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5243",
@@ -2937,7 +3263,52 @@
       "club": "https://www.strava.com/clubs/432596",
       "participants": "157958"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5248",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5248/5248-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5248/5248-logo.png",
+      "name": "Michelob ULTRA Zero Excuses Challenge",
+      "description": "Log 29 miles, then enter for a chance to win a bib to the NYC Marathon.",
+      "task": "Log 29 miles of activity by August 3",
+      "tags": [
+         "Alpine Ski",
+         "Backcountry Ski",
+         "Canoe",
+         "Crossfit",
+         "E-Bike Ride",
+         "Elliptical",
+         "Football (Soccer)",
+         "Golf",
+         "Handcycle",
+         "Hike",
+         "Ice Skate",
+         "Inline Skate",
+         "Kayaking",
+         "Kitesurf",
+         "Nordic Ski",
+         "Ride",
+         "Roller Ski",
+         "Rowing",
+         "Run",
+         "Sail",
+         "Skateboard",
+         "Snowboard",
+         "Snowshoe",
+         "Stand Up Paddling",
+         "Surfing",
+         "Swim",
+         "Velomobile",
+         "Virtual Ride",
+         "Virtual Run",
+         "Walk",
+         "Wheelchair",
+         "Windsurf",
+         "Workout"
+      ],
+      "reward": "Ready to make moves? Complete the challenge for your chance to win a bib to the NYC Marathon and more!\u200b",
+      "club": "https://www.strava.com/clubs/674998",
+      "participants": "135274"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5249",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5155/5155-cover.png",
