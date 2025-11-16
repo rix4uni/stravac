@@ -25,7 +25,7 @@ jobs:
 
     - name: Scrape strava challenges
       run: |
-        python3 extract_info.py | tee strava_challenges.json
+        python3 extract_info.py
 
     - name: Commit and push changes if there are any
       run: |

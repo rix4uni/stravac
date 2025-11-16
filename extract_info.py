@@ -131,8 +131,8 @@ for challenge_id in range(start, end):  # 5097 to 5250
 
     all_challenges.append(challenge_data)  # Add the challenge data to the list
 
-# Output the entire list as formatted JSON
-print(json.dumps(all_challenges, indent=3))
+# Save to JSON file
+with open('strava_challenges.json', 'w', encoding='utf-8') as f:
+    json.dump(all_challenges, f, indent=3, ensure_ascii=False)
 
-
-# python3 extract_info.py | tee strava_challenges.json
+print(f"Successfully saved {len(all_challenges)} challenges to strava_challenges.json")
