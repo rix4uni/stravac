@@ -12,10 +12,23 @@ headers = {
 
 all_challenges = []  # Store all challenge data here
 
-start = 5097
-end = 5250
+# Fetch the latest challenge ID dynamically
+response = requests.get("https://www.strava.com/challenges", headers=headers)
+latest_id_match = re.search(r'\{&quot;id&quot;:(\d+),&quot;url&quot;:&quot;https://www\.strava\.com/challenges/', response.text)
 
-for challenge_id in range(start, end):  # 5097 to 5099
+if latest_id_match:
+    latest_id = int(latest_id_match.group(1))
+    start = latest_id - 100
+    end = latest_id + 150
+    print(f"Latest challenge ID found: {latest_id}", flush=True)
+    print(f"Scanning from {start} to {end}", flush=True)
+else:
+    # Fallback to default values if unable to fetch
+    start = 5097
+    end = 5250
+    print("Could not fetch latest challenge ID, using default range", flush=True)
+
+for challenge_id in range(start, end):  # 5097 to 5250
     t.sleep(1)  # Rate limit: 1 request per second
     
     url = f"https://www.strava.com/challenges/{challenge_id}"
