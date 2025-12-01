@@ -1,1257 +1,11 @@
 [
    {
-      "challenge_url": "https://www.strava.com/challenges/5353",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5353/5353-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5353/5353-logo.png",
-      "name": "October 10K Challenge",
-      "description": "Lace 'em up and show us what you've got.",
-      "task": "Complete a 10 km (6.2 mi) run.",
-      "tags": [
-         "Run",
-         "Virtual Run",
-         "Wheelchair"
-      ],
-      "reward": "Earn a digital finisher's badge for your Trophy Case.",
-      "club": "https://www.strava.com/clubs/231407",
-      "participants": "1019034"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5354",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5354/5354-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5354/5354-logo.png",
-      "name": "Škoda: Complete the Streets",
-      "description": "Complete a ride and join female cyclists taking over the streets of the UK",
-      "task": "Complete a 20 minute ride",
-      "tags": [
-         "E-Bike Ride",
-         "Handcycle",
-         "Ride",
-         "Velomobile",
-         "Virtual Ride"
-      ],
-      "reward": "Add your ride to the nationwide map to win coffee and Sigma Sports vouchers. T\\u0026C's apply.",
-      "club": "https://www.strava.com/clubs/518563",
-      "participants": "42539"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5355",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5355/5355-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5355/5355-logo.png",
-      "name": "Le Col Turning Point Challenge",
-      "description": "Record 200 minutes of activity to win a £50/$60 Le Col reward",
-      "task": "Record 200 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Record 200 minutes of activity for a £50 Le Col reward \\u0026 a chance to win 1 of 3 £300 vouchers to use at LeCol.cc",
-      "club": "https://www.strava.com/clubs/88156",
-      "participants": "618810"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5356",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5356/5356-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5356/5356-logo.png",
-      "name": "Nike Bay Run Road to Running Royalty Challenge",
-      "description": "Run 4 segments for your chance to unlock a ticket to Nike's panel event.",
-      "task": "Complete 4 Nike Running Royalty segments",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete all 4 runs \\u0026 be the first 170 to check in at Sydney Swans HQ to unlock a ticket to Nike's panel event.",
-      "club": "https://www.strava.com/clubs/1136931",
-      "participants": "8515"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5357",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5357/5357-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5357/5357-logo.png",
-      "name": "Nike Sydney Harbour Road to Running Royalty Challenge",
-      "description": "Run 4 segments for your chance to unlock a ticket to Nike's panel event.",
-      "task": "Complete 4 Nike Running Royalty segments",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete all 4 runs \\u0026 be the first 170 to check in at Sydney Swans HQ to unlock a ticket to Nike's panel event.",
-      "club": "https://www.strava.com/clubs/1136931",
-      "participants": "7320"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5358",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5358/5358-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5358/5358-logo.png",
-      "name": "Move 120 with Mindful Chef",
-      "description": "Earn 50% off your FIRST TWO boxes and a chance to win prizes worth £1000.",
-      "task": "Complete 120 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Earn 50% off your FIRST TWO Mindful Chef recipe boxes and a chance to win a luxury stay + prizes worth £1000",
-      "club": "https://www.strava.com/clubs/1648254",
-      "participants": "76622"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5359",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5359/5359-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5359/5359-logo.png",
-      "name": "Style in motion with Zalando",
-      "description": "Move for 240 minutes in 4 weeks and earn 20% off sportswear at Zalando",
-      "task": "Complete 240 minutes of exercise over the next 4 weeks",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Earn 20% off sportswear on Zalando by moving for 240 minutes - and stay stylish while you work out.",
-      "club": "https://www.strava.com/clubs/914587",
-      "participants": "79242"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5361",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5361/5361-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5361/5361-logo.png",
-      "name": "CLEAR-LY UNSHAKEABLE IN 7 DAYS",
-      "description": "Join CLEAR’s 7-day workout challenge and win exciting rewards!",
-      "task": "Move at least 30 minutes each day for 7 days",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the 7-day challenge to unlock official badge, and a chance to win prizes worth a total of Rp77 Million!",
-      "club": "https://www.strava.com/clubs/1650043",
-      "participants": "22771"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5362",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5362/5362-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5362/5362-logo.png",
-      "name": "Macmillan Audio’s Audiobook Challenge",
-      "description": "Go the extra mile with an audiobook—log 4 active days and earn a free audiobook for your next workout.",
-      "task": "Do 20 minutes of activity for 4 days.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge to earn a free audiobook and Strava badge.",
-      "club": "https://www.strava.com/clubs/1583814",
-      "participants": "66456"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5363",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5363/5363-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5363/5363-logo.png",
-      "name": "Por Ti, Somos Gregarios - Movistar Team",
-      "description": "Complete 128 km in 3 weeks and become a Gregarios!",
-      "task": "Complete 128 km riding in 3 weeks",
-      "tags": [
-         "Ride",
-         "Virtual Ride"
-      ],
-      "reward": "Complete 128 km riding and enter the raffle to win 20 Movistar Team kits and 2 bikes!",
-      "club": "https://www.strava.com/clubs/145946",
-      "participants": "37446"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5364",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5364/5364-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5364/5364-logo.png",
-      "name": "ASSOS “ON SEASON” Challenge",
-      "description": "Ride 100km in 14 days. Get 15% off ASSOS. Enter to win a GT Fall kit.",
-      "task": "Ride 100km in 14 days",
-      "tags": [
-         "E-Bike Ride",
-         "Handcycle",
-         "Ride",
-         "Virtual Ride"
-      ],
-      "reward": "Enter to win a GT Fall kit, get 15% off ASSOS online or in-store, and earn the ON SEASON Challenge badge.",
-      "club": "https://www.strava.com/clubs/99524",
-      "participants": "353869"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5365",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5365/5365-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5365/5365-logo.png",
-      "name": "Public Transport Authority Commuter Challenge",
-      "description": "Ride 100km during WA Bike Month and take your active travel to the next level!",
-      "task": "Ride 100km in the month of October",
-      "tags": [
-         "Handcycle",
-         "Ride",
-         "Wheelchair"
-      ],
-      "reward": "Ride 100km for the chance to win 1 of 5 epic 99 Bikes prize packs. Plus, earn a special finishers digital badge!",
-      "participants": "13907"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5366",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5366/5366-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5366/5366-logo.png",
-      "name": "Keep the Tempo Challenge",
-      "description": "Complete 200 minutes of exercise to receive $225 off Tempo by Home Chef",
-      "task": "200 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Challenge finishers earn $225 off Tempo by Home Chef and a digital badge. T\\u0026Cs apply.",
-      "club": "https://www.strava.com/clubs/1709896",
-      "participants": "115875"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5367",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5367/5367-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5367/5367-logo.png",
-      "name": "Connect and Earn with Nuun Challenge",
-      "description": "Complete 200 minutes of activity over 2 weeks.",
-      "task": "Complete 200 minutes of activity over 2 weeks",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "You’ll earn 30% off Nuun Hydration and an exclusive digital badge.",
-      "club": "https://www.strava.com/clubs/169978",
-      "participants": "82370"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5368",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5368/5368-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5368/5368-logo.png",
-      "name": "Be More Earth with Nature’s Sunshine",
-      "description": "Get out there &amp;amp; help us circle the Earth, one mile at a time.",
-      "task": "50 miles of activity",
-      "tags": [
-         "Handcycle",
-         "Hike",
-         "Ride",
-         "Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "The first 1,000 finishers receive a 7-pack of Power Beets \\u0026 ALL unlock 30% off Nature’s Sunshine products.",
-      "club": "https://www.strava.com/clubs/1514419",
-      "participants": "129908"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5370",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5370/5370-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5370/5370-logo.png",
-      "name": "The Solgar Half Marathon Mission",
-      "description": "Complete 13.1 miles in 4 weeks for the chance to WIN top prizes.",
-      "task": "Run a total of 13.1 miles in 4 weeks",
-      "tags": [
-         "Hike",
-         "Run",
-         "Virtual Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Finish 13.1 miles for the chance to WIN a break at Lanzarote's top sports holiday resort PLUS more great prizes.",
-      "club": "https://www.strava.com/clubs/1163074",
-      "participants": "111035"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5371",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5371/5371-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5371/5371-logo.png",
-      "name": "Cross The Bridge with Solgar",
-      "description": "Complete the Tyne Bridge mile and The Great North Run to WIN top prizes.",
-      "task": "Run the Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete The Great North Run \\u0026 enter for a chance to WIN a trip to Club La Santa PLUS more great prizes",
-      "club": "https://www.strava.com/clubs/1163074",
-      "participants": "36672"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5372",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5372/5372-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5372/5372-logo.png",
-      "name": "Explore Berlin with Altra - Tiergarten",
-      "description": "Complete the Altra segment in Berlin to unlock unique rewards",
-      "task": "Complete the segment to unlock rewards",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the Altra segment for a chance to win one of 10 pairs of Altra Running shoes* and more**!",
-      "club": "https://www.strava.com/clubs/562713",
-      "participants": "12191"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5373",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5373/5373-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5373/5373-logo.png",
-      "name": "HOKA Flylab Trail x REI – Short Route",
-      "description": "Run or hike the Segment for the chance to win new trail shoes from HOKA.",
-      "task": "Complete the 0.16-mile Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the Segment September 12-14 for the chance to win the new Mafate X.",
-      "club": "https://www.strava.com/clubs/76016",
-      "participants": "1559"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5374",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5374/5374-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5374/5374-logo.png",
-      "name": "Get Sponsored By The Feed",
-      "description": "Complete the challenge and earn $60 Feed Cash to fuel your training.",
-      "task": "Complete 120 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge, and unlock a sponsorship from The Feed with $60 of annual credit to spend on nutrition",
-      "club": "https://www.strava.com/clubs/280372",
-      "participants": "173653"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5377",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5377/5377-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5377/5377-logo.png",
-      "name": "HOKA Let's Fly Berlin Segment",
-      "description": "Fly through our Let’s Fly Berlin segment to earn exclusive prizes.",
-      "task": "Complete the segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a pair of exclusive HOKA x SUMS collab socks and the chance to win a pair of Rocket X 3.",
-      "club": "https://www.strava.com/clubs/1035537",
-      "participants": "36346"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5378",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5378/5378-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5378/5378-logo.png",
-      "name": "Get Energized: ZOA Movement Challenge",
-      "description": "Complete 120 active minutes to win an exclusive offer from ZOA Energy.",
-      "task": "Complete 120 Active Minutes.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge to earn free product.",
-      "participants": "16559"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5379",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5379/5379-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5379/5379-logo.png",
-      "name": "NOBULL Test Drive",
-      "description": "Grind 200 minutes. Get $50 off Drive shoes. Chance at $500 NOBULL gift card.",
-      "task": "Complete 200 minutes of movement.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Log 200 minutes of movement. Get $50 off NOBULL Drive shoes with STRAVADRIVE. Enter to win a $500 NOBULL gift card.",
-      "club": "https://www.strava.com/clubs/652640",
-      "participants": "81693"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5380",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5380/5380-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5380/5380-logo.png",
-      "name": "Run Harder: Nike Marathon Challenge",
-      "description": "Run Harder. Log your fastest marathon for a chance to win rewards.",
-      "task": "Set a top 3 marathon PR for this year",
-      "tags": [
-         "Run",
-         "Virtual Run",
-         "Wheelchair"
-      ],
-      "reward": "Complete the challenge to enter the ballot for elite rewards — bibs, 30% discount on Nike.com \\u0026 more. T\\u0026C's apply.",
-      "club": "https://www.strava.com/clubs/1136931",
-      "participants": "18215"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5381",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5381/5381-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5381/5381-logo.png",
-      "name": "Run Harder: Nike 5K Challenge",
-      "description": "Run Harder. Log your fastest 5K for a chance to win rewards.",
-      "task": "Set a top 3 5K PR for this year",
-      "tags": [
-         "Run",
-         "Virtual Run",
-         "Wheelchair"
-      ],
-      "reward": "Complete the challenge to enter the ballot for elite rewards — bibs, 30% discount on Nike.com \\u0026 more. T\\u0026C's apply.",
-      "club": "https://www.strava.com/clubs/1136931",
-      "participants": "41315"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5382",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5382/5382-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5382/5382-logo.png",
-      "name": "Make Your Move With Backcountry",
-      "description": "Log 200 minutes of activity over the next 3 weeks for a chance to win $1000",
-      "task": "Complete 200 minutes of activity over 3 weeks",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete 200 minutes of movement for a chance to win a $1,000 Backcountry gift card!",
-      "club": "https://www.strava.com/clubs/409",
-      "participants": "79111"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5383",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5383/5383-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5383/5383-logo.png",
-      "name": "THE OUT Car Rental: Escape The City",
-      "description": "Escape the city, discover the road. Ride 8 days this month to win.",
-      "task": "Complete 8 active cycling days",
-      "tags": [
-         "E-Bike Ride",
-         "Handcycle",
-         "Ride",
-         "Virtual Ride"
-      ],
-      "reward": "Complete 8 cycling days and get 20% off THE OUT, plus a chance to win £1,000 car rental credit for your next trip.",
-      "participants": "36885"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5384",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5384/5384-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5384/5384-logo.png",
-      "name": "HOKA Flylab Trail x REI – Long Route",
-      "description": "Run or hike the Segment for the chance to win new trail shoes from HOKA.",
-      "task": "Complete the 0.28 Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the Segment September 12-14 for the chance to win the all-new Mafate 5.",
-      "club": "https://www.strava.com/clubs/76016",
-      "participants": "1293"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5385",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5385/5385-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5385/5385-logo.png",
-      "name": "Run Limitless : Nike Half Marathon",
-      "description": "Run limitless and go out of your comfort zone.  Log your half marathon.",
-      "task": "Complete the segment and join the movement.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn your special Nike Copenhagen Half-Marathon virtual badge and access to the Nike Recovery Zone.",
-      "club": "https://www.strava.com/clubs/1136931",
-      "participants": "22687"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5386",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5386/5386-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5386/5386-logo.png",
-      "name": "No Reasons Needed to Move with Heineken 0.0​",
-      "description": "Log 360 minutes in 3 weeks to celebrate the Heineken 0.0 12-pack &amp;amp; prizes.​",
-      "task": "Complete 360 minutes over 3 weeks",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Take the challenge and you could win a $10,000 party pack from Heineken 0.0.​",
-      "participants": "75634"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5388",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5388/5388-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5388/5388-logo.png",
-      "name": "Saucony Run As One Chicago",
-      "description": "Earn FREE Saucony gear from Fleet Feet.",
-      "task": "Complete the Monroe Harbor Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Claim your prize in-store at Fleet Feet: 1706 N Wells St, Chicago, IL 60614.",
-      "club": "https://www.strava.com/clubs/104818",
-      "participants": "15560"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5389",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5389/5389-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5389/5389-logo.png",
-      "name": "Airmine Pollen &amp; Air Quality Challenge",
-      "description": "Push limits, not lungs - track air &amp;amp; pollen exposure with Airmine",
-      "task": "Complete 60 minutes of outdoor activity",
-      "tags": [
-         "E-Bike Ride",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Inline Skate",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Run",
-         "Skateboard",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Collect your air badge, understand your exposure and enter to win a $250 gift card!",
-      "club": "https://www.strava.com/clubs/1439794",
-      "participants": "79082"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5390",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5390/5390-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5390/5390-logo.png",
-      "name": "Ready for Anything by GOREWEAR",
-      "description": "Log 3 active days &amp;amp; level up with 30% off and a GOREWEAR athlete sponsorship",
-      "task": "Log 3 activities in 10 days",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Earn 30% off your next purchase + enter for the chance to become a GOREWEAR athlete",
-      "club": "https://www.strava.com/clubs/241135",
-      "participants": "373436"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5391",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5391/5391-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5391/5391-logo.png",
-      "name": "Hydralyte Plus Sports 'Serious About Sweat' Challenge",
-      "description": "Join Hydralyte Plus Sports for a seriously sweaty 300 minutes this October.",
-      "task": "Complete 300 minutes of moving time",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Win a 1-yr Fitness First membership! Plus, get $5 off Hydralyte Sports Range at Chemist Warehouse. T\\u0026Cs apply.",
-      "participants": "36332"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5392",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5392/5392-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5392/5392-logo.png",
-      "name": "Factor’s Move &amp; Earn Challenge",
-      "description": "Achieve 200 minutes of movement to win an exclusive Factor reward.",
-      "task": "Complete 200 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Get active for 200 minutes to win up to $130 off Factor meals and free breakfast for a year.",
-      "participants": "88920"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5393",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5393/5393-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5393/5393-logo.png",
-      "name": "The Move Juntos Challenge",
-      "description": "Let's celebrate Latinx &amp;amp; Hispanic Heritage Month with movement by completing one activity per week.",
-      "task": "Log an activity each week, for 4 weeks",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Athletes who complete the challenge will receive a digital finisher's badge in their Trophy Case.",
-      "club": "https://www.strava.com/clubs/231407",
-      "participants": "161886"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5394",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5394/5394-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5394/5394-logo.png",
-      "name": "Go Further with Huawei",
-      "description": "Track 4 active hours &amp;amp; Enjoy 15% off the new HUAWEI WATCH GT 6 Series",
-      "task": "Sweat it out for 4 hours in 4 weeks",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Track 4 active hours \\u0026 Enjoy 15% off the new HUAWEI WATCH GT 6 Series",
-      "club": "https://www.strava.com/clubs/1131952",
-      "participants": "317546"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5395",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5395/5395-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5395/5395-logo.png",
-      "name": "Advertising Week x Strava Challenge 2025",
-      "description": "At Advertising Week New York? Get out there and complete our segment.",
-      "task": "Complete the segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the challenge to learn more about how brands activate on Strava.",
-      "club": "https://www.strava.com/clubs/231407",
-      "participants": "4033"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5396",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5396/5396-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5396/5396-logo.png",
-      "name": "October 400-Minute x Runna Challenge",
-      "description": "Runna wants to see you log 400 minutes this month",
-      "task": "Complete 400 minutes of activity in a month – any sport counts.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Earn a digital finishers badge for your Trophy Case, a two week free trial of Runna and 10% off Runna annual gift card memberships and apparel",
-      "club": "https://www.strava.com/clubs/886292",
-      "participants": "1190577"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5397",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5397/5397-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5397/5397-logo.png",
-      "name": "Zappos Moves NYC: Win the Day Central Park",
-      "description": "Lace up, lock in and run the CP loop with Zappos.",
-      "time": "Nov 10, 2025 to Dec 7, 2025  —  7 days left",
-      "start_date": "Nov 10, 2025",
-      "end_date": "Dec 7, 2025",
-      "status": "running",
-      "challenge_days": "28",
-      "task": "Run the Central Park Loop",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital finisher's badge for your Trophy Case.",
-      "participants": "29150"
-   },
-   {
       "challenge_url": "https://www.strava.com/challenges/5398",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5398/5398-cover.png",
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5398/5398-logo.png",
       "name": "Zappos Moves NYC: Win the Day Williamsburg",
       "description": "Lace up, lock in and run the Williamsburg waterfront with Zappos.",
-      "time": "Nov 10, 2025 to Dec 7, 2025  —  7 days left",
+      "time": "Nov 10, 2025 to Dec 7, 2025  —  6 days left",
       "start_date": "Nov 10, 2025",
       "end_date": "Dec 7, 2025",
       "status": "running",
@@ -1261,7 +15,7 @@
          "Run"
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
-      "participants": "7230"
+      "participants": "7298"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5399",
@@ -1330,7 +84,7 @@
       ],
       "reward": "Complete the challenge for a chance to win a pair of fresh tires + 10% off Continental products with BIKE24",
       "club": "https://www.strava.com/clubs/747888",
-      "participants": "202253"
+      "participants": "202252"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5401",
@@ -1429,7 +183,7 @@
       ],
       "reward": "Finish the challenge for a chance to win an AirGrid® Pillow, plus 10% off Emma products and a badge. T\\u0026C apply.",
       "club": "https://www.strava.com/clubs/1713336",
-      "participants": "120067"
+      "participants": "120066"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5403",
@@ -1446,7 +200,7 @@
       ],
       "reward": "Complete to earn a 30%* discount, plus your Castelli 'Never Stop Riding' digital badge",
       "club": "https://www.strava.com/clubs/66959",
-      "participants": "340992"
+      "participants": "340990"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5404",
@@ -1510,7 +264,7 @@
       ],
       "reward": "Complete 60 minutes and you could win a 2026 Chicago Marathon entry, OpenRun Pro 2, or a limited-edition cowbell.",
       "club": "https://www.strava.com/clubs/559980",
-      "participants": "116022"
+      "participants": "116021"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5406",
@@ -1526,7 +280,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5407/5407-logo.png",
       "name": "HOKA Membership Chase 300",
       "description": "Log 300 miles on foot to unlock $25 off your next HOKA footwear purchase.",
-      "time": "Sep 22, 2025 to Dec 31, 2025  —  31 days left",
+      "time": "Sep 22, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Sep 22, 2025",
       "end_date": "Dec 31, 2025",
       "status": "running",
@@ -1539,7 +293,7 @@
       ],
       "reward": "Rack up 300 miles - running or walking - to earn $25 off your next HOKA footwear purchase. (U.S. only)",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "146086"
+      "participants": "146741"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5408",
@@ -1659,7 +413,7 @@
       ],
       "reward": "Finish the challenge to attend the Tour de France 2026 official route presentation!",
       "club": "https://www.strava.com/clubs/148438",
-      "participants": "67324"
+      "participants": "67323"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5414",
@@ -1728,7 +482,7 @@
          "Yoga"
       ],
       "reward": "The first 675 athletes to complete 675 Recovery Tagged minutes will receive a code for Strava Premium!",
-      "participants": "106258"
+      "participants": "106257"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5416",
@@ -1778,7 +532,7 @@
       ],
       "reward": "Record 200 minutes of activity for a £50 Le Col reward \\u0026 a chance to win 1 of 3 £300 vouchers to use at LeCol.cc",
       "club": "https://www.strava.com/clubs/88156",
-      "participants": "590670"
+      "participants": "590668"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5417",
@@ -1892,7 +646,7 @@
       ],
       "reward": "Unlock Your Free October Bottle + Get 42% Off Hydration",
       "club": "https://www.strava.com/clubs/280372",
-      "participants": "172872"
+      "participants": "172871"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5420",
@@ -2032,7 +786,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5427/5427-logo.png",
       "name": "Altra x Fleet Feet: Stay Out There™ Season",
       "description": "Get outside this season for “me time” &amp;amp; a chance to win an epic prize.",
-      "time": "Nov 1, 2025 to Dec 15, 2025  —  15 days left",
+      "time": "Nov 1, 2025 to Dec 15, 2025  —  14 days left",
       "start_date": "Nov 1, 2025",
       "end_date": "Dec 15, 2025",
       "status": "running",
@@ -2046,7 +800,7 @@
       ],
       "reward": "Challenge Finishers get 15% off Altra at Fleet Feet, a digital badge, and the chance to win an epic prize.",
       "club": "https://www.strava.com/clubs/96511",
-      "participants": "169125"
+      "participants": "170119"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5428",
@@ -2063,7 +817,7 @@
          "Wheelchair"
       ],
       "reward": "Finishers will get to enter the draw for a chance to win a TAG Heuer Connected Calibre E5 and a strap. T\\u0026C apply.",
-      "participants": "420748"
+      "participants": "420746"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5429",
@@ -2289,7 +1043,7 @@
       ],
       "reward": "Earn up to $350 off at eightsleep.com, and enter for the chance to win a Pod 5 Cover + Two Eight Sleep Pillows",
       "club": "https://www.strava.com/clubs/1071334",
-      "participants": "296779"
+      "participants": "296777"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5437",
@@ -2425,7 +1179,7 @@
       ],
       "reward": "Unlock your special Nike badge which earns you a coffee at La Chance Café (16, rue Ferdinand Flocon 75018 Paris). While stocks last.",
       "club": "https://www.strava.com/clubs/1136931",
-      "participants": "26232"
+      "participants": "26231"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5442",
@@ -2433,7 +1187,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5442/5442-logo.png",
       "name": "Bonus Hour with VITTEL®",
       "description": "Log 360 minutes of activity for a chance to win a revitalising weekend",
-      "time": "Oct 26, 2025 to Dec 6, 2025  —  6 days left",
+      "time": "Oct 26, 2025 to Dec 6, 2025  —  5 days left",
       "start_date": "Oct 26, 2025",
       "end_date": "Dec 6, 2025",
       "status": "running",
@@ -2480,7 +1234,7 @@
       ],
       "reward": "Unlock a new digital badge \\u0026 the chance to win a revitalising weekend in the Vosges for two, and more!",
       "club": "https://www.strava.com/clubs/1527433",
-      "participants": "195356"
+      "participants": "196058"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5443",
@@ -2488,7 +1242,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5443/5443-logo.png",
       "name": "Brooks Adrenaline GTS 25 Challenge",
       "description": "Run 25 total miles and you could win.",
-      "time": "Nov 1, 2025 to Dec 13, 2025  —  13 days left",
+      "time": "Nov 1, 2025 to Dec 13, 2025  —  12 days left",
       "start_date": "Nov 1, 2025",
       "end_date": "Dec 13, 2025",
       "status": "running",
@@ -2503,7 +1257,7 @@
       ],
       "reward": "Challenge finishers could win $2,500 cash or one of 100 pairs of the Adrenaline GTS 25. T\\u0026Cs apply.",
       "club": "https://www.strava.com/clubs/81417",
-      "participants": "208077"
+      "participants": "209490"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5444",
@@ -2548,7 +1302,7 @@
          "Workout"
       ],
       "reward": "Complete the challenge and receive a DoorDash code for $4 Off your Purchase of $12 dollars worth of Yasso Products.",
-      "participants": "99026"
+      "participants": "99025"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5445",
@@ -2556,7 +1310,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5445/5445-logo.png",
       "name": "Streak to the Finish Challenge",
       "description": "Year In Sport is coming. Boost yours with a streak.",
-      "time": "Nov 3, 2025 to Dec 28, 2025  —  28 days left",
+      "time": "Nov 3, 2025 to Dec 28, 2025  —  27 days left",
       "start_date": "Nov 3, 2025",
       "end_date": "Dec 28, 2025",
       "status": "running",
@@ -2603,7 +1357,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "667585"
+      "participants": "671042"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5446",
@@ -2677,11 +1431,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5448/5448-logo.png",
       "name": "November 400-Minute x Runna Challenge",
       "description": "Runna wants to see you log 400 minutes this month",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Complete 400 minutes of activity in a month – any sport counts.",
       "tags": [
          "Alpine Ski",
@@ -2724,7 +1473,7 @@
       ],
       "reward": "Celebrate your finish with a digital badge for your Trophy Case, a  2-week free trial of Runna trial, AND entry to win $400/£300 towards running shoes of your choice.",
       "club": "https://www.strava.com/clubs/886292",
-      "participants": "1219002"
+      "participants": "1221920"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5449",
@@ -2732,11 +1481,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5449/5449-logo.png",
       "name": "November 5K x Brooks Challenge",
       "description": "From first attempts to PRs, chase your best 5K run with Brooks.",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Complete a 5 km (3.1 mi) run.",
       "tags": [
          "Run",
@@ -2745,7 +1489,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/512841",
-      "participants": "1306121"
+      "participants": "1309638"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5451",
@@ -2781,11 +1525,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5453/5453-logo.png",
       "name": "November Ride 200K Challenge",
       "description": "One month. 200 km. You in?",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Bike a total of 200 km (124.3 mi) in a month.",
       "tags": [
          "Handcycle",
@@ -2794,7 +1533,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "484030"
+      "participants": "485276"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5454",
@@ -2802,11 +1541,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5454/5454-logo.png",
       "name": "November Half Marathon Challenge",
       "description": "Race day or training day – all that matters is that you run long.",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Complete a 13.1 mi (21.1 km) run.",
       "tags": [
          "Run",
@@ -2815,7 +1549,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "594729"
+      "participants": "595878"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5455",
@@ -2823,11 +1557,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5455/5455-logo.png",
       "name": "November Ride 800K Challenge",
       "description": "Take on our longest cycling distance challenge.",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Bike a total of 800 km (497.1 mi) in a month.",
       "tags": [
          "Handcycle",
@@ -2836,7 +1565,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "255942"
+      "participants": "256555"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5456",
@@ -2844,11 +1573,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5456/5456-logo.png",
       "name": "November Cycling Elevation Challenge",
       "description": "Push yourself to the vertical limit with this quad-busting challenge.",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Climb a total of 7,000 m (22,965.9 ft) in a month.",
       "tags": [
          "Handcycle",
@@ -2857,7 +1581,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "253942"
+      "participants": "254606"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5457",
@@ -2865,11 +1589,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5457/5457-logo.png",
       "name": "November Run 100K Challenge",
       "description": "One month. 100 kilometers. You in?",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Run a total of 100 km (62.1 mi) in a month.",
       "tags": [
          "Run",
@@ -2878,7 +1597,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "749031"
+      "participants": "750567"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5458",
@@ -2886,11 +1605,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5458/5458-logo.png",
       "name": "November Walk 50K Challenge",
       "description": "One foot, then the other. Push yourself to walk 50 km this month.",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Walk a total of 50 km (31.1 mi) in a month.",
       "tags": [
          "Hike",
@@ -2900,7 +1614,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "528085"
+      "participants": "529193"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5459",
@@ -2908,11 +1622,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5459/5459-logo.png",
       "name": "November Run 300K Challenge",
       "description": "One month. 300 kilometers. You in?",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Run a total of 300 km (186.4 mi) in a month.",
       "tags": [
          "Run",
@@ -2921,7 +1630,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "332199"
+      "participants": "332972"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5460",
@@ -2929,11 +1638,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5460/5460-logo.png",
       "name": "November Elevation Challenge",
       "description": "Push yourself to the vertical limit with this quad-busting challenge.",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Climb a total of 2,000 m (6,561.7 ft) in a month.",
       "tags": [
          "Hike",
@@ -2945,7 +1649,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "491623"
+      "participants": "492870"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5461",
@@ -2953,11 +1657,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5461/5461-logo.png",
       "name": "November Gran Fondo Challenge",
       "description": "Take on our longest one-shot cycling challenge.",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Complete a 100 km (62.1 mi) ride.",
       "tags": [
          "Handcycle",
@@ -2966,7 +1665,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "308121"
+      "participants": "308808"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5462",
@@ -2974,11 +1673,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5462/5462-logo.png",
       "name": "November Ten Days Active Challenge",
       "description": "Can you set aside 10 minutes to be active for 10 days this month?",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Do 10 minutes of activity for 10 days this month.",
       "tags": [
          "Alpine Ski",
@@ -3021,7 +1715,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1213273"
+      "participants": "1215578"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5463",
@@ -3029,11 +1723,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5463/5463-logo.png",
       "name": "November 10K Challenge",
       "description": "Lace 'em up and show us what you've got.",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Complete a 10 km (6.2 mi) run.",
       "tags": [
          "Run",
@@ -3042,7 +1731,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1034106"
+      "participants": "1036028"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5464",
@@ -3078,10 +1767,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5466/5466-logo.png",
       "name": "Train. Recover. Repeat. With Amazfit",
       "description": "Log 300 min to earn 15% off both the Amazfit Balance 2 and Helio Strap.",
-      "time": "Nov 5, 2025 to Dec 1, 2025  —  1 day left",
+      "time": "Nov 5, 2025 to Dec 1, 2025  —  Ends today",
       "start_date": "Nov 5, 2025",
       "end_date": "Dec 1, 2025",
-      "status": "running",
+      "status": "ended",
       "challenge_days": "27",
       "task": "Complete 300 minutes of activity.",
       "tags": [
@@ -3125,7 +1814,7 @@
       ],
       "reward": "Challenge finishers earn 15% off both the Amazfit Balance 2 and Helio Strap. T\\u0026C's apply.",
       "club": "https://www.strava.com/clubs/284069",
-      "participants": "148881"
+      "participants": "149904"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5467",
@@ -3152,11 +1841,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5468/5468-logo.png",
       "name": "Get Fueled by The Feed",
       "description": "Complete the challenge and claim your FREE bottle and 40% discount",
-      "time": "Nov 1, 2025 to Nov 30, 2025  —  Ends today",
-      "start_date": "Nov 1, 2025",
-      "end_date": "Nov 30, 2025",
-      "status": "ended",
-      "challenge_days": "30",
       "task": "Complete 120 minutes of activity",
       "tags": [
          "Alpine Ski",
@@ -3199,7 +1883,7 @@
       ],
       "reward": "Unlock Your Free Bottle + Get 40% Off Exclusive Brands Only Available at The Feed",
       "club": "https://www.strava.com/clubs/280372",
-      "participants": "170442"
+      "participants": "171439"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5469",
@@ -3224,7 +1908,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5470/5470-logo.png",
       "name": "The Running Man Challenge",
       "description": "What would you do for the billion dollar badge? Survive for your prize.",
-      "time": "Nov 7, 2025 to Dec 4, 2025  —  4 days left",
+      "time": "Nov 7, 2025 to Dec 4, 2025  —  3 days left",
       "start_date": "Nov 7, 2025",
       "end_date": "Dec 4, 2025",
       "status": "running",
@@ -3270,7 +1954,7 @@
          "Yoga"
       ],
       "reward": "Challenge finishers earn The Running Man Billion Dollar Badge.",
-      "participants": "130407"
+      "participants": "131325"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5471",
@@ -3292,10 +1976,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5472/5472-logo.png",
       "name": "SCHEELS Turkey Trot 5k",
       "description": "Run a 5k for an exclusive SCHEELS + HOKA offer and a chance to win prizes.",
-      "time": "Nov 17, 2025 to Dec 1, 2025  —  1 day left",
+      "time": "Nov 17, 2025 to Dec 1, 2025  —  Ends today",
       "start_date": "Nov 17, 2025",
       "end_date": "Dec 1, 2025",
-      "status": "running",
+      "status": "ended",
       "challenge_days": "15",
       "task": "Complete 5k of activity",
       "tags": [
@@ -3305,7 +1989,62 @@
       ],
       "reward": "Complete a 5K to earn an exclusive offer plus a chance to win a $500 SCHEELS gift card and up to $500 in HOKA gear!",
       "club": "https://www.strava.com/clubs/1223027",
-      "participants": "35915"
+      "participants": "36183"
+   },
+   {
+      "challenge_url": "https://www.strava.com/challenges/5473",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5473/5473-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5473/5473-logo.png",
+      "name": "Strava for Business Agency Challenge",
+      "description": "From Pitches to PRs — Agency Teams, Let’s Move.",
+      "time": "Jan 5, 2026 to Feb 5, 2026  —  35 days until start",
+      "start_date": "Jan 5, 2026",
+      "end_date": "Feb 5, 2026",
+      "status": "upcoming",
+      "challenge_days": "32",
+      "task": "Complete 20 days of activity across the month.",
+      "tags": [
+         "Alpine Ski",
+         "Backcountry Ski",
+         "Canoe",
+         "Crossfit",
+         "E-Bike Ride",
+         "Elliptical",
+         "Football (Soccer)",
+         "Golf",
+         "Handcycle",
+         "Hike",
+         "Ice Skate",
+         "Inline Skate",
+         "Kayaking",
+         "Kitesurf",
+         "Nordic Ski",
+         "Ride",
+         "Rock Climb",
+         "Roller Ski",
+         "Rowing",
+         "Run",
+         "Sail",
+         "Skateboard",
+         "Snowboard",
+         "Snowshoe",
+         "Stair-Stepper",
+         "Stand Up Paddling",
+         "Surfing",
+         "Swim",
+         "Velomobile",
+         "Virtual Ride",
+         "Virtual Run",
+         "Walk",
+         "Weight Training",
+         "Wheelchair",
+         "Windsurf",
+         "Workout",
+         "Yoga"
+      ],
+      "reward": "Log 20 active days for the chance to win exclusive prizes, including entry to the TCS New York City Marathon.",
+      "club": "https://www.strava.com/clubs/231407",
+      "participants": "4"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5474",
@@ -3322,7 +2061,7 @@
       ],
       "reward": "Cover 21.1 km over two weeks for your chance to win 1 of 5 €200 Zalando Gift Cards. Terms apply.",
       "club": "https://www.strava.com/clubs/914587",
-      "participants": "308747"
+      "participants": "308746"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5476",
@@ -3372,7 +2111,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5480/5480-logo.png",
       "name": "Ford Driven To Run Challenge",
       "description": "Complete 10 days of activity for the chance to win a TCS London Marathon place",
-      "time": "Nov 10, 2025 to Dec 7, 2025  —  7 days left",
+      "time": "Nov 10, 2025 to Dec 7, 2025  —  6 days left",
       "start_date": "Nov 10, 2025",
       "end_date": "Dec 7, 2025",
       "status": "running",
@@ -3393,7 +2132,7 @@
       ],
       "reward": "Join the Ford Run Club \\u0026 complete 10 active days for a chance to win 1 of 6 2026 TCS London Marathon spots! Terms apply.",
       "club": "https://www.strava.com/clubs/1711477",
-      "participants": "91100"
+      "participants": "91968"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5481",
@@ -3401,7 +2140,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5481/5481-logo.png",
       "name": "Red Bull Szczyt Formy",
       "description": "Zdobądź swój Everest! W 5 różnych dni pokonaj 8849 metry i wygraj!",
-      "time": "Nov 5, 2025 to Dec 9, 2025  —  9 days left",
+      "time": "Nov 5, 2025 to Dec 9, 2025  —  8 days left",
       "start_date": "Nov 5, 2025",
       "end_date": "Dec 9, 2025",
       "status": "running",
@@ -3414,7 +2153,7 @@
       ],
       "reward": "Zdobądź odznakę, Defendera na aktywny weekend, pas biegowy Salomon, pakiet kolekcjonerski i skrzyyydła!",
       "club": "https://www.strava.com/clubs/788391",
-      "participants": "22038"
+      "participants": "22223"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5482",
@@ -3595,7 +2334,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5491/5491-logo.png",
       "name": "Think Turkey's Wishbone Challenge",
       "description": "Get active to give. Help provide holiday meals for those in need.",
-      "time": "Nov 12, 2025 to Dec 23, 2025  —  23 days left",
+      "time": "Nov 12, 2025 to Dec 23, 2025  —  22 days left",
       "start_date": "Nov 12, 2025",
       "end_date": "Dec 23, 2025",
       "status": "running",
@@ -3642,7 +2381,7 @@
       ],
       "reward": "Earn the Wishbone Challenge badge. Contribute to Think Turkey's $20,000 donation to fight food insecurity.",
       "club": "https://www.strava.com/clubs/1539924",
-      "participants": "34919"
+      "participants": "35224"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5492",
@@ -3699,7 +2438,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5494/5494-logo.png",
       "name": "Get UP&amp;GO Challenge",
       "description": "How many days can you get UP &amp;amp; GO? Join to unlock rewards &amp;amp; win.",
-      "time": "Nov 24, 2025 to Dec 21, 2025  —  21 days left",
+      "time": "Nov 24, 2025 to Dec 21, 2025  —  20 days left",
       "start_date": "Nov 24, 2025",
       "end_date": "Dec 21, 2025",
       "status": "running",
@@ -3746,7 +2485,7 @@
       ],
       "reward": "Complete the challenge for the chance to win exclusive prizes \\u0026 20% off the UP\\u0026GO Merch Store. T\\u0026Cs apply.",
       "club": "https://www.strava.com/clubs/1825874",
-      "participants": "34466"
+      "participants": "35244"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5495",
@@ -3774,7 +2513,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5496/5496-logo.png",
       "name": "Acorns: Grow Your Potential Challenge",
       "description": "Physical wellness 🤝 Financial wellness. Earn your $20 bonus investment.",
-      "time": "Nov 21, 2025 to Dec 18, 2025  —  18 days left",
+      "time": "Nov 21, 2025 to Dec 18, 2025  —  17 days left",
       "start_date": "Nov 21, 2025",
       "end_date": "Dec 18, 2025",
       "status": "running",
@@ -3816,7 +2555,7 @@
          "Workout"
       ],
       "reward": "Earn your $20 bonus investment when you sign up for Acorns.",
-      "participants": "36595"
+      "participants": "37354"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5497",
@@ -3824,10 +2563,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5497/5497-logo.png",
       "name": "December 400-Minute x Runna Challenge",
       "description": "Runna wants to see you log 400 minutes this month",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Complete 400 minutes of activity in a month – any sport counts.",
       "tags": [
@@ -3871,7 +2610,7 @@
       ],
       "reward": "Celebrate your finish with a digital badge for your Trophy Case, a  2-week free trial of Runna trial, AND entry into Manchester Marathon for you and a friend, expenses + full Runna race kit",
       "club": "https://www.strava.com/clubs/886292",
-      "participants": "479990"
+      "participants": "502871"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5498",
@@ -3879,10 +2618,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5498/5498-logo.png",
       "name": "December 5K Challenge",
       "description": "From first attempts to PRs, challenge yourself to run your best 5K.",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Complete a 5 km (3.1 mi) run.",
       "tags": [
@@ -3892,7 +2631,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "453253"
+      "participants": "475049"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5499",
@@ -3900,10 +2639,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5499/5499-logo.png",
       "name": "December Ride 200K Challenge",
       "description": "One month. 200 km. You in?",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Bike a total of 200 km (124.3 mi) in a month.",
       "tags": [
@@ -3913,7 +2652,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "191239"
+      "participants": "200447"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5500",
@@ -3921,10 +2660,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5500/5500-logo.png",
       "name": "December Half Marathon Challenge",
       "description": "Race day or training day – all that matters is that you run long.",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Complete a 13.1 mi (21.1 km) run.",
       "tags": [
@@ -3934,7 +2673,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "259052"
+      "participants": "270047"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5501",
@@ -3942,10 +2681,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5501/5501-logo.png",
       "name": "December Ride 800K Challenge",
       "description": "Take on our longest cycling distance challenge.",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Bike a total of 800 km (497.1 mi) in a month.",
       "tags": [
@@ -3955,7 +2694,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "120343"
+      "participants": "125385"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5502",
@@ -3963,10 +2702,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5502/5502-logo.png",
       "name": "December Cycling Elevation Challenge",
       "description": "Push yourself to the vertical limit with this quad-busting challenge.",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Climb a total of 7,000 m (22,965.9 ft) in a month.",
       "tags": [
@@ -3976,7 +2715,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "116065"
+      "participants": "120939"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5503",
@@ -3984,10 +2723,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5503/5503-logo.png",
       "name": "December Run 100K Challenge",
       "description": "One month. 100 kilometers. You in?",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Run a total of 100 km (62.1 mi) in a month.",
       "tags": [
@@ -3997,7 +2736,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "325216"
+      "participants": "340161"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5504",
@@ -4005,10 +2744,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5504/5504-logo.png",
       "name": "December Walk 50K Challenge",
       "description": "One foot, then the other. Push yourself to walk 50 km this month.",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Walk a total of 50 km (31.1 mi) in a month.",
       "tags": [
@@ -4019,7 +2758,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "218693"
+      "participants": "229268"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5505",
@@ -4027,10 +2766,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5505/5505-logo.png",
       "name": "December Run 300K Challenge",
       "description": "One month. 300 kilometers. You in?",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Run a total of 300 km (186.4 mi) in a month.",
       "tags": [
@@ -4040,7 +2779,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "153869"
+      "participants": "159828"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5506",
@@ -4048,10 +2787,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5506/5506-logo.png",
       "name": "December Elevation Challenge",
       "description": "Push yourself to the vertical limit with this quad-busting challenge.",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Climb a total of 2,000 m (6,561.7 ft) in a month.",
       "tags": [
@@ -4064,7 +2803,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "211862"
+      "participants": "221028"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5507",
@@ -4072,10 +2811,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5507/5507-logo.png",
       "name": "December Gran Fondo Challenge",
       "description": "Take on our longest one-shot cycling challenge.",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Complete a 100 km (62.1 mi) ride.",
       "tags": [
@@ -4085,7 +2824,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "139885"
+      "participants": "145912"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5508",
@@ -4093,10 +2832,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5508/5508-logo.png",
       "name": "December Ten Days Active Challenge",
       "description": "Can you set aside 10 minutes to be active for 10 days this month?",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Do 10 minutes of activity for 10 days this month.",
       "tags": [
@@ -4140,7 +2879,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "496013"
+      "participants": "519844"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5509",
@@ -4148,10 +2887,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5509/5509-logo.png",
       "name": "December 10K Challenge",
       "description": "Lace 'em up and show us what you've got.",
-      "time": "Dec 1, 2025 to Dec 31, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 31, 2025  —  30 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 31, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "31",
       "task": "Complete a 10 km (6.2 mi) run.",
       "tags": [
@@ -4161,7 +2900,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "424879"
+      "participants": "444099"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5510",
@@ -4169,10 +2908,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5510/5510-logo.png",
       "name": "Nuun Run Club Series: KIRH",
       "description": "Run this segment in your own backyard for 30% off Nuun Hydration.",
-      "time": "Dec 1, 2025 to Dec 14, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 14, 2025  —  13 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 14, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "14",
       "task": "Complete the segment",
       "tags": [
@@ -4182,7 +2921,7 @@
       ],
       "reward": "You’ll earn 30% off Nuun Hydration and an exclusive digital badge.",
       "club": "https://www.strava.com/clubs/169978",
-      "participants": "4146"
+      "participants": "4363"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5511",
@@ -4190,10 +2929,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5511/5511-logo.png",
       "name": "Nuun Run Club Series: 5Run2",
       "description": "Run this segment in your own backyard for 30% off Nuun Hydration.",
-      "time": "Dec 1, 2025 to Dec 14, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 14, 2025  —  13 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 14, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "14",
       "task": "Complete the segment",
       "tags": [
@@ -4203,7 +2942,7 @@
       ],
       "reward": "You’ll earn 30% off Nuun Hydration and an exclusive digital badge.",
       "club": "https://www.strava.com/clubs/169978",
-      "participants": "2528"
+      "participants": "2665"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5512",
@@ -4211,10 +2950,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5512/5512-logo.png",
       "name": "Nuun Run Club Series: Cooldown",
       "description": "Run this segment in your own backyard for 30% off Nuun Hydration.",
-      "time": "Dec 1, 2025 to Dec 14, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 14, 2025  —  13 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 14, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "14",
       "task": "Complete the segment",
       "tags": [
@@ -4224,7 +2963,7 @@
       ],
       "reward": "You’ll earn 30% off Nuun Hydration and an exclusive digital badge.",
       "club": "https://www.strava.com/clubs/169978",
-      "participants": "1482"
+      "participants": "1554"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5513",
@@ -4232,7 +2971,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5513/5513-logo.png",
       "name": "Nike Valencia 42K at Full Speed",
       "description": "Go all-out at km 15 and claim your spot in the worlds’ fastest marathon.",
-      "time": "Dec 7, 2025 to Dec 7, 2025  —  7 days until start",
+      "time": "Dec 7, 2025 to Dec 7, 2025  —  6 days until start",
       "start_date": "Dec 7, 2025",
       "end_date": "Dec 7, 2025",
       "status": "upcoming",
@@ -4243,7 +2982,62 @@
       ],
       "reward": "Complete the segment and unlock your elite-level access at Nike’s Area72:VLC.",
       "club": "https://www.strava.com/clubs/1136931",
-      "participants": "57"
+      "participants": "436"
+   },
+   {
+      "challenge_url": "https://www.strava.com/challenges/5514",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5514/5514-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5514/5514-logo.png",
+      "name": "Zalando 12 Days Of Movement: Your Pace, Your Way",
+      "description": "Log 12 days of activities for a chance to win 1 of 5 200€ Zalando Gift Card",
+      "time": "Dec 8, 2025 to Jan 7, 2026  —  7 days until start",
+      "start_date": "Dec 8, 2025",
+      "end_date": "Jan 7, 2026",
+      "status": "upcoming",
+      "challenge_days": "31",
+      "task": "12 days of movement (any activity)",
+      "tags": [
+         "Alpine Ski",
+         "Backcountry Ski",
+         "Canoe",
+         "Crossfit",
+         "E-Bike Ride",
+         "Elliptical",
+         "Football (Soccer)",
+         "Golf",
+         "Handcycle",
+         "Hike",
+         "Ice Skate",
+         "Inline Skate",
+         "Kayaking",
+         "Kitesurf",
+         "Nordic Ski",
+         "Ride",
+         "Rock Climb",
+         "Roller Ski",
+         "Rowing",
+         "Run",
+         "Sail",
+         "Skateboard",
+         "Snowboard",
+         "Snowshoe",
+         "Stair-Stepper",
+         "Stand Up Paddling",
+         "Surfing",
+         "Swim",
+         "Velomobile",
+         "Virtual Ride",
+         "Virtual Run",
+         "Walk",
+         "Weight Training",
+         "Wheelchair",
+         "Windsurf",
+         "Workout",
+         "Yoga"
+      ],
+      "reward": "Log 12 days of movement over 4 weeks for your chance to win 1 of 5 €200 Zalando Gift Cards. Terms apply.",
+      "club": "https://www.strava.com/clubs/914587",
+      "participants": "487"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5515",
@@ -4251,7 +3045,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5515/5515-logo.png",
       "name": "New Balance Run Your Way &amp; Unlock Rewards",
       "description": "Log 42.1km in 2 weeks for the chance to win 1 of 5 New Balance Running Kits. T&amp;amp;Cs apply.",
-      "time": "Dec 5, 2025 to Dec 18, 2025  —  5 days until start",
+      "time": "Dec 5, 2025 to Dec 18, 2025  —  4 days until start",
       "start_date": "Dec 5, 2025",
       "end_date": "Dec 18, 2025",
       "status": "upcoming",
@@ -4265,7 +3059,7 @@
       ],
       "reward": "Complete the challenge and sign up for the chance to win a head-to-toe New Balance Running kit. T\\u0026Cs apply.",
       "club": "https://www.strava.com/clubs/231696",
-      "participants": "24776"
+      "participants": "31456"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5516",
@@ -4273,10 +3067,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5516/5516-logo.png",
       "name": "Montane's 12 Days of Elevation",
       "description": "Climb 1,200m to win £1,000 Montane kit + a Much Better Adventures trip",
-      "time": "Dec 1, 2025 to Dec 12, 2025  —  1 day until start",
+      "time": "Dec 1, 2025 to Dec 12, 2025  —  11 days left",
       "start_date": "Dec 1, 2025",
       "end_date": "Dec 12, 2025",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "12",
       "task": "Hit 1,200m of elevation",
       "tags": [
@@ -4291,7 +3085,57 @@
       ],
       "reward": "Complete the Challenge for your chance to win Montane kit, a Much better Adventures holiday and more",
       "club": "https://www.strava.com/clubs/695227",
-      "participants": "19575"
+      "participants": "20599"
+   },
+   {
+      "challenge_url": "https://www.strava.com/challenges/5517",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5517/5517-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5517/5517-logo.png",
+      "name": "The Art of Endurance: Vienna’s 15K",
+      "description": "Are you fit for Vienna's art? Complete 15K for the chance to win a trip.",
+      "time": "Dec 8, 2025 to Dec 29, 2025  —  7 days until start",
+      "start_date": "Dec 8, 2025",
+      "end_date": "Dec 29, 2025",
+      "status": "upcoming",
+      "challenge_days": "22",
+      "task": "Complete 15K for a chance to win a trip.",
+      "tags": [
+         "Alpine Ski",
+         "Backcountry Ski",
+         "Canoe",
+         "Crossfit",
+         "E-Bike Ride",
+         "Elliptical",
+         "Football (Soccer)",
+         "Golf",
+         "Handcycle",
+         "Hike",
+         "Ice Skate",
+         "Inline Skate",
+         "Kayaking",
+         "Kitesurf",
+         "Nordic Ski",
+         "Ride",
+         "Roller Ski",
+         "Rowing",
+         "Run",
+         "Sail",
+         "Skateboard",
+         "Snowboard",
+         "Snowshoe",
+         "Stand Up Paddling",
+         "Surfing",
+         "Swim",
+         "Velomobile",
+         "Virtual Ride",
+         "Virtual Run",
+         "Walk",
+         "Wheelchair",
+         "Windsurf",
+         "Workout"
+      ],
+      "reward": "Finishers are in with a chance to win a trip to Vienna. Boost your odds by creating Vienna-inspired Strava Art!",
+      "participants": "125"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5518",
@@ -4299,7 +3143,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5518/5518-logo.png",
       "name": "ROKA Winter Warrior 250",
       "description": "ROKA: Earn a $50 eyewear voucher and our Winter Warrior badge.",
-      "time": "Dec 7, 2025 to Dec 20, 2025  —  7 days until start",
+      "time": "Dec 7, 2025 to Dec 20, 2025  —  6 days until start",
       "start_date": "Dec 7, 2025",
       "end_date": "Dec 20, 2025",
       "status": "upcoming",
@@ -4346,7 +3190,7 @@
       ],
       "reward": "Log 250 minutes of activity in 2 weeks to earn a $50 voucher off carts of $150 or more at ROKA.com.",
       "club": "https://www.strava.com/clubs/150610",
-      "participants": "4959"
+      "participants": "9364"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5530",
@@ -4354,7 +3198,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5530/5530-logo.png",
       "name": "adidas Run 5K Challenge",
       "description": "Run 5k with adidas and get your digital trophy",
-      "time": "Dec 6, 2025 to Dec 15, 2025  —  6 days until start",
+      "time": "Dec 6, 2025 to Dec 15, 2025  —  5 days until start",
       "start_date": "Dec 6, 2025",
       "end_date": "Dec 15, 2025",
       "status": "upcoming",
@@ -4368,6 +3212,6 @@
          "Wheelchair"
       ],
       "reward": "Log a 5K in one go to unlock your exclusive digital trophy",
-      "participants": "5762"
+      "participants": "6465"
    }
 ]
