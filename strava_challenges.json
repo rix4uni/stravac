@@ -79,7 +79,7 @@
       ],
       "reward": "Complete the challenge for a chance to win a pair of fresh tires + 10% off Continental products with BIKE24",
       "club": "https://www.strava.com/clubs/747888",
-      "participants": "202197"
+      "participants": "202196"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5401",
@@ -195,7 +195,7 @@
       ],
       "reward": "Complete to earn a 30%* discount, plus your Castelli 'Never Stop Riding' digital badge",
       "club": "https://www.strava.com/clubs/66959",
-      "participants": "340921"
+      "participants": "340920"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5404",
@@ -288,7 +288,7 @@
       ],
       "reward": "Rack up 300 miles - running or walking - to earn $25 off your next HOKA footwear purchase. (U.S. only)",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "164316"
+      "participants": "164404"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5408",
@@ -479,7 +479,56 @@
       "reward": "The first 675 athletes to complete 675 Recovery Tagged minutes will receive a code for Strava Premium!",
       "participants": "106220"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5416",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5416/5416-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5416/5416-logo.png",
+      "name": "Le Col Cold Paradise Challenge",
+      "description": "Record 200 minutes of activity for a chance to win a £50/$60/55€ Le Col reward",
+      "task": "Record 200 minutes of activity",
+      "tags": [
+         "Alpine Ski",
+         "Backcountry Ski",
+         "Canoe",
+         "Crossfit",
+         "E-Bike Ride",
+         "Elliptical",
+         "Football (Soccer)",
+         "Golf",
+         "Handcycle",
+         "Hike",
+         "Ice Skate",
+         "Inline Skate",
+         "Kayaking",
+         "Kitesurf",
+         "Nordic Ski",
+         "Ride",
+         "Rock Climb",
+         "Roller Ski",
+         "Rowing",
+         "Run",
+         "Sail",
+         "Skateboard",
+         "Snowboard",
+         "Snowshoe",
+         "Stair-Stepper",
+         "Stand Up Paddling",
+         "Surfing",
+         "Swim",
+         "Velomobile",
+         "Virtual Ride",
+         "Virtual Run",
+         "Walk",
+         "Weight Training",
+         "Wheelchair",
+         "Windsurf",
+         "Workout",
+         "Yoga"
+      ],
+      "reward": "Record 200 minutes of activity for a £50 Le Col reward \\u0026 a chance to win 1 of 3 £300 vouchers to use at LeCol.cc",
+      "club": "https://www.strava.com/clubs/88156",
+      "participants": "590520"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5417",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5417/5417-cover.png",
@@ -741,7 +790,7 @@
       ],
       "reward": "Challenge Finishers get 15% off Altra at Fleet Feet, a digital badge, and the chance to win an epic prize.",
       "club": "https://www.strava.com/clubs/96511",
-      "participants": "189146"
+      "participants": "189145"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5428",
@@ -758,7 +807,7 @@
          "Wheelchair"
       ],
       "reward": "Finishers will get to enter the draw for a chance to win a TAG Heuer Connected Calibre E5 and a strap. T\\u0026C apply.",
-      "participants": "420623"
+      "participants": "420621"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5429",
@@ -984,7 +1033,7 @@
       ],
       "reward": "Earn up to $350 off at eightsleep.com, and enter for the chance to win a Pod 5 Cover + Two Eight Sleep Pillows",
       "club": "https://www.strava.com/clubs/1071334",
-      "participants": "296693"
+      "participants": "296692"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5437",
@@ -1188,7 +1237,7 @@
       ],
       "reward": "Challenge finishers could win $2,500 cash or one of 100 pairs of the Adrenaline GTS 25. T\\u0026Cs apply.",
       "club": "https://www.strava.com/clubs/81417",
-      "participants": "231442"
+      "participants": "231441"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5444",
@@ -1288,7 +1337,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "772837"
+      "participants": "775370"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5446",
@@ -1420,7 +1469,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/512841",
-      "participants": "1308632"
+      "participants": "1308629"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5451",
@@ -1496,7 +1545,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "256248"
+      "participants": "256247"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5456",
@@ -1512,7 +1561,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "254362"
+      "participants": "254361"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5457",
@@ -1596,7 +1645,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "308516"
+      "participants": "308515"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5462",
@@ -1960,7 +2009,7 @@
       ],
       "reward": "Log 20 active days for the chance to win exclusive prizes, including entry to the TCS New York City Marathon.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "148"
+      "participants": "156"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5474",
@@ -2059,7 +2108,7 @@
       ],
       "reward": "Zdobądź odznakę, Defendera na aktywny weekend, pas biegowy Salomon, pakiet kolekcjonerski i skrzyyydła!",
       "club": "https://www.strava.com/clubs/788391",
-      "participants": "24579"
+      "participants": "24578"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5482",
@@ -2287,7 +2336,7 @@
       ],
       "reward": "Earn the Wishbone Challenge badge. Contribute to Think Turkey's $20,000 donation to fight food insecurity.",
       "club": "https://www.strava.com/clubs/1539924",
-      "participants": "42566"
+      "participants": "42606"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5492",
@@ -2386,7 +2435,7 @@
       ],
       "reward": "Complete the challenge for the chance to win exclusive prizes \\u0026 20% off the UP\\u0026GO Merch Store. T\\u0026Cs apply.",
       "club": "https://www.strava.com/clubs/1825874",
-      "participants": "50869"
+      "participants": "50865"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5495",
@@ -2406,7 +2455,7 @@
       ],
       "reward": "Finish the challenge to earn a chance to win a cycling trip to Croatia and get a discount on an Explore trip.",
       "club": "https://www.strava.com/clubs/1732562",
-      "participants": "25365"
+      "participants": "25364"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5496",
@@ -2451,7 +2500,7 @@
          "Workout"
       ],
       "reward": "Earn your $20 bonus investment when you sign up for Acorns.",
-      "participants": "54467"
+      "participants": "54466"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5497",
@@ -2506,7 +2555,7 @@
       ],
       "reward": "Celebrate your finish with a digital badge for your Trophy Case, a  2-week free trial of Runna trial, AND entry into the giveaway for Manchester Marathon for you and a friend, expenses + full Runna race kit",
       "club": "https://www.strava.com/clubs/886292",
-      "participants": "1015415"
+      "participants": "1019651"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5498",
@@ -2527,7 +2576,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1059394"
+      "participants": "1063865"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5499",
@@ -2548,7 +2597,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "390664"
+      "participants": "392118"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5500",
@@ -2569,7 +2618,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "488938"
+      "participants": "490380"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5501",
@@ -2590,7 +2639,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "220490"
+      "participants": "221304"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5502",
@@ -2611,7 +2660,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "215492"
+      "participants": "216278"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5503",
@@ -2632,7 +2681,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "626958"
+      "participants": "628851"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5504",
@@ -2654,7 +2703,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "442310"
+      "participants": "443764"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5505",
@@ -2675,7 +2724,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "276307"
+      "participants": "277149"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5506",
@@ -2699,7 +2748,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "406924"
+      "participants": "408381"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5507",
@@ -2720,7 +2769,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "262876"
+      "participants": "263826"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5508",
@@ -2775,7 +2824,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "1056632"
+      "participants": "1060198"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5509",
@@ -2796,7 +2845,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "882771"
+      "participants": "885710"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5510",
@@ -2913,7 +2962,7 @@
       ],
       "reward": "Log 12 days of movement over 4 weeks for your chance to win 1 of 5 €200 Zalando Gift Cards. Terms apply.",
       "club": "https://www.strava.com/clubs/914587",
-      "participants": "327568"
+      "participants": "330471"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5515",
@@ -3001,7 +3050,7 @@
          "Workout"
       ],
       "reward": "Finishers are in with a chance to win a trip to Vienna. Boost your odds by creating Vienna-inspired Strava Art!",
-      "participants": "64498"
+      "participants": "65183"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5518",
@@ -3051,7 +3100,7 @@
       ],
       "reward": "Log 250 minutes of activity in 2 weeks to earn a $50 voucher off carts of $150 or more at ROKA.com.",
       "club": "https://www.strava.com/clubs/150610",
-      "participants": "109091"
+      "participants": "109083"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5519",
@@ -3072,7 +3121,7 @@
       ],
       "reward": "Run 5K and earn a digital finisher badge.",
       "club": "https://www.strava.com/clubs/108605",
-      "participants": "15105"
+      "participants": "15203"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5520",
@@ -3093,7 +3142,7 @@
       ],
       "reward": "Run 13.1 miles and earn a digital finisher badge.",
       "club": "https://www.strava.com/clubs/108605",
-      "participants": "4295"
+      "participants": "4313"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5530",
@@ -3132,7 +3181,7 @@
       ],
       "reward": "Complete the challenge to win a Rapha prize pack, earn a digital roundel, and visit a store for a free woven patch",
       "club": "https://www.strava.com/clubs/234087",
-      "participants": "164169"
+      "participants": "166580"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5532",
@@ -3187,7 +3236,7 @@
       ],
       "reward": "Earn your exclusive HOKA PB Protocol: Take Flight digital badge \\u0026 the chance to win a YEARS' SUPPLY of HOKA.",
       "club": "https://www.strava.com/clubs/1035537",
-      "participants": "1000"
+      "participants": "10760"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5533",
@@ -3208,7 +3257,7 @@
       ],
       "reward": "Ride 1000 km and earn a 20% off reward and a digital badge. T\\u0026C's apply.",
       "club": "https://www.strava.com/clubs/205018",
-      "participants": "19659"
+      "participants": "23422"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5535",
@@ -3263,7 +3312,7 @@
       ],
       "reward": "Log 100 minutes of outdoor activity and you can win holidays in Slovenia 💚",
       "club": "https://www.strava.com/clubs/1057996",
-      "participants": "101918"
+      "participants": "103162"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5536",
@@ -3318,7 +3367,7 @@
       ],
       "reward": "Log 3 active days in 1 week for a chance to win 1 of 10 GOREWEAR jackets",
       "club": "https://www.strava.com/clubs/241135",
-      "participants": "105312"
+      "participants": "110088"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5537",
@@ -3373,7 +3422,7 @@
       ],
       "reward": "Unlock Your Free Challenge Bottle + Get 45% Off Hydration",
       "club": "https://www.strava.com/clubs/280372",
-      "participants": "67859"
+      "participants": "68454"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5539",
@@ -3428,7 +3477,7 @@
       ],
       "reward": "All finishers get 20% off the HUAWEI FreeClip 2. UK athletes also have a chance to win 1 of 10 pairs.",
       "club": "https://www.strava.com/clubs/1131952",
-      "participants": "118676"
+      "participants": "121138"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5551",
@@ -3483,7 +3532,7 @@
       ],
       "reward": "Get an exclusive discount on wholesome, home-cooked dinners from HelloFresh when you complete the challenge.",
       "club": "https://www.strava.com/clubs/290924",
-      "participants": "5663"
+      "participants": "24429"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5561",
@@ -3537,7 +3586,7 @@
          "Yoga"
       ],
       "reward": "Take on the challenge and unlock vouchers on personalised heath support, supplements and diagnostics",
-      "participants": "315"
+      "participants": "4104"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5577",
@@ -3592,7 +3641,7 @@
       ],
       "reward": "Complete the challenge to earn a 25% discount at luckysaint.co, the chance to win a weekend stay \\u0026 prizes worth £1000",
       "club": "https://www.strava.com/clubs/853067",
-      "participants": "318"
+      "participants": "3996"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5578",
@@ -3615,6 +3664,6 @@
       ],
       "reward": "Unlock an exclusive Kiprun digital badge.",
       "club": "https://www.strava.com/clubs/341003",
-      "participants": "34309"
+      "participants": "37054"
    }
 ]
