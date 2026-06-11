@@ -14,7 +14,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/81417",
-      "participants": "1367444"
+      "participants": "1367440"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5875",
@@ -47,7 +47,7 @@
       ],
       "reward": "Finish the challenge for your chance to win a trip to France and meet the Red Bull–BORA–hansgrohe pro team.",
       "club": "https://www.strava.com/clubs/509226",
-      "participants": "45028"
+      "participants": "45027"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5877",
@@ -100,7 +100,24 @@
       "participants": "92255"
    },
    {
-      "challenge_url": "https://www.strava.com/challenges/5878"
+      "challenge_url": "https://www.strava.com/challenges/5878",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5878/5878-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5878/5878-logo.png",
+      "name": "DJI Capture 10K Run",
+      "description": "Earn 15% off DJI products and enter to win a DJI Mini 4 Pro!",
+      "task": "Complete a 10km run",
+      "tags": [
+         "Handcycle",
+         "Hike",
+         "Run",
+         "Trail Run",
+         "Virtual Run",
+         "Walk",
+         "Wheelchair"
+      ],
+      "reward": "Run 10 km for 15% off DJI Osmo combos plus a chance to win a DJI Mini 4 Pro and more!",
+      "club": "https://www.strava.com/clubs/2081901",
+      "participants": "310689"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5879",
@@ -188,16 +205,44 @@
       "participants": "51078"
    },
    {
-      "challenge_url": "https://www.strava.com/challenges/5881"
+      "challenge_url": "https://www.strava.com/challenges/5881",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-logo.png",
+      "name": "Amazon Health AI - Central Park - UWS Segment",
+      "description": "Complete Central Park - UWS Segment",
+      "task": "Complete the Central Park - UWS Segment Challenge.",
+      "tags": [
+         "Run"
+      ],
+      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
+      "participants": "57110"
    },
-   {},
+   {
+      "challenge_url": "https://www.strava.com/challenges/5882",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5882/5882-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5882/5882-logo.png",
+      "name": "Unfold 100k with LOWA",
+      "description": "Log 100k and win a trip to the Madrisa Trail Run in Switzerland",
+      "task": "Cover 100k of distance in a month",
+      "tags": [
+         "Hike",
+         "Run",
+         "Trail Run",
+         "Virtual Run",
+         "Walk",
+         "Wheelchair"
+      ],
+      "reward": "Win a trip to the August 2026 Madrisa Trail Run in Switzerland or a pair of LOWA trail running shoes.",
+      "club": "https://www.strava.com/clubs/1998156",
+      "participants": "249720"
+   },
    {
       "challenge_url": "https://www.strava.com/challenges/5883",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5883/5883-cover.png",
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5883/5883-logo.png",
       "name": "The Audible 6 Hour Movement Challenge",
       "description": "Move for 6 hours and 5 minutes to earn a 2-month free Audible trial.",
-      "time": "Apr 24, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Apr 24, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Apr 24, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -239,7 +284,7 @@
          "Yoga"
       ],
       "reward": "Complete this challenge and get a 2-month free Audible trial to stay entertained on your adventures.",
-      "participants": "123424"
+      "participants": "123567"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5884",
@@ -310,7 +355,17 @@
       "participants": "65544"
    },
    {
-      "challenge_url": "https://www.strava.com/challenges/5886"
+      "challenge_url": "https://www.strava.com/challenges/5886",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5886/5886-logo.png",
+      "name": "Amazon Health AI - Central Park - UES Segment",
+      "description": "Complete Central Park - UES Segment",
+      "task": "Complete the Central Park - UES Segment Challenge.",
+      "tags": [
+         "Run"
+      ],
+      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
+      "participants": "61721"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5887",
@@ -417,7 +472,17 @@
       "participants": "7945"
    },
    {
-      "challenge_url": "https://www.strava.com/challenges/5895"
+      "challenge_url": "https://www.strava.com/challenges/5895",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5895/5895-logo.png",
+      "name": "Amazon Health AI - DC Segment",
+      "description": " Complete the DC Segment",
+      "task": "Complete the DC Segment Challenge.",
+      "tags": [
+         "Run"
+      ],
+      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
+      "participants": "3190"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5896",
@@ -543,7 +608,17 @@
       "participants": "116912"
    },
    {
-      "challenge_url": "https://www.strava.com/challenges/5906"
+      "challenge_url": "https://www.strava.com/challenges/5906",
+      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
+      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5906/5906-logo.png",
+      "name": "Amazon Health AI - Santa Monica Segment",
+      "description": "Complete Santa Monica Segment",
+      "task": "Complete the Santa Monica Segment Challenge.",
+      "tags": [
+         "Run"
+      ],
+      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
+      "participants": "9228"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5907",
@@ -862,7 +937,7 @@
       ],
       "reward": "Complete 150 minutes to unlock a unique Strava Badge, entry to win exclusive Bandit prizes and up to 20% off Bandit",
       "club": "https://www.strava.com/clubs/1020236",
-      "participants": "657480"
+      "participants": "657479"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5923",
@@ -937,7 +1012,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5924/5924-logo.png",
       "name": "Fidelity Canada 300-Minute June Challenge",
       "description": "Any activity. Any pace. Every minute counts. Living the Dream—through consistent performance.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -1002,7 +1077,7 @@
       ],
       "reward": "Hit 300 minutes. Earn your June finisher’s badge.",
       "club": "https://www.strava.com/clubs/2075732",
-      "participants": "42274"
+      "participants": "42611"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5925",
@@ -1296,7 +1371,7 @@
       ],
       "reward": "Run 10K and get 50% OFF the HUAWEI WATCH GT Runner 2, HUAWEI WATCH FIT 5 Series + Strava Premium! Join now!",
       "club": "https://www.strava.com/clubs/2000226",
-      "participants": "14424"
+      "participants": "14423"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5931",
@@ -1401,7 +1476,7 @@
       ],
       "reward": "Complete the challenge to unlock a 30% discount code for castelli-cycling.com and the 'Once Upon a Ride' badge",
       "club": "https://www.strava.com/clubs/66959",
-      "participants": "347301"
+      "participants": "347299"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5935",
@@ -1535,7 +1610,7 @@
       ],
       "reward": "Earn a finisher badge + unlock 20% off select Strava merch",
       "club": "https://www.strava.com/clubs/1868907",
-      "participants": "87625"
+      "participants": "87624"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5937",
@@ -1792,7 +1867,7 @@
          "Run"
       ],
       "reward": "Run the loop. Earn points. Boost your chances.",
-      "participants": "7269"
+      "participants": "7268"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5949",
@@ -1860,7 +1935,7 @@
       ],
       "reward": "Unlock a MAAP code worth $75 AUD / $60 USD / €50 / £50 by completing 6 hours of any activity.",
       "club": "https://www.strava.com/clubs/293623",
-      "participants": "292517"
+      "participants": "292516"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5950",
@@ -1901,7 +1976,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5952/5952-logo.png",
       "name": "NIKE GINZA MILE CHALLENGE",
       "description": "Break your 1MILE PB and earn an exclusive digital badge.",
-      "time": "May 16, 2026 to Jun 12, 2026  —  2 days left",
+      "time": "May 16, 2026 to Jun 12, 2026  —  1 day left",
       "start_date": "May 16, 2026",
       "end_date": "Jun 12, 2026",
       "status": "running",
@@ -1914,7 +1989,7 @@
       ],
       "reward": "Those who complete the challenge will be awarded an exclusive digital badge.",
       "club": "https://www.strava.com/clubs/1136931",
-      "participants": "13074"
+      "participants": "13129"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5953",
@@ -1934,7 +2009,7 @@
       ],
       "reward": "Enter to win an EF LIMITED-EDITION Kit, get 15% off ASSOS online or in-store, and earn the Challenge badge",
       "club": "https://www.strava.com/clubs/99524",
-      "participants": "267112"
+      "participants": "267110"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5954",
@@ -1942,7 +2017,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5954/5954-logo.png",
       "name": "May 100-Minute x Forkful Challenge",
       "description": "Log 100 minutes this May to unlock 50% off Forkful",
-      "time": "May 15, 2026 to Jun 15, 2026  —  5 days left",
+      "time": "May 15, 2026 to Jun 15, 2026  —  4 days left",
       "start_date": "May 15, 2026",
       "end_date": "Jun 15, 2026",
       "status": "running",
@@ -2006,7 +2081,7 @@
          "Yoga"
       ],
       "reward": "Complete the challenge to unlock 50% off your first box and 10% off your next 3 weeks.",
-      "participants": "103374"
+      "participants": "103773"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5955",
@@ -2127,10 +2202,10 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5958/5958-logo.png",
       "name": "INVICTUS NO-LIMIT by Rabanne",
       "description": "Defy limits &amp;amp; complete 16 days. Unleash your inner champion.",
-      "time": "Jun 11, 2026 to Jul 19, 2026  —  1 day until start",
+      "time": "Jun 11, 2026 to Jul 19, 2026  —  38 days left",
       "start_date": "Jun 11, 2026",
       "end_date": "Jul 19, 2026",
-      "status": "upcoming",
+      "status": "running",
       "challenge_days": "39",
       "task": "Complete 16 active days",
       "tags": [
@@ -2191,7 +2266,7 @@
          "Yoga"
       ],
       "reward": "Complete the challenge for a chance to win an exclusive INVICTUS sport kit",
-      "participants": "144736"
+      "participants": "146507"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5959",
@@ -2199,7 +2274,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5959/5959-logo.png",
       "name": "Performance Nutrition with Factor_",
       "description": "Move 200 minutes to unlock a discount on nutritious, chef-prepared meals.",
-      "time": "May 15, 2026 to Jun 14, 2026  —  4 days left",
+      "time": "May 15, 2026 to Jun 14, 2026  —  3 days left",
       "start_date": "May 15, 2026",
       "end_date": "Jun 14, 2026",
       "status": "running",
@@ -2264,7 +2339,7 @@
       ],
       "reward": "Complete 200 active minutes to earn a discount on freshly-prepared Factor meals.",
       "club": "https://www.strava.com/clubs/290924",
-      "participants": "234089"
+      "participants": "234935"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5960",
@@ -2310,7 +2385,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5962/5962-logo.png",
       "name": "Insta360 x UAE Team: Ride Like a Champion",
       "description": "Win the new GO Ultra Pogačar Edition—signed by the champion.",
-      "time": "Jun 10, 2026 to Jun 23, 2026  —  13 days left",
+      "time": "Jun 10, 2026 to Jun 23, 2026  —  12 days left",
       "start_date": "Jun 10, 2026",
       "end_date": "Jun 23, 2026",
       "status": "running",
@@ -2375,7 +2450,7 @@
       ],
       "reward": "Log 100 minutes to win a signed GO Ultra Pogačar Edition and unlock exclusive rewards.",
       "club": "https://www.strava.com/clubs/1174077",
-      "participants": "170547"
+      "participants": "173004"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5963",
@@ -2383,7 +2458,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5963/5963-logo.png",
       "name": "Ceres Lager | Di corsa neanche al bar #1",
       "description": "The challenge where the goal is to go from one bar to another, with no rush.",
-      "time": "May 15, 2026 to Jun 15, 2026  —  5 days left",
+      "time": "May 15, 2026 to Jun 15, 2026  —  4 days left",
       "start_date": "May 15, 2026",
       "end_date": "Jun 15, 2026",
       "status": "running",
@@ -2393,7 +2468,7 @@
          "Run"
       ],
       "reward": "Complete the segment to earn yourself an exclusive digital badge",
-      "participants": "4937"
+      "participants": "4946"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5964",
@@ -2401,7 +2476,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5964/5964-logo.png",
       "name": "Ceres Lager | Di corsa neanche al bar #2",
       "description": "The challenge where the goal is to go from one bar to another, with no rush.",
-      "time": "May 15, 2026 to Jun 15, 2026  —  5 days left",
+      "time": "May 15, 2026 to Jun 15, 2026  —  4 days left",
       "start_date": "May 15, 2026",
       "end_date": "Jun 15, 2026",
       "status": "running",
@@ -2411,7 +2486,7 @@
          "Run"
       ],
       "reward": "Complete the segment to earn yourself an exclusive digital badge",
-      "participants": "4668"
+      "participants": "4674"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5965",
@@ -2419,7 +2494,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5965/5965-logo.png",
       "name": "Ceres Lager | Di corsa neanche al bar #3",
       "description": "The challenge where the goal is to go from one bar to another, with no rush.",
-      "time": "May 15, 2026 to Jun 15, 2026  —  5 days left",
+      "time": "May 15, 2026 to Jun 15, 2026  —  4 days left",
       "start_date": "May 15, 2026",
       "end_date": "Jun 15, 2026",
       "status": "running",
@@ -2429,7 +2504,7 @@
          "Run"
       ],
       "reward": "Complete the segment to earn yourself an exclusive digital badge",
-      "participants": "4846"
+      "participants": "4854"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5966",
@@ -2437,7 +2512,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5966/5966-logo.png",
       "name": "Ceres Lager | Di corsa neanche al bar #4",
       "description": "The challenge where the goal is to go from one bar to another, with no rush.",
-      "time": "May 15, 2026 to Jun 15, 2026  —  5 days left",
+      "time": "May 15, 2026 to Jun 15, 2026  —  4 days left",
       "start_date": "May 15, 2026",
       "end_date": "Jun 15, 2026",
       "status": "running",
@@ -2447,7 +2522,7 @@
          "Run"
       ],
       "reward": "Complete the segment to earn yourself an exclusive digital badge",
-      "participants": "4607"
+      "participants": "4614"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5967",
@@ -2455,7 +2530,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5967/5967-logo.png",
       "name": "Celsius x Aston Martin F1® Team Run Challenge - Montreal",
       "description": "Run the most Montreal segments for a chance to win Aston Martin F1® Team swag and 1YR of CELSIUS.",
-      "time": "May 15, 2026 to Jun 12, 2026  —  2 days left",
+      "time": "May 15, 2026 to Jun 12, 2026  —  1 day left",
       "start_date": "May 15, 2026",
       "end_date": "Jun 12, 2026",
       "status": "running",
@@ -2467,7 +2542,7 @@
       ],
       "reward": "Complete the segment the most times for a chance to win 1 year’s supply of CELSIUS and exclusive co-branded swag.",
       "club": "https://www.strava.com/clubs/1944736",
-      "participants": "4024"
+      "participants": "4046"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5968",
@@ -2564,7 +2639,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5970/5970-logo.png",
       "name": "Powerade: Pause is Power - Defy Your Limits",
       "description": "Run 60km at your own pace and win the Powerade Pause is Power digital badge",
-      "time": "May 25, 2026 to Jun 14, 2026  —  4 days left",
+      "time": "May 25, 2026 to Jun 14, 2026  —  3 days left",
       "start_date": "May 25, 2026",
       "end_date": "Jun 14, 2026",
       "status": "running",
@@ -2579,7 +2654,7 @@
          "Wheelchair"
       ],
       "reward": "Complete the challenge to get your \\&quot;Pause Is Power\\&quot; digital badge",
-      "participants": "35069"
+      "participants": "35180"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5971",
@@ -2614,7 +2689,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5973/5973-logo.png",
       "name": "June Ten Days Active Challenge",
       "description": "Can you get 10 days in a row?",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2679,7 +2754,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "960193"
+      "participants": "966749"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5974",
@@ -2701,7 +2776,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5975/5975-logo.png",
       "name": "June 180 Minute Sweat Challenge",
       "description": "Push it! Join our longest single-activity challenge.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2766,7 +2841,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "700213"
+      "participants": "704072"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5977",
@@ -2791,7 +2866,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5978/5978-logo.png",
       "name": "June Ride 800K Challenge",
       "description": "One month. 800 km. You in?",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2806,7 +2881,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "270857"
+      "participants": "272143"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5979",
@@ -2814,7 +2889,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5979/5979-logo.png",
       "name": "June Gran Fondo Challenge",
       "description": "100 kms. One ride. Let's go!",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2829,7 +2904,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "315602"
+      "participants": "316919"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5980",
@@ -2837,7 +2912,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5980/5980-logo.png",
       "name": "June Cycling Elevation Challenge",
       "description": "Go vertical",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2852,7 +2927,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "252765"
+      "participants": "253974"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5981",
@@ -2860,7 +2935,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5981/5981-logo.png",
       "name": "June Run 100K Challenge",
       "description": "One month. 100 kilometers. You in?",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2874,7 +2949,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "572878"
+      "participants": "576000"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5982",
@@ -2882,7 +2957,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5982/5982-logo.png",
       "name": "June Elevation Challenge",
       "description": "We're going up, up, up!",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2899,7 +2974,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "410664"
+      "participants": "413025"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5983",
@@ -2907,7 +2982,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5983/5983-logo.png",
       "name": "June Half Marathon Challenge",
       "description": "Ready for a long run?",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2921,7 +2996,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "448121"
+      "participants": "450392"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5984",
@@ -2929,7 +3004,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5984/5984-logo.png",
       "name": "June 10K Challenge",
       "description": "Lace 'em up, run 'em out",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2943,7 +3018,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "770336"
+      "participants": "775151"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5985",
@@ -2951,7 +3026,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5985/5985-logo.png",
       "name": "June Walk 100K Steps Challenge",
       "description": "One foot, then the other. Push yourself to walk 100k steps this month.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2963,7 +3038,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "452437"
+      "participants": "455358"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5986",
@@ -2971,7 +3046,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5986/5986-logo.png",
       "name": "June 20 Hour Swim Challenge",
       "description": "Our longest swimming challenge. Are you ready?",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -2982,7 +3057,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "104785"
+      "participants": "105272"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5987",
@@ -2990,7 +3065,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5987/5987-logo.png",
       "name": "June Flexibility Challenge",
       "description": "Inhale. Exhale. Flow. Make time for yourself to stretch this month.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -3021,7 +3096,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "216255"
+      "participants": "217497"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5988",
@@ -3029,7 +3104,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5988/5988-logo.png",
       "name": "June 400-minute x Runna Challenge",
       "description": "Log 400 mins of movement. Unlock 2 weeks of Runna + a chance to win the Ultimate Runners Giveaway.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -3094,7 +3169,7 @@
       ],
       "reward": "Earn your badge, unlock 2 weeks of Runna, and enter to win the Ultimate Runner Giveaway.",
       "club": "https://www.strava.com/clubs/886292",
-      "participants": "945101"
+      "participants": "950357"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5989",
@@ -3102,7 +3177,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5989/5989-logo.png",
       "name": "June 5K x Brooks Challenge",
       "description": "From first attempts to PRs, chase your best 5K run with Brooks.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -3116,7 +3191,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/512841",
-      "participants": "949016"
+      "participants": "955017"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5991",
@@ -3124,7 +3199,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5991/5991-logo.png",
       "name": "ButcherBox: Fuel Your Fire Challenge",
       "description": "Log 200 minutes. Unlock free ribeyes for a year + $100 off. ",
-      "time": "May 24, 2026 to Jun 20, 2026  —  10 days left",
+      "time": "May 24, 2026 to Jun 20, 2026  —  9 days left",
       "start_date": "May 24, 2026",
       "end_date": "Jun 20, 2026",
       "status": "running",
@@ -3189,7 +3264,7 @@
       ],
       "reward": "Finishers unlock free ribeyes for a year + $100 off subscription, plus a shot at $500. T\\u0026Cs apply.",
       "club": "https://www.strava.com/clubs/2046838",
-      "participants": "98196"
+      "participants": "98652"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5992",
@@ -3324,7 +3399,7 @@
          "Yoga"
       ],
       "reward": "Get moving \\u0026 receive 1 free Pro Plan product + your unique Pro Plan badge",
-      "participants": "28903"
+      "participants": "28902"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5994",
@@ -3332,7 +3407,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5994/5994-logo.png",
       "name": "Get active &amp; refresh: JEVER FUN 0.0% Challenge",
       "description": "0.0% excuses, 100% FUN: Stay active, refresh, and treat yourself with JEVER FUN 0.0%.",
-      "time": "May 25, 2026 to Jul 19, 2026  —  39 days left",
+      "time": "May 25, 2026 to Jul 19, 2026  —  38 days left",
       "start_date": "May 25, 2026",
       "end_date": "Jul 19, 2026",
       "status": "running",
@@ -3378,7 +3453,7 @@
          "Yoga"
       ],
       "reward": "Get 50% cashback on a six-pack of JEVER FUN 0.0% and a chance to win a sports gear package.",
-      "participants": "57420"
+      "participants": "57623"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5995",
@@ -3386,7 +3461,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5995/5995-logo.png",
       "name": "T-Mobile | National Park Foundation Challenge",
       "description": "Free to wander—from parking lot to peak.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -3397,7 +3472,7 @@
          "Walk"
       ],
       "reward": "Challenge finishers earn the T-Mobile | National Park Foundation ‘Free to Wander’ digital badge",
-      "participants": "39232"
+      "participants": "40479"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5996",
@@ -3428,7 +3503,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5997/5997-logo.png",
       "name": "Smoothie King Hydration Challenge",
       "description": "Move. Hydrate. Earn a BOGO Smoothie",
-      "time": "May 18, 2026 to Jun 15, 2026  —  5 days left",
+      "time": "May 18, 2026 to Jun 15, 2026  —  4 days left",
       "start_date": "May 18, 2026",
       "end_date": "Jun 15, 2026",
       "status": "running",
@@ -3492,7 +3567,7 @@
          "Yoga"
       ],
       "reward": "Earn a BOGO smoothie! Complete the challenge, submit the form, and claim your exclusive promo code.",
-      "participants": "129485"
+      "participants": "130437"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5998",
@@ -3500,7 +3575,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5998/5998-logo.png",
       "name": "Starbucks® Coffee &amp; Protein Level Up",
       "description": "Walk or run at least 22 minutes a day for any 10 days or more for a chance to win.",
-      "time": "May 21, 2026 to Jun 18, 2026  —  8 days left",
+      "time": "May 21, 2026 to Jun 18, 2026  —  7 days left",
       "start_date": "May 21, 2026",
       "end_date": "Jun 18, 2026",
       "status": "running",
@@ -3512,7 +3587,7 @@
          "Wheelchair"
       ],
       "reward": "Complete the challenge for a chance to win a limited-edition Starbucks™ Weighted Vest.",
-      "participants": "87615"
+      "participants": "88254"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5999",
@@ -3520,7 +3595,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5999/5999-logo.png",
       "name": "Postcode Lottery: Don8 Days",
       "description": "Log 8 days of activity to unlock funds for charity and do some good!",
-      "time": "Jun 8, 2026 to Jun 28, 2026  —  18 days left",
+      "time": "Jun 8, 2026 to Jun 28, 2026  —  17 days left",
       "start_date": "Jun 8, 2026",
       "end_date": "Jun 28, 2026",
       "status": "running",
@@ -3584,7 +3659,7 @@
          "Yoga"
       ],
       "reward": "Do your thing on Strava, unlock millions for charity. No fundraising needed.",
-      "participants": "75989"
+      "participants": "76611"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6000",
@@ -3592,7 +3667,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6000/6000-logo.png",
       "name": "Powered by NIVEA: We Care. You Move.",
       "description": "Complete the challenge to unlock 50% promo &amp;amp; a chance to win a NIVEA Box",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -3656,7 +3731,7 @@
          "Yoga"
       ],
       "reward": "Complete 200 active minutes to unlock 50% from three NIVEA products and a chance to win 1 of 10 NIVEA care boxes.",
-      "participants": "20518"
+      "participants": "20613"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6001",
@@ -3678,7 +3753,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6002/6002-logo.png",
       "name": "Stay Salty to Win Big with SaltStick",
       "description": "Be active for 5 days to earn free SaltStick samples and a chance at $5,000!",
-      "time": "Jun 10, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 10, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 10, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -3743,7 +3818,7 @@
       ],
       "reward": "Finishers unlock FREE SaltStick samples (just pay shipping) + a chance to win a $5,000 fitness shopping spree!",
       "club": "https://www.strava.com/clubs/1103257",
-      "participants": "69292"
+      "participants": "71832"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6003",
@@ -3751,7 +3826,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6003/6003-logo.png",
       "name": "Spark Your Vibe with HUAWEI",
       "description": "Track 5 hours of activity &amp;amp; enjoy a discount on the HUAWEI WATCH FIT 5 Series",
-      "time": "May 29, 2026 to Jun 18, 2026  —  8 days left",
+      "time": "May 29, 2026 to Jun 18, 2026  —  7 days left",
       "start_date": "May 29, 2026",
       "end_date": "Jun 18, 2026",
       "status": "running",
@@ -3816,7 +3891,7 @@
       ],
       "reward": "Enjoy discounts on HUAWEI WATCH FIT 5 SERIES",
       "club": "https://www.strava.com/clubs/1766292",
-      "participants": "85128"
+      "participants": "85771"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6004",
@@ -3833,7 +3908,7 @@
          "Wheelchair"
       ],
       "reward": "Complete the challenge and get two weeks free of Runna – a personalized training plan built around your goals.",
-      "participants": "679400"
+      "participants": "679395"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6005",
@@ -3858,7 +3933,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6006/6006-logo.png",
       "name": "June 180 Minute Football Challenge",
       "description": "An ambitious GOOOOAL to start your year.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -3869,7 +3944,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "97560"
+      "participants": "98073"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6007",
@@ -3877,7 +3952,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6007/6007-logo.png",
       "name": "iFIT: Built Together",
       "description": "Head into the summer on a strong note. Log 10 strength workouts for rewards.",
-      "time": "May 28, 2026 to Jun 24, 2026  —  14 days left",
+      "time": "May 28, 2026 to Jun 24, 2026  —  13 days left",
       "start_date": "May 28, 2026",
       "end_date": "Jun 24, 2026",
       "status": "running",
@@ -3891,7 +3966,7 @@
       ],
       "reward": "Finishers earn 50% off an annual iFIT Personal Trainer membership + entry to win the NordicTrack Ultra 1 Reformer.",
       "club": "https://www.strava.com/clubs/1868758",
-      "participants": "54512"
+      "participants": "54955"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6008",
@@ -3919,7 +3994,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6009/6009-logo.png",
       "name": "Audible: Descend the Dungeon Challenge",
       "description": "Celebrate Dungeon Crawler Carl and get 2 months of free Audible.",
-      "time": "May 20, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "May 20, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "May 20, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -3934,7 +4009,7 @@
          "Wheelchair"
       ],
       "reward": "Earn 2 months of free Audible by logging 18km on Strava before the time runs out, or it's game over!",
-      "participants": "31881"
+      "participants": "31994"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6010",
@@ -3956,7 +4031,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6011/6011-logo.png",
       "name": "Liquid I.V. Tear, Pour, Move More",
       "description": "Say YES to summer and hydration worth celebrating with Liquid I.V.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -3971,7 +4046,7 @@
       ],
       "reward": "Your wins matter. Hydration should too. Say YES - earn free Liquid I.V. + a chance to win a year's supply.",
       "club": "https://www.strava.com/clubs/1657743",
-      "participants": "96528"
+      "participants": "97594"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6012",
@@ -3979,11 +4054,6 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6012/6012-logo.png",
       "name": "Ed Sheeran's Million Mile Loop Challenge",
       "description": "Run your Loop. Win tickets to see Ed Sheeran live.",
-      "time": "May 28, 2026 to Jun 10, 2026  —  Ends today",
-      "start_date": "May 28, 2026",
-      "end_date": "Jun 10, 2026",
-      "status": "ended",
-      "challenge_days": "14",
       "task": "Complete 1 mile of activity",
       "tags": [
          "Alpine Ski",
@@ -4043,7 +4113,7 @@
          "Yoga"
       ],
       "reward": "Every mile counts! Log one to help hit 1M and win tickets to Ed Sheeran's Loop Tour.",
-      "participants": "49597"
+      "participants": "49839"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6014",
@@ -4051,7 +4121,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6014/6014-logo.png",
       "name": "VITTEL® x STRAVA Challenge",
       "description": "Ride 171km in 6 weeks to revitalise yourself from head to toe** with VITTEL®.",
-      "time": "Jun 8, 2026 to Jul 19, 2026  —  39 days left",
+      "time": "Jun 8, 2026 to Jul 19, 2026  —  38 days left",
       "start_date": "Jun 8, 2026",
       "end_date": "Jul 19, 2026",
       "status": "running",
@@ -4066,7 +4136,7 @@
       ],
       "reward": "Unlock a new badge and have a chance to win a VIP experience at the Tour de France.",
       "club": "https://www.strava.com/clubs/1527433",
-      "participants": "50163"
+      "participants": "50452"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6015",
@@ -4074,7 +4144,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6015/6015-logo.png",
       "name": "Samsung – 180 Minutes, Every Step Counts",
       "description": "Move 180 min, any pace. Unlock up to 40% off Samsung Galaxy Watch &amp;amp; Buds.",
-      "time": "Jun 15, 2026 to Jun 28, 2026  —  5 days until start",
+      "time": "Jun 15, 2026 to Jun 28, 2026  —  4 days until start",
       "start_date": "Jun 15, 2026",
       "end_date": "Jun 28, 2026",
       "status": "upcoming",
@@ -4138,7 +4208,7 @@
          "Yoga"
       ],
       "reward": "Complete 180 min. 10% extra off Samsung Galaxy Watch \\u0026 Buds — up to 40% with current Samsung.com offers.",
-      "participants": "6312"
+      "participants": "6749"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6016",
@@ -4146,7 +4216,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6016/6016-logo.png",
       "name": "Le défi Stravache par le Lait",
       "description": "For every kilometer traveled, $1 will be donated to Food Banks of Québec.",
-      "time": "Jun 7, 2026 to Jul 24, 2026  —  44 days left",
+      "time": "Jun 7, 2026 to Jul 24, 2026  —  43 days left",
       "start_date": "Jun 7, 2026",
       "end_date": "Jul 24, 2026",
       "status": "running",
@@ -4158,7 +4228,7 @@
       ],
       "reward": "Log a kilometer for a chance to win one of five pairs of shoes customized by Jay du Temple.",
       "club": "https://www.strava.com/clubs/2115292",
-      "participants": "13511"
+      "participants": "14758"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6017",
@@ -4166,7 +4236,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6017/6017-logo.png",
       "name": "KEEN x Sports Basement Segment Challenge",
       "description": "Run the segment for an entry to win a trail racing trip to Oregon",
-      "time": "May 24, 2026 to Jun 24, 2026  —  14 days left",
+      "time": "May 24, 2026 to Jun 24, 2026  —  13 days left",
       "start_date": "May 24, 2026",
       "end_date": "Jun 24, 2026",
       "status": "running",
@@ -4177,7 +4247,7 @@
       ],
       "reward": "Each completed segment earns an entry for a trip to Wy'east Trailfest in Oregon, presented by KEEN.",
       "club": "https://www.strava.com/clubs/1106887",
-      "participants": "4374"
+      "participants": "4428"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6018",
@@ -4185,7 +4255,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6018/6018-logo.png",
       "name": "KEEN x 7000 Feet Segment Challenge",
       "description": "Run the segment for an entry to win a trail racing trip to Oregon",
-      "time": "May 24, 2026 to Jun 24, 2026  —  14 days left",
+      "time": "May 24, 2026 to Jun 24, 2026  —  13 days left",
       "start_date": "May 24, 2026",
       "end_date": "Jun 24, 2026",
       "status": "running",
@@ -4196,7 +4266,7 @@
       ],
       "reward": "Each completed segment earns an entry for a trip to Wy'east Trailfest in Oregon, presented by KEEN.",
       "club": "https://www.strava.com/clubs/1106887",
-      "participants": "2011"
+      "participants": "2029"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6019",
@@ -4204,7 +4274,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6019/6019-logo.png",
       "name": "KEEN x Alpenglow Segment Challenge",
       "description": "Run the segment for an entry to win a trail racing trip to Oregon",
-      "time": "May 24, 2026 to Jun 24, 2026  —  14 days left",
+      "time": "May 24, 2026 to Jun 24, 2026  —  13 days left",
       "start_date": "May 24, 2026",
       "end_date": "Jun 24, 2026",
       "status": "running",
@@ -4215,7 +4285,7 @@
       ],
       "reward": "Each completed segment earns an entry for a trip to Wy'east Trailfest in Oregon, presented by KEEN.",
       "club": "https://www.strava.com/clubs/1106887",
-      "participants": "2977"
+      "participants": "3026"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6020",
@@ -4223,7 +4293,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6020/6020-logo.png",
       "name": "KEEN x Grivet Outdoors Segment Challenge",
       "description": "Run the segment for an entry to win a trail racing trip to Oregon",
-      "time": "May 24, 2026 to Jun 24, 2026  —  14 days left",
+      "time": "May 24, 2026 to Jun 24, 2026  —  13 days left",
       "start_date": "May 24, 2026",
       "end_date": "Jun 24, 2026",
       "status": "running",
@@ -4234,7 +4304,7 @@
       ],
       "reward": "Each completed segment earns an entry for a trip to Wy'east Trailfest in Oregon, presented by KEEN.",
       "club": "https://www.strava.com/clubs/1106887",
-      "participants": "1355"
+      "participants": "1362"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6021",
@@ -4242,7 +4312,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6021/6021-logo.png",
       "name": "Thorne Performance 100: Move for More",
       "description": "Complete 100 minutes of movement this June to unlock exclusive savings off Thorne.",
-      "time": "Jun 10, 2026 to Jul 8, 2026  —  28 days left",
+      "time": "Jun 10, 2026 to Jul 8, 2026  —  27 days left",
       "start_date": "Jun 10, 2026",
       "end_date": "Jul 8, 2026",
       "status": "running",
@@ -4307,7 +4377,7 @@
       ],
       "reward": "Complete 100 minutes of movement and unlock 15% off from Thorne.",
       "club": "https://www.strava.com/clubs/2085866",
-      "participants": "17900"
+      "participants": "18691"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6022",
@@ -4315,7 +4385,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6022/6022-logo.png",
       "name": "Win the weeknight with HelloFresh",
       "description": "Log 200 minutes and get rewarded with an exclusive HelloFresh treat",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -4380,7 +4450,7 @@
       ],
       "reward": "Complete the challenge and unlock your exclusive HelloFresh Reward.",
       "club": "https://www.strava.com/clubs/290924",
-      "participants": "313303"
+      "participants": "314324"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6023",
@@ -4388,7 +4458,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6023/6023-logo.png",
       "name": "The IM8 x Inter Miami CF Challenge",
       "description": "Win $50 off IM8 + An Exclusive Inter Miami CF Experience",
-      "time": "Jun 1, 2026 to Jun 28, 2026  —  18 days left",
+      "time": "Jun 1, 2026 to Jun 28, 2026  —  17 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 28, 2026",
       "status": "running",
@@ -4453,7 +4523,7 @@
       ],
       "reward": "Challenge finishers earn $50 off IM8 and chance to win an Inter Miami CF Experience",
       "club": "https://www.strava.com/clubs/2057638",
-      "participants": "140841"
+      "participants": "141866"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6024",
@@ -4461,7 +4531,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6024/6024-logo.png",
       "name": "HOKA Motion Party NYC Segment Challenge",
       "description": "Run an iconic segment. Enter to win a head-to-toe kit. Join the party.",
-      "time": "Jun 3, 2026 to Jun 17, 2026  —  7 days left",
+      "time": "Jun 3, 2026 to Jun 17, 2026  —  6 days left",
       "start_date": "Jun 3, 2026",
       "end_date": "Jun 17, 2026",
       "status": "running",
@@ -4472,7 +4542,7 @@
       ],
       "reward": "Finishers earn entry into a raffle for a head-to-toe running kit — plus a chance to get 15% off at a HOKA store.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "6087"
+      "participants": "6163"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6025",
@@ -4480,7 +4550,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6025/6025-logo.png",
       "name": "HOKA Motion Party Boston Segment Challenge",
       "description": "Run an iconic segment. Enter to win a head-to-toe kit. Join the party.",
-      "time": "Jun 3, 2026 to Jun 17, 2026  —  7 days left",
+      "time": "Jun 3, 2026 to Jun 17, 2026  —  6 days left",
       "start_date": "Jun 3, 2026",
       "end_date": "Jun 17, 2026",
       "status": "running",
@@ -4491,7 +4561,7 @@
       ],
       "reward": "Finishers earn entry into a raffle for a head-to-toe running kit — plus a chance to get 15% off at a HOKA store.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "3084"
+      "participants": "3130"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6026",
@@ -4499,7 +4569,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6026/6026-logo.png",
       "name": "HOKA Motion Party Chicago Segment Challenge",
       "description": "Run an iconic segment. Enter to win a head-to-toe kit. Join the party.",
-      "time": "Jun 3, 2026 to Jun 17, 2026  —  7 days left",
+      "time": "Jun 3, 2026 to Jun 17, 2026  —  6 days left",
       "start_date": "Jun 3, 2026",
       "end_date": "Jun 17, 2026",
       "status": "running",
@@ -4510,7 +4580,7 @@
       ],
       "reward": "Finishers earn entry into a raffle for a head-to-toe running kit — plus a chance to get 15% off at a HOKA store.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "2991"
+      "participants": "3029"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6027",
@@ -4518,7 +4588,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6027/6027-logo.png",
       "name": "HOKA Motion Party LA Segment Challenge",
       "description": "Run an iconic segment. Enter to win a head-to-toe kit. Join the party.",
-      "time": "Jun 3, 2026 to Jun 17, 2026  —  7 days left",
+      "time": "Jun 3, 2026 to Jun 17, 2026  —  6 days left",
       "start_date": "Jun 3, 2026",
       "end_date": "Jun 17, 2026",
       "status": "running",
@@ -4529,7 +4599,7 @@
       ],
       "reward": "Finishers earn entry into a raffle for a head-to-toe running kit — plus a chance to get 15% off at a HOKA store.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "3951"
+      "participants": "4017"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6028",
@@ -4537,7 +4607,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6028/6028-logo.png",
       "name": "HOKA Motion Party Miami Segment Challenge",
       "description": "Run an iconic segment. Enter to win a head-to-toe kit. Join the party.",
-      "time": "Jun 3, 2026 to Jun 17, 2026  —  7 days left",
+      "time": "Jun 3, 2026 to Jun 17, 2026  —  6 days left",
       "start_date": "Jun 3, 2026",
       "end_date": "Jun 17, 2026",
       "status": "running",
@@ -4548,7 +4618,7 @@
       ],
       "reward": "Finishers earn entry into a raffle for a head-to-toe running kit — plus a chance to get 15% off at a HOKA store.",
       "club": "https://www.strava.com/clubs/76016",
-      "participants": "2185"
+      "participants": "2217"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6029",
@@ -4556,7 +4626,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6029/6029-logo.png",
       "name": "Outdoorvision Run Challenge",
       "description": "Run to protect your practice spaces and get the chance to win !",
-      "time": "Jun 14, 2026 to Jun 20, 2026  —  4 days until start",
+      "time": "Jun 14, 2026 to Jun 20, 2026  —  3 days until start",
       "start_date": "Jun 14, 2026",
       "end_date": "Jun 20, 2026",
       "status": "upcoming",
@@ -4571,7 +4641,7 @@
       ],
       "reward": "Complete the challenge and try to win a Suunto watch or a topoguides of the FFRando",
       "club": "https://www.strava.com/clubs/1066332",
-      "participants": "20651"
+      "participants": "20975"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6030",
@@ -4579,7 +4649,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6030/6030-logo.png",
       "name": "Tour de France x Vueling Challenge",
       "description": "Travel the first 339 km of the Tour de France and win prizes with Vueling",
-      "time": "Jun 4, 2026 to Jul 1, 2026  —  21 days left",
+      "time": "Jun 4, 2026 to Jul 1, 2026  —  20 days left",
       "start_date": "Jun 4, 2026",
       "end_date": "Jul 1, 2026",
       "status": "running",
@@ -4597,7 +4667,7 @@
          "Wheelchair"
       ],
       "reward": "Complete 339 km and enter the draw for a VIP experience to enjoy l'Étape du Tour",
-      "participants": "20239"
+      "participants": "20449"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6031",
@@ -4619,7 +4689,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6035/6035-logo.png",
       "name": "Orangetheory Move More Challenge",
       "description": "Feel stronger every minute—hit 120 active minutes for a free class.",
-      "time": "Jun 1, 2026 to Jun 15, 2026  —  5 days left",
+      "time": "Jun 1, 2026 to Jun 15, 2026  —  4 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 15, 2026",
       "status": "running",
@@ -4683,7 +4753,7 @@
          "Yoga"
       ],
       "reward": "Complete 120 active minutes to unlock a free Orangetheory class experience.",
-      "participants": "15446"
+      "participants": "15548"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6036",
@@ -4691,7 +4761,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6036/6036-logo.png",
       "name": "Attaquer Time Attack Challenge",
       "description": "Ride 170 minutes in 17 days to unlock an Attaquer Code.",
-      "time": "Jun 12, 2026 to Jun 28, 2026  —  2 days until start",
+      "time": "Jun 12, 2026 to Jun 28, 2026  —  1 day until start",
       "start_date": "Jun 12, 2026",
       "end_date": "Jun 28, 2026",
       "status": "upcoming",
@@ -4707,7 +4777,7 @@
       ],
       "reward": "Join the Attaquer Time Attack Challenge! Complete 170 minutes of any activity to unlock an Attaquer code.",
       "club": "https://www.strava.com/clubs/22528",
-      "participants": "71253"
+      "participants": "72371"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6037",
@@ -4715,7 +4785,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6037/6037-logo.png",
       "name": "Get Fueled by The Feed",
       "description": "Claim 30% off GU Energy Gels + a FREE bottle",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -4780,7 +4850,7 @@
       ],
       "reward": "Complete the challenge to earn 30% off GU Energy Gels + a FREE Challenge Bottle",
       "club": "https://www.strava.com/clubs/280372",
-      "participants": "112053"
+      "participants": "113250"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6038",
@@ -4788,7 +4858,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6038/6038-logo.png",
       "name": "Sweat with Pride Challenge",
       "description": "Meet the moment with your movement",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -4853,7 +4923,7 @@
       ],
       "reward": "Earn the 2026 Sweat with Pride finisher’s badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "193026"
+      "participants": "194758"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6039",
@@ -4861,7 +4931,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6039/6039-logo.png",
       "name": "Heineken 0.0 Challenge: Finish Line Detour Rio De Janeiro",
       "description": "The finish line is just the beginning. Take the detour and toast with Heineken 0.0.",
-      "time": "May 31, 2026 to Jun 27, 2026  —  17 days left",
+      "time": "May 31, 2026 to Jun 27, 2026  —  16 days left",
       "start_date": "May 31, 2026",
       "end_date": "Jun 27, 2026",
       "status": "running",
@@ -4872,7 +4942,7 @@
       ],
       "reward": "By running the route and taking the detour to the bar, runners earn a Heineken 0.0 to toast the finish line.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "42121"
+      "participants": "42217"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6040",
@@ -4880,7 +4950,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6040/6040-logo.png",
       "name": "The Pedal Mafia PRO Season Challenge",
       "description": "Earn 20% OFF your first order + your chance to win a FREE Pedal Mafia kit.",
-      "time": "Jun 3, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 3, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 3, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -4896,7 +4966,7 @@
       ],
       "reward": "Earn 20% OFF your first order plus your chance to win a FREE curated Pedal Mafia kit tailored to your ride style.",
       "club": "https://www.strava.com/clubs/482682",
-      "participants": "42386"
+      "participants": "42735"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6041",
@@ -4904,7 +4974,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6041/6041-logo.png",
       "name": "Power Their Play with IAMS High Protein Dog Food",
       "description": "Put in the time, power their adventures, and celebrate the dogs who keep us moving.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  20 days left",
+      "time": "Jun 1, 2026 to Jun 30, 2026  —  19 days left",
       "start_date": "Jun 1, 2026",
       "end_date": "Jun 30, 2026",
       "status": "running",
@@ -4966,7 +5036,7 @@
       ],
       "reward": "Complete 80 minutes of movement to unlock a digital trophy badge.",
       "club": "https://www.strava.com/clubs/1868907",
-      "participants": "47085"
+      "participants": "48189"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6042",
@@ -4974,7 +5044,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6042/6042-logo.png",
       "name": "Red Bull - BORA - hansgrohe Challenge",
       "description": "Cycle 700km for the chance to win a unique experience with the team",
-      "time": "Jun 6, 2026 to Jul 4, 2026  —  24 days left",
+      "time": "Jun 6, 2026 to Jul 4, 2026  —  23 days left",
       "start_date": "Jun 6, 2026",
       "end_date": "Jul 4, 2026",
       "status": "running",
@@ -4988,7 +5058,7 @@
       ],
       "reward": "Try to win an exclusive, up-close experience with the Red Bull BORA hansgrohe in Paris",
       "club": "https://www.strava.com/clubs/577639",
-      "participants": "27224"
+      "participants": "27320"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6044",
@@ -5010,7 +5080,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6045/6045-logo.png",
       "name": "Run Pure Leaf's Refresh Route",
       "description": "Take a tea break on us to celebrate the start of iced tea season",
-      "time": "May 27, 2026 to Jun 23, 2026  —  13 days left",
+      "time": "May 27, 2026 to Jun 23, 2026  —  12 days left",
       "start_date": "May 27, 2026",
       "end_date": "Jun 23, 2026",
       "status": "running",
@@ -5020,7 +5090,7 @@
          "Run"
       ],
       "reward": "Refresh with a free bottle of Pure Leaf iced tea.",
-      "participants": "1914"
+      "participants": "1938"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6046",
@@ -5028,7 +5098,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6046/6046-logo.png",
       "name": "Ride Pure Leaf's Refresh Route",
       "description": "Take a tea break on us to celebrate the start of iced tea season",
-      "time": "May 27, 2026 to Jun 23, 2026  —  13 days left",
+      "time": "May 27, 2026 to Jun 23, 2026  —  12 days left",
       "start_date": "May 27, 2026",
       "end_date": "Jun 23, 2026",
       "status": "running",
@@ -5038,7 +5108,7 @@
          "Ride"
       ],
       "reward": "Refresh with a free bottle of Pure Leaf iced tea.",
-      "participants": "1834"
+      "participants": "1849"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6047",
@@ -5046,7 +5116,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6047/6047-logo.png",
       "name": "The Pure Leaf Reset Run",
       "description": "Celebrate the start of iced tea season with a refreshing Pure Leaf.",
-      "time": "May 28, 2026 to Jun 23, 2026  —  13 days left",
+      "time": "May 28, 2026 to Jun 23, 2026  —  12 days left",
       "start_date": "May 28, 2026",
       "end_date": "Jun 23, 2026",
       "status": "running",
@@ -5056,7 +5126,7 @@
          "Run"
       ],
       "reward": "Refresh with a free bottle of Pure Leaf iced tea.",
-      "participants": "1977"
+      "participants": "1998"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6049",
@@ -5069,7 +5139,7 @@
          "Run"
       ],
       "reward": "Take on the challenge and head to the Hello bank! stand for a chance to win your race bib for the 2027 edition.",
-      "participants": "35096"
+      "participants": "35104"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6050",
@@ -5077,7 +5147,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6050/6050-logo.png",
       "name": "Tracksmith Twilight 5000 Challenge",
       "description": "It’s Twilight 5000 season. Log 3 x 5K in a week to unlock your reward.",
-      "time": "Jun 8, 2026 to Jun 14, 2026  —  4 days left",
+      "time": "Jun 8, 2026 to Jun 14, 2026  —  3 days left",
       "start_date": "Jun 8, 2026",
       "end_date": "Jun 14, 2026",
       "status": "running",
@@ -5092,7 +5162,7 @@
       ],
       "reward": "Challenge finishers earn a discount to Tracksmith.com and are entered to win 1 of 3 Summer Kits valued at $500.",
       "club": "https://www.strava.com/clubs/176890",
-      "participants": "75739"
+      "participants": "76856"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6051",
@@ -5100,7 +5170,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6051/6051-logo.png",
       "name": "Every Move Counts With Oura",
       "description": "Log 150 minutes of any sport for a chance to win Oura Ring 5.",
-      "time": "Jun 8, 2026 to Jul 6, 2026  —  26 days left",
+      "time": "Jun 8, 2026 to Jul 6, 2026  —  25 days left",
       "start_date": "Jun 8, 2026",
       "end_date": "Jul 6, 2026",
       "status": "running",
@@ -5165,7 +5235,7 @@
       ],
       "reward": "Challenge finishers are eligible for a chance to win Oura Ring 5. T\\u0026Cs apply.",
       "club": "https://www.strava.com/clubs/1210751",
-      "participants": "154333"
+      "participants": "157199"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6052",
@@ -5173,7 +5243,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6052/6052-logo.png",
       "name": "Ride &amp; Vine: Chase the Lebensgefühl",
       "description": "Ride your way into the vineyards of South Styria",
-      "time": "Jun 15, 2026 to Jun 28, 2026  —  5 days until start",
+      "time": "Jun 15, 2026 to Jun 28, 2026  —  4 days until start",
       "start_date": "Jun 15, 2026",
       "end_date": "Jun 28, 2026",
       "status": "upcoming",
@@ -5191,7 +5261,7 @@
       ],
       "reward": "Complete the challenge for a chance to win a holiday in South Styria",
       "club": "https://www.strava.com/clubs/1364532",
-      "participants": "4959"
+      "participants": "5105"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6057",
@@ -5199,7 +5269,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6057/6057-logo.png",
       "name": "Janji Sunchaser Challenge",
       "description": "Chase the sun for an exclusive offer &amp;amp; chance to win a $1,000 Janji gift card",
-      "time": "Jun 15, 2026 to Jun 21, 2026  —  5 days until start",
+      "time": "Jun 15, 2026 to Jun 21, 2026  —  4 days until start",
       "start_date": "Jun 15, 2026",
       "end_date": "Jun 21, 2026",
       "status": "upcoming",
@@ -5214,7 +5284,7 @@
       ],
       "reward": "Run 24 miles to unlock a Janji.com discount and a chance to win a $1,000 Janji gift card.",
       "club": "https://www.strava.com/clubs/108706",
-      "participants": "32953"
+      "participants": "35707"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6060",
@@ -5222,7 +5292,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6060/6060-logo.png",
       "name": "Joybuy 11.11km Challenge",
       "description": "Complete 11.11km for £11.11 credit and a chance to win prizes up to £1,111",
-      "time": "Jun 15, 2026 to Jun 30, 2026  —  5 days until start",
+      "time": "Jun 15, 2026 to Jun 30, 2026  —  4 days until start",
       "start_date": "Jun 15, 2026",
       "end_date": "Jun 30, 2026",
       "status": "upcoming",
@@ -5241,7 +5311,7 @@
       ],
       "reward": "Complete 11.11km for £11.11 credit and a chance to win prizes up to £1,111",
       "club": "https://www.strava.com/clubs/2170395",
-      "participants": "48995"
+      "participants": "51080"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6061",
@@ -5249,7 +5319,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6061/6061-logo.png",
       "name": "The 430 Epiq Challenge by Škoda",
       "description": "Take on the 430 km challenge, earn your badge, and show everyone you’re an Epiq rider!",
-      "time": "Jun 15, 2026 to Jul 15, 2026  —  5 days until start",
+      "time": "Jun 15, 2026 to Jul 15, 2026  —  4 days until start",
       "start_date": "Jun 15, 2026",
       "end_date": "Jul 15, 2026",
       "status": "upcoming",
@@ -5264,7 +5334,7 @@
       ],
       "reward": "Complete this Challenge to add an exclusive digital badge to your Trophy Board.",
       "club": "https://www.strava.com/clubs/164277",
-      "participants": "6841"
+      "participants": "7063"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6064",
@@ -5272,7 +5342,7 @@
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6064/6064-logo.png",
       "name": "On Track Nights Paris Challenge",
       "description": "Feel the pace of Paris. Run the segment to earn a digital badge.",
-      "time": "Jun 12, 2026 to Jun 26, 2026  —  2 days until start",
+      "time": "Jun 12, 2026 to Jun 26, 2026  —  1 day until start",
       "start_date": "Jun 12, 2026",
       "end_date": "Jun 26, 2026",
       "status": "upcoming",
@@ -5283,6 +5353,6 @@
       ],
       "reward": "Complete the segment to earn the official On Track Nights digital badge. Sign up for OTN tickets.",
       "club": "https://www.strava.com/clubs/226387",
-      "participants": "692"
+      "participants": "900"
    }
 ]
