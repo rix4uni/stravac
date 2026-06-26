@@ -1,2711 +1,5 @@
 [
    {
-      "challenge_url": "https://www.strava.com/challenges/5874",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5874/5874-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5874/5874-logo.png",
-      "name": "May 5K x Brooks Challenge",
-      "description": "From first attempts to PRs, chase your best 5K run with Brooks.",
-      "task": "Complete a 5 km (3.1 mi) run.",
-      "tags": [
-         "Run",
-         "Trail Run",
-         "Virtual Run",
-         "Wheelchair"
-      ],
-      "reward": "Earn a digital finisher's badge for your Trophy Case.",
-      "club": "https://www.strava.com/clubs/81417",
-      "participants": "1367159"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5875",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5875/5875-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5875/5875-logo.png",
-      "name": "Amazon Health AI On Track Challenge",
-      "description": "Run, hike, or cycle 30 miles.",
-      "task": "Complete 30 miles of activity",
-      "tags": [
-         "Hike",
-         "Ride",
-         "Run",
-         "Walk"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "166662"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5876",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5876/5876-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5876/5876-logo.png",
-      "name": "Kilometerzähler: Red Bull – BORA – hansgrohe",
-      "description": "Ride 1000 km for your chance to meet the pro team in France.",
-      "task": "Ride 1000 km in the month May",
-      "tags": [
-         "Gravel Ride",
-         "Mountain Bike Ride",
-         "Ride",
-         "Virtual Ride"
-      ],
-      "reward": "Finish the challenge for your chance to win a trip to France and meet the Red Bull–BORA–hansgrohe pro team.",
-      "club": "https://www.strava.com/clubs/509226",
-      "participants": "45020"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5877",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5877/5877-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5877/5877-logo.png",
-      "name": "Play Starts Now with SunGod Sunglasses",
-      "description": "Unlock 20% for you and your crew, PLUS win a £2000 ($3000) kit-out.",
-      "task": "Log 90 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Canoe",
-         "Crossfit",
-         "E-Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Handcycle",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Nordic Ski",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Unlock 20% for you and your training group, PLUS win a £2000 ($3000) crew head-to-toe kit out.",
-      "club": "https://www.strava.com/clubs/617591",
-      "participants": "92242"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5878",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5878/5878-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5878/5878-logo.png",
-      "name": "DJI Capture 10K Run",
-      "description": "Earn 15% off DJI products and enter to win a DJI Mini 4 Pro!",
-      "task": "Complete a 10km run",
-      "tags": [
-         "Handcycle",
-         "Hike",
-         "Run",
-         "Trail Run",
-         "Virtual Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Run 10 km for 15% off DJI Osmo combos plus a chance to win a DJI Mini 4 Pro and more!",
-      "club": "https://www.strava.com/clubs/2081901",
-      "participants": "310633"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5879",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5879/5879-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5879/5879-logo.png",
-      "name": "PEdALED Breakaway Challenge",
-      "description": "Join the ride to earn rewards and win prizes with PEdALED and partners.",
-      "task": "Ride for 120 minutes",
-      "tags": [
-         "E-Bike Ride",
-         "Handcycle",
-         "Ride",
-         "Virtual Ride"
-      ],
-      "reward": "Ride 120 minutes to save 30% with PEdALED and win prizes from Basso, Scicon, Wahoo, fizik, and Vittoria.",
-      "club": "https://www.strava.com/clubs/237404",
-      "participants": "215773"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5880",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5880/5880-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5880/5880-logo.png",
-      "name": "Moving for More Good Days, Together Challenge",
-      "description": "Move for your mind. Show up for mental health. More good days start here.",
-      "task": "400 Minutes",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Earn the ‘Moving for More Good Days, Together’ digital badge and show your support for mental health through movement.",
-      "club": "https://www.strava.com/clubs/2063421",
-      "participants": "51066"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5881",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-logo.png",
-      "name": "Amazon Health AI - Central Park - UWS Segment",
-      "description": "Complete Central Park - UWS Segment",
-      "task": "Complete the Central Park - UWS Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "57101"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5882",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5882/5882-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5882/5882-logo.png",
-      "name": "Unfold 100k with LOWA",
-      "description": "Log 100k and win a trip to the Madrisa Trail Run in Switzerland",
-      "task": "Cover 100k of distance in a month",
-      "tags": [
-         "Hike",
-         "Run",
-         "Trail Run",
-         "Virtual Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Win a trip to the August 2026 Madrisa Trail Run in Switzerland or a pair of LOWA trail running shoes.",
-      "club": "https://www.strava.com/clubs/1998156",
-      "participants": "249669"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5883",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5883/5883-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5883/5883-logo.png",
-      "name": "The Audible 6 Hour Movement Challenge",
-      "description": "Move for 6 hours and 5 minutes to earn a 2-month free Audible trial.",
-      "time": "Apr 24, 2026 to Jun 30, 2026  —  4 days left",
-      "start_date": "Apr 24, 2026",
-      "end_date": "Jun 30, 2026",
-      "status": "running",
-      "challenge_days": "68",
-      "task": "Complete 6hrs and 5 mins of activity",
-      "tags": [
-         "Badminton",
-         "Basketball",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Gravel Ride",
-         "HIIT",
-         "Hike",
-         "Mountain Bike Ride",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Run",
-         "Squash",
-         "Stair-Stepper",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete this challenge and get a 2-month free Audible trial to stay entertained on your adventures.",
-      "participants": "133748"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5884",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5884/5884-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5884/5884-logo.png",
-      "name": "MAX BALANCE ACTIVITY CHALLENGE",
-      "description": "Log 400 minutes of activity in 4 weeks and unlock the chance to win a year's supply of MAX BALANCE products.",
-      "task": "400 minutes of activities in 4 weeks",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the MAX BALANCE Activity Challenge and with a little luck, win a year's supply of MAX BALANCE products.",
-      "club": "https://www.strava.com/clubs/2045775",
-      "participants": "65523"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5886",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5886/5886-logo.png",
-      "name": "Amazon Health AI - Central Park - UES Segment",
-      "description": "Complete Central Park - UES Segment",
-      "task": "Complete the Central Park - UES Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "61709"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5887",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5887/5887-logo.png",
-      "name": "Amazon Health AI - The Lakefront - North Segment",
-      "description": "Complete The Lakefront - North Segment",
-      "task": "Complete The Lakefront - North Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "19410"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5888",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5888/5888-logo.png",
-      "name": "Amazon Health AI - The Esplanade Segment",
-      "description": "Complete The Esplanade Segment",
-      "task": "Complete The Esplanade Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "17727"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5889",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5889/5889-logo.png",
-      "name": "Amazon Health AI - The Marina Segment",
-      "description": " Complete The Marina Segment",
-      "task": "Complete The Marina Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "13613"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5890",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5890/5890-logo.png",
-      "name": "Amazon Health AI - The Embarcadero Segment",
-      "description": "Complete The Embarcadero Segment",
-      "task": "Complete The Embarcadero Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "12655"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5891",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5891/5891-logo.png",
-      "name": "Amazon Health AI - The Lakefront - Mid Segment",
-      "description": "Complete The Lakefront - Mid Segment",
-      "task": "Complete The Lakefront - Mid Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "10640"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5892",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5892/5892-logo.png",
-      "name": "Amazon Health AI - Austin Segment",
-      "description": "Complete the Austin Segment",
-      "task": "Complete the Austin Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "12732"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5893",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5893/5893-logo.png",
-      "name": "Amazon Health AI - Dallas Segment",
-      "description": "Complete the Dallas Segment",
-      "task": "Complete the Dallas Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "9698"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5894",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5894/5894-logo.png",
-      "name": "Amazon Health AI - San Diego Segment",
-      "description": "Complete the San Diego Segment",
-      "task": "Complete the San Diego Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "7943"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5895",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5895/5895-logo.png",
-      "name": "Amazon Health AI - DC Segment",
-      "description": " Complete the DC Segment",
-      "task": "Complete the DC Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "3188"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5896",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5896/5896-logo.png",
-      "name": "Amazon Health AI - Portland Segment",
-      "description": "Complete the Portland Segment",
-      "task": "Complete the Portland Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "4444"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5897",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5897/5897-logo.png",
-      "name": "Amazon Health AI - Ocean Drive Segment",
-      "description": "Complete the Ocean Drive Segment",
-      "task": "Complete the Ocean Drive Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "4694"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5898",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5898/5898-logo.png",
-      "name": "Amazon Health AI - Brickell Key Loop Segment",
-      "description": "Complete the Brickell Key LoopSegment",
-      "task": "Complete the Brickell Key Loop Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "2118"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5899",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5899/5899-logo.png",
-      "name": "Amazon Health AI - The Waterfront Segment",
-      "description": "Complete The Waterfront Segment",
-      "task": "Complete The Waterfront Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "4622"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5900",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5900/5900-logo.png",
-      "name": "Amazon Health AI - South Lake Union Segment",
-      "description": "Complete South Lake Union Segment",
-      "task": "Complete the South Lake Union Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "4431"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5901",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5901/5901-logo.png",
-      "name": "Amazon Health AI - Harvard Bridge Segment",
-      "description": "Complete Harvard Bridge Segment",
-      "task": "Complete the Harvard Bridge Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "17134"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5902",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5902/5902-logo.png",
-      "name": "Amazon Health AI - The Rickenbacker Segment",
-      "description": "Complete The Rickenbacker Segment",
-      "task": "Complete the Rickenbacker Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "4953"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5903",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5903/5903-logo.png",
-      "name": "Amazon Health AI - Heartbreak Hill Segment",
-      "description": "Complete the Heartbreak Hill Segment Challenge.",
-      "task": "Complete the Heartbreak Hill Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "25042"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5904",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5904/5904-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5904/5904-logo.png",
-      "name": "Cancer Research UK 13.1 Mile Training Challenge 2026",
-      "description": "Run a half marathon distance in May to earn 30% off entry to an event!",
-      "task": "Run or walk a total of 13.1 miles in May",
-      "tags": [
-         "Hike",
-         "Run",
-         "Trail Run",
-         "Virtual Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Complete the challenge to get 30% off entry on a charity place in a challenge, plus your finisher’s badge.",
-      "club": "https://www.strava.com/clubs/547758",
-      "participants": "116888"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5906",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5906/5906-logo.png",
-      "name": "Amazon Health AI - Santa Monica Segment",
-      "description": "Complete Santa Monica Segment",
-      "task": "Complete the Santa Monica Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "9226"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5907",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5907/5907-logo.png",
-      "name": "Amazon Health AI - Sloan's Lake Segment",
-      "description": "Complete Sloan's Lake Segment",
-      "task": "Complete the Sloan's Lake Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "4524"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5908",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5908/5908-logo.png",
-      "name": "Amazon Health AI - New Jersey Segment",
-      "description": "Complete New Jersey Segment",
-      "task": "Complete the New Jersey Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "6779"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5909",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5909/5909-logo.png",
-      "name": "Amazon Health AI - Williamsburg Segment",
-      "description": "Complete Williamsburg Segment",
-      "task": "Complete the Williamsburg Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "13488"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5910",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5910/5910-logo.png",
-      "name": "Amazon Health AI - The Hudson Segment",
-      "description": "Complete The Hudson Segment",
-      "task": "Complete The Hudson Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "30945"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5911",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5911/5911-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5911/5911-logo.png",
-      "name": "Green Chef Move 200 Challenge",
-      "description": "Move for 200 minutes and receive a special discount from Green Chef!",
-      "task": "Complete 200 min of activities",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete 200 minutes of movement in May and unlock a discount on nutritionist-crafted meals from Green Chef.",
-      "participants": "218349"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5912",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5912/5912-logo.png",
-      "name": "Amazon Health AI - West Silverlake Segment",
-      "description": "Complete West Silverlake Segment",
-      "task": "Complete the West Silverlake Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "7121"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5913",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5881/5881-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5913/5913-logo.png",
-      "name": "Amazon Health AI - The BeltLine Segment",
-      "description": "Complete The BeltLine Segment",
-      "task": "Complete The BeltLine Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "9012"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5914",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5914/5914-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5914/5914-logo.png",
-      "name": "Osprey Outdoor Challenge: Move In May",
-      "description": "Spring into adventure. Get outdoors for 1 hour this week and get 20% off.",
-      "task": "Complete 60 mins of Outdoor Activity",
-      "tags": [
-         "Canoe",
-         "Gravel Ride",
-         "Hike",
-         "Kayaking",
-         "Mountain Bike Ride",
-         "Ride",
-         "Rock Climb",
-         "Rowing",
-         "Run",
-         "Skateboard",
-         "Stand Up Paddling",
-         "Swim",
-         "Trail Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Get outdoors for 60 minutes this week to earn 20% off and enter for a chance to win an Osprey Transporter Duffel",
-      "club": "https://www.strava.com/clubs/511150",
-      "participants": "167544"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5915",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5915/5915-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5915/5915-logo.png",
-      "name": "Inghams Walking &amp; Tirol Trails Challenge",
-      "description": "Walk, hike, run, cycle 25km for your chance to WIN a holiday to Austria",
-      "task": "Walk, hike, run or cycle 25km",
-      "tags": [
-         "Gravel Ride",
-         "Hike",
-         "Mountain Bike Ride",
-         "Ride",
-         "Run",
-         "Trail Run",
-         "Walk"
-      ],
-      "reward": "Win a summer holiday to Austria with Inghams Walking, plus FIVE chances to win Austria Tirol goodie bags.",
-      "club": "https://www.strava.com/clubs/1206573",
-      "participants": "103809"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5916",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5873/5873-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5916/5916-logo.png",
-      "name": "Café du Cycliste Conquer Col d’Èze",
-      "description": "Ride 25.8 kilometres – the same as the pros on our local Col d’Èze loop!",
-      "task": "Cycle 25.8 kilometres",
-      "tags": [
-         "E-Bike Ride",
-         "Handcycle",
-         "Ride",
-         "Velomobile",
-         "Virtual Ride"
-      ],
-      "reward": "Ride 25.8km to unlock a €50 voucher to spend on our products, plus a chance to win a full summer kit.",
-      "club": "https://www.strava.com/clubs/3862",
-      "participants": "80984"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5917",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5917/5917-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5917/5917-logo.png",
-      "name": "HOKA: THE SPEEDGOAT QUEST — PARIS",
-      "description": "Complete the segment to unlock exclusive HOKA rewards.",
-      "task": "Soar through the segment",
-      "tags": [
-         "Run",
-         "Trail Run"
-      ],
-      "reward": "Earn your exclusive HOKA Speedgoat Quest digital badge and the chance to win exclusive rewards.",
-      "club": "https://www.strava.com/clubs/1035537",
-      "participants": "12878"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5918",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5918/5918-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5918/5918-logo.png",
-      "name": "Run with Audible: Mrs Macquarie's Chair",
-      "description": "Run the HOKA Runaway Sydney Half Marathon with Audible",
-      "task": "Complete the segment during the marathon",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Run Mrs Macquarie's Chair during the HOKA Runaway Sydney Half Marathon and earn a free 2 month Audible membership.",
-      "participants": "21278"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5919",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5919/5919-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5919/5919-logo.png",
-      "name": "Running Warehouse x adidas: More Miles May",
-      "description": "Log 12 days for an exclusive adidas offer &amp;amp; $1,000 to Running Warehouse!",
-      "task": "Complete 12 active days",
-      "tags": [
-         "Crossfit",
-         "HIIT",
-         "Hike",
-         "Run",
-         "Trail Run",
-         "Virtual Run",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Workout"
-      ],
-      "reward": "Unlock an exclusive adidas offer AND your chance to win up to a $1,000 shopping spree at Running Warehouse!",
-      "club": "https://www.strava.com/clubs/515232",
-      "participants": "135868"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5920",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5920/5920-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5920/5920-logo.png",
-      "name": "Jet2’s Cycle to Sunshine Challenge",
-      "description": "Ride and track hours for the chance to win a cycling holiday ☀️🚴",
-      "task": "Log 10 hours of any cycling activity in May",
-      "tags": [
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Gravel Ride",
-         "Handcycle",
-         "Mountain Bike Ride",
-         "Ride",
-         "Virtual Ride",
-         "Wheelchair"
-      ],
-      "reward": "Log 10 hours for a £60 voucher and entry to win a cycling holiday for two or 1 of 10 pairs of return flights.",
-      "club": "https://www.strava.com/clubs/1872292",
-      "participants": "64864"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5921",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5921/5921-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5921/5921-logo.png",
-      "name": "With HUAWEI Watch! 120 minutes of rhythm!",
-      "description": "Move for 120 minutes, earn your HUAWEI virtual medal! 🏃🚴🥇",
-      "task": "120 minutes of exercise in a week",
-      "tags": [
-         "E-Bike Ride",
-         "Ride",
-         "Run",
-         "Virtual Ride",
-         "Virtual Run"
-      ],
-      "reward": "Complete 120 minutes of running or cycling and earn your exclusive HUAWEI virtual medal! 🥇🏃🚴",
-      "club": "https://www.strava.com/clubs/1963999",
-      "participants": "67557"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5922",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5922/5922-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5922/5922-logo.png",
-      "name": "Summer Horizon with Bandit Running",
-      "description": "Step into longer days and find your rhythm for what’s ahead.",
-      "task": "Complete 150 minutes",
-      "tags": [
-         "Hike",
-         "Run",
-         "Trail Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Complete 150 minutes to unlock a unique Strava Badge, entry to win exclusive Bandit prizes and up to 20% off Bandit",
-      "club": "https://www.strava.com/clubs/1020236",
-      "participants": "657320"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5923",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5923/5923-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5923/5923-logo.png",
-      "name": "Move in May Challenge",
-      "description": "Celebrate National Physical Fitness and Sport Month and log 600 minutes of movement this May.",
-      "task": "Complete 600 minutes of activity.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge to earn an exclusive Move in May finisher badge.",
-      "participants": "66424"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5924",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5924/5924-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5924/5924-logo.png",
-      "name": "Fidelity Canada 300-Minute June Challenge",
-      "description": "Any activity. Any pace. Every minute counts. Living the Dream—through consistent performance.",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  4 days left",
-      "start_date": "Jun 1, 2026",
-      "end_date": "Jun 30, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Complete 300 minutes in the month of June.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Hit 300 minutes. Earn your June finisher’s badge.",
-      "club": "https://www.strava.com/clubs/2075732",
-      "participants": "51483"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5925",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5925/5925-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5925/5925-logo.png",
-      "name": "Intrepid Travel: Move with purpose",
-      "description": "Complete 370 minutes of movement for a chance to win a free Intrepid trip.",
-      "task": "370 minutes of activity.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Finishers get 20% off* their first Intrepid trip, plus the chance to win two spots on an 8-day Italy adventure.",
-      "participants": "43265"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5926",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5926/5926-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5926/5926-logo.png",
-      "name": "TeamShirts May in Motion Challenge",
-      "description": "Log 480 minutes of motion in May. Take part in the challenge and win.",
-      "task": "Log a total of 480 active minutes",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Be active for 480 minutes to earn 20% off* and enter for a chance to win a €500 gift card and a CRAFT package",
-      "club": "https://www.strava.com/clubs/1846143",
-      "participants": "85145"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5927",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5927/5927-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5927/5927-logo.png",
-      "name": "The Lucky Saint Beer Reborn Challenge",
-      "description": "Record 100 minutes of activity, win a year of beer &amp;amp; prizes worth £1000",
-      "task": "Record 100 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete challenge and earn a 25% discount at luckysaint.co, the chance to win a year of beer \\u0026 prizes worth £1000.",
-      "club": "https://www.strava.com/clubs/853067",
-      "participants": "93678"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5928",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5928/5928-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5928/5928-logo.png",
-      "name": "BleeqUp 180 mins activity Challenge",
-      "description": "Complete 180 mins activity in 7 days with BleeqUp &amp;amp; unlock rewards!",
-      "task": "Hit 180 minutes of exercise in one week",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Virtual Rowing",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "All eligible finishers will receive a 15% discount and a chance to win free BleeqUp Ranger Glasses!",
-      "club": "https://www.strava.com/clubs/1552013",
-      "participants": "109580"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5929",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5773/5773-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5929/5929-logo.png",
-      "name": "Strava for Business Miami Segment",
-      "description": "Hit the segment. See how your brand could activate on Strava.",
-      "task": "Complete the segment",
-      "tags": [
-         "Run",
-         "Trail Run"
-      ],
-      "reward": "Complete the segment to learn more about Strava for Business.",
-      "participants": "1095"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5930",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5930/5930-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5930/5930-logo.png",
-      "name": "HUAWEI WATCH GT Runner 2 × Active Rings",
-      "description": "Reach 10K and get 50% OFF the HUAWEI WATCH GT Runner 2 or WATCH FIT 5 Series.",
-      "task": "Complete a 10K challenge",
-      "tags": [
-         "Run",
-         "Trail Run",
-         "Virtual Run"
-      ],
-      "reward": "Run 10K and get 50% OFF the HUAWEI WATCH GT Runner 2, HUAWEI WATCH FIT 5 Series + Strava Premium! Join now!",
-      "club": "https://www.strava.com/clubs/2000226",
-      "participants": "14418"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5931",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5931/5931-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5931/5931-logo.png",
-      "name": "Vita Coco Run &amp; Refresh Like an Athlete",
-      "description": "Run 7 km in 7 days and unlock a FREE carton of Vita Coco to refresh like an athlete.",
-      "task": "Complete a total of 7 km",
-      "tags": [
-         "Run",
-         "Trail Run",
-         "Virtual Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Complete the challenge to claim a free Vita Coco carton to help you refresh like an athlete.",
-      "club": "https://www.strava.com/clubs/1138148",
-      "participants": "149484"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5932",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5932/5932-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5932/5932-logo.png",
-      "name": "Go The Distance With Good Chop",
-      "description": "Complete 90 minutes of activity &amp;amp; earn an exclusive offer",
-      "task": "Complete 90 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge to earn $140 off high-quality proteins from Good Chop.",
-      "participants": "146994"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5934",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5934/5934-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5934/5934-logo.png",
-      "name": "Castelli Once Upon a Ride Challenge",
-      "description": "Ride 150 km and unlock your reward: 30% off at castelli-cycling.com",
-      "task": "Ride 150 km between May 7 and May 20",
-      "tags": [
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Gravel Ride",
-         "Mountain Bike Ride",
-         "Ride",
-         "Velomobile",
-         "Virtual Ride"
-      ],
-      "reward": "Complete the challenge to unlock a 30% discount code for castelli-cycling.com and the 'Once Upon a Ride' badge",
-      "club": "https://www.strava.com/clubs/66959",
-      "participants": "347232"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5935",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5935/5935-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5935/5935-logo.png",
-      "name": "Get Fueled by The Feed",
-      "description": "Unlock a FREE Challenge Bottle + 25% off Skratch Labs Sport Hydration Mix",
-      "task": "120 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "FREE Challenge Bottle + 25% off the Skratch Labs Sport Hydration Mix Variety 26-Pack. Six flavors. Zero gut issues.",
-      "club": "https://www.strava.com/clubs/280372",
-      "participants": "159092"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5936",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5936/5936-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5936/5936-logo.png",
-      "name": "Move More in May with IAMS Pet Food",
-      "description": "Turn everyday moments into active time with your dog + earn rewards.",
-      "task": "Move 150 minutes in the month of May",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Rowing",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Earn a finisher badge + unlock 20% off select Strava merch",
-      "club": "https://www.strava.com/clubs/1868907",
-      "participants": "87607"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5937",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5937/5937-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5937/5937-logo.png",
-      "name": "HOKA: THE SPEEDGOAT QUEST — LONDON",
-      "description": "Complete the segment to unlock exclusive HOKA rewards.",
-      "task": "Soar through the segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn your exclusive HOKA Speedgoat Quest digital badge and the chance to win exclusive rewards.",
-      "club": "https://www.strava.com/clubs/1035537",
-      "participants": "10059"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5939",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5939/5939-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5939/5939-logo.png",
-      "name": "Skratch Labs 180 Effort Challenge",
-      "description": "Log 180 minutes in 2 weeks to unlock a free Skratch Labs Sample Pack.",
-      "task": "Log 180 minutes in 2 weeks",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Move for 180 minutes to unlock a Skratch Labs Hydration + Fuel Pack.",
-      "club": "https://www.strava.com/clubs/176397",
-      "participants": "101519"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5940",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5940/5940-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5940/5940-logo.png",
-      "name": "Audible: The Hackney Half Challenge",
-      "description": "Get to the halfway point and get a 2-month free Audible trial.",
-      "task": "Run through the halfway point.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete this segment and get a 2-month free Audible trial to stay entertained on your adventures.",
-      "participants": "7247"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5941",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5941/5941-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5941/5941-logo.png",
-      "name": "Amazon Health AI - Monroe Harbor Segment",
-      "description": "Complete the Monroe Harbor Segment Challenge.",
-      "task": "Complete the Monroe Harbor Segment Challenge.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn a digital badge for your Trophy Case and discover Amazon Health AI, your new care companion.",
-      "participants": "6938"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5942",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5942/5942-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5942/5942-logo.png",
-      "name": "AAPI Month 2026: Bold in the Making",
-      "description": "Celebrate AAPI Heritage Month. Log 25 mins of activity over 5 days in May.",
-      "task": "Log 25 minutes of activity over 5 days.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Earn a digital finisher's badge for your Trophy Case.",
-      "club": "https://www.strava.com/clubs/231407",
-      "participants": "43504"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5943",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5943/5943-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5943/5943-logo.png",
-      "name": "Zalando: Your run starts here",
-      "description": "Run the Copenhagen Marathon. Unlock your 20%* Zalando voucher code reward.",
-      "task": "Run the Zalando Copenhagen Segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the challenge to get 20%* off running gear and sportswear on Zalando – and earn the Zalando badge.",
-      "club": "https://www.strava.com/clubs/914587",
-      "participants": "18783"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5944",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5944/5944-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5944/5944-logo.png",
-      "name": "Run Miles. Win Points. With Virgin Atlantic.",
-      "description": "Rack up the miles for your shot at 1 million Virgin Points. Run 20 miles, tackle featured segments, and increase your chances to win big.",
-      "task": "Complete 20 miles of running over the next four weeks.",
-      "tags": [
-         "Run",
-         "Trail Run",
-         "Virtual Run"
-      ],
-      "reward": "Run miles. Complete segments. Boost your chances.",
-      "participants": "41673"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5945",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5945/5945-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5945/5945-logo.png",
-      "name": "The Virgin Hotel Segment Challenge",
-      "description": "Take on the Virgin Hotel segment and earn points toward your shot at 1 million Virgin Points.",
-      "task": "Complete the Virgin Hotel segment.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment. Earn points. Boost your chances.",
-      "participants": "4633"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5946",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5946/5946-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5946/5946-logo.png",
-      "name": "Central Park Segment Challenge",
-      "description": "Take on the Central Park Segment and earn points toward your shot at 1 million Virgin Points.",
-      "task": "Run the Central Park Segment.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment. Earn points. Boost your chances.",
-      "participants": "44137"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5947",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5947/5947-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5947/5947-logo.png",
-      "name": "Venice Beach Segment Challenge",
-      "description": "Run the Venice path and earn points toward your shot at 1 million Virgin Points.",
-      "task": "Run the Venice Beach Segment.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Run the coast. Earn points. Boost your chances.",
-      "participants": "9249"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5948",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5948/5948-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5948/5948-logo.png",
-      "name": "Rose Bowl Loop Segment Challenge",
-      "description": "Take on the Rose Bowl Loop and earn points toward your shot at 1 million Virgin Points.",
-      "task": "Run the Rose Bowl Loop Segment.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Run the loop. Earn points. Boost your chances.",
-      "participants": "7265"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5949",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5949/5949-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5949/5949-logo.png",
-      "name": "The MAAP MIND:SPC Challenge",
-      "description": "6 hours in motion. Any activity. Unlock a MAAP code.",
-      "task": "Move for 6-hours to get a MAAP code.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Unlock a MAAP code worth $75 AUD / $60 USD / €50 / £50 by completing 6 hours of any activity.",
-      "club": "https://www.strava.com/clubs/293623",
-      "participants": "292440"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5950",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5950/5950-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5950/5950-logo.png",
-      "name": "The Vancouver Marathon x Oikos PRO",
-      "description": "Run it like a PRO to earn your finisher badge.",
-      "task": "Complete the Vancouver Marathon segment.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the challenge and receive a digital finisher badge.",
-      "participants": "6593"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5951",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5951/5951-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5951/5951-logo.png",
-      "name": "Shokz Ride Open Challenge",
-      "description": "Ride 20 km and join the push to hit 10,000,000 km together!",
-      "task": "Complete 20km of riding",
-      "tags": [
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Gravel Ride",
-         "Handcycle",
-         "Ride",
-         "Velomobile",
-         "Virtual Ride"
-      ],
-      "reward": "Complete the challenge and register your email for a chance to win prizes worth over $1600!",
-      "club": "https://www.strava.com/clubs/559980",
-      "participants": "59622"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5952",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5952/5952-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5952/5952-logo.png",
-      "name": "NIKE GINZA MILE CHALLENGE",
-      "description": "Break your 1MILE PB and earn an exclusive digital badge.",
-      "task": "Prove your speed by setting a new 1 Mile PB (approx. 1.609km) and earn an exclusive digital badge.",
-      "tags": [
-         "Run",
-         "Virtual Run",
-         "Wheelchair"
-      ],
-      "reward": "Those who complete the challenge will be awarded an exclusive digital badge.",
-      "club": "https://www.strava.com/clubs/1136931",
-      "participants": "13244"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5953",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5953/5953-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5953/5953-logo.png",
-      "name": "ASSOS x EF CHALLENGE",
-      "description": "Ride 165km in 12 days. Get 15% off ASSOS. Enter to win an EF Kit",
-      "task": "Ride 165km in 12 days",
-      "tags": [
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Gravel Ride",
-         "Handcycle",
-         "Mountain Bike Ride",
-         "Ride",
-         "Virtual Ride"
-      ],
-      "reward": "Enter to win an EF LIMITED-EDITION Kit, get 15% off ASSOS online or in-store, and earn the Challenge badge",
-      "club": "https://www.strava.com/clubs/99524",
-      "participants": "267051"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5954",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5954/5954-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5954/5954-logo.png",
-      "name": "May 100-Minute x Forkful Challenge",
-      "description": "Log 100 minutes this May to unlock 50% off Forkful",
-      "task": "Complete 100 minutes of activity in one month.",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge to unlock 50% off your first box and 10% off your next 3 weeks.",
-      "participants": "107438"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5955",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5955/5955-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5955/5955-logo.png",
-      "name": "Q36.5 GRAND TOURS CHALLENGE",
-      "description": "Ride 365 minutes to get 15% off + Win a VIP Pro Team Tour experience!",
-      "task": "Ride 365 minutes",
-      "tags": [
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Gravel Ride",
-         "Handcycle",
-         "Mountain Bike Ride",
-         "Ride",
-         "Virtual Ride"
-      ],
-      "reward": "Complete the challenge for the chance to win a VIP experience at the Tour, 10 Q36.5 team kits and also get 15% off",
-      "club": "https://www.strava.com/clubs/280452",
-      "participants": "72981"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5956",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5956/5956-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5956/5956-logo.png",
-      "name": "Isostar Long Energy 6H Challenge",
-      "description": "Build endurance. Stay in control. 6 hours in 2 weeks. Are you in?",
-      "task": "Complete 6hrs of endurance in 2 weeks",
-      "tags": [
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Gravel Ride",
-         "Handcycle",
-         "Mountain Bike Ride",
-         "Ride",
-         "Run",
-         "Swim",
-         "Trail Run",
-         "Virtual Ride",
-         "Virtual Run",
-         "Wheelchair"
-      ],
-      "reward": "Hit the goal. Get 20% off on Isostar website and enter to win 1 of 10 Long Energy packs worth 100€ + a surprise.",
-      "club": "https://www.strava.com/clubs/88866",
-      "participants": "117347"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5957",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5957/5957-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5957/5957-logo.png",
-      "name": "Find Your Crew with Nuun",
-      "description": "Complete 6 active days over 2 weeks for 30% off Nuun Hydration",
-      "task": "Complete 6 active days over 2 weeks",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "You’ll earn 30% off Nuun Hydration and an exclusive digital badge.",
-      "club": "https://www.strava.com/clubs/169978",
-      "participants": "85098"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5958",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5958/5958-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5958/5958-logo.png",
-      "name": "INVICTUS NO-LIMIT by Rabanne",
-      "description": "Defy limits &amp;amp; complete 16 days. Unleash your inner champion.",
-      "time": "Jun 11, 2026 to Jul 19, 2026  —  23 days left",
-      "start_date": "Jun 11, 2026",
-      "end_date": "Jul 19, 2026",
-      "status": "running",
-      "challenge_days": "39",
-      "task": "Complete 16 active days",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete the challenge for a chance to win an exclusive INVICTUS sport kit",
-      "participants": "315315"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5959",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5959/5959-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5959/5959-logo.png",
-      "name": "Performance Nutrition with Factor_",
-      "description": "Move 200 minutes to unlock a discount on nutritious, chef-prepared meals.",
-      "task": "Complete 200 active minutes",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Complete 200 active minutes to earn a discount on freshly-prepared Factor meals.",
-      "club": "https://www.strava.com/clubs/290924",
-      "participants": "243312"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5960",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5960/5960-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5960/5960-logo.png",
-      "name": "REBOUND by SHIMANO &amp; Live Slow Ride Fast",
-      "description": "Join REBOUND, the world's biggest gravel ride starting from your doorstep!",
-      "task": "Complete a 15 to 350-mile gravel ride",
-      "tags": [
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Gravel Ride",
-         "Handcycle",
-         "Mountain Bike Ride",
-         "Ride",
-         "Virtual Ride"
-      ],
-      "reward": "Complete the challenge for a REBOUND badge and for a chance to win an entry ticket to UNBOUND.",
-      "club": "https://www.strava.com/clubs/35884",
-      "participants": "217218"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5961",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5961/5961-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5961/5961-logo.png",
-      "name": "Bergfreunde x Salomon Summit Week",
-      "description": "Log 10km for a discount and a chance to win the new Salomon Speedcross 6",
-      "task": "Complete 10km of running",
-      "tags": [
-         "Hike",
-         "Run",
-         "Virtual Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Finish strong: 10%* off Salomon at Bergfreunde with account and win a pair of Speedcross 6 running shoes",
-      "club": "https://www.strava.com/clubs/1872093",
-      "participants": "47200"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5962",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5962/5962-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5962/5962-logo.png",
-      "name": "Insta360 x UAE Team: Ride Like a Champion",
-      "description": "Win the new GO Ultra Pogačar Edition—signed by the champion.",
-      "task": "Complete 100 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Log 100 minutes to win a signed GO Ultra Pogačar Edition and unlock exclusive rewards.",
-      "club": "https://www.strava.com/clubs/1174077",
-      "participants": "291921"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5963",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5963/5963-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5963/5963-logo.png",
-      "name": "Ceres Lager | Di corsa neanche al bar #1",
-      "description": "The challenge where the goal is to go from one bar to another, with no rush.",
-      "task": "Go from Chiosco Corsica to Chiosco Oasi.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment to earn yourself an exclusive digital badge",
-      "participants": "5146"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5964",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5964/5964-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5964/5964-logo.png",
-      "name": "Ceres Lager | Di corsa neanche al bar #2",
-      "description": "The challenge where the goal is to go from one bar to another, with no rush.",
-      "task": "Go from Chiosco Oasi to Chiosco Falcone.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment to earn yourself an exclusive digital badge",
-      "participants": "4846"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5965",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5965/5965-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5965/5965-logo.png",
-      "name": "Ceres Lager | Di corsa neanche al bar #3",
-      "description": "The challenge where the goal is to go from one bar to another, with no rush.",
-      "task": "Go from Dandy to Ai Bagnoli.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment to earn yourself an exclusive digital badge",
-      "participants": "5056"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5966",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5966/5966-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5966/5966-logo.png",
-      "name": "Ceres Lager | Di corsa neanche al bar #4",
-      "description": "The challenge where the goal is to go from one bar to another, with no rush.",
-      "task": "Go from Ai Bagnoli to Dainotti's.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment to earn yourself an exclusive digital badge",
-      "participants": "4784"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5967",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5967/5967-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5967/5967-logo.png",
-      "name": "Celsius x Aston Martin F1® Team Run Challenge - Montreal",
-      "description": "Run the most Montreal segments for a chance to win Aston Martin F1® Team swag and 1YR of CELSIUS.",
-      "task": "Complete the segment.",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete the segment the most times for a chance to win 1 year’s supply of CELSIUS and exclusive co-branded swag.",
-      "club": "https://www.strava.com/clubs/1944736",
-      "participants": "4121"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5968",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5968/5968-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5968/5968-logo.png",
-      "name": "Norauto - With you every step of the way",
-      "description": "Win your VIP weekend for the arrival of the Tour de France with Norauto!",
-      "task": "Complete 210 minutes of activity",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "An exclusive badge and a chance to win a VIP weekend in Paris or a Norauto E-FIT 300-2 bike rack.",
-      "club": "https://www.strava.com/clubs/2129125",
-      "participants": "77754"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5969",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5969/5969-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5969/5969-logo.png",
-      "name": "The POC Grand Tour Challenge",
-      "description": "Ride 153 km. Win a Škoda VIP cycling experience at the Tour de France",
-      "task": "Ride 153 km",
-      "tags": [
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Gravel Ride",
-         "Handcycle",
-         "Mountain Bike Ride",
-         "Ride",
-         "Velomobile",
-         "Virtual Ride"
-      ],
-      "reward": "Log 153 km, earn 20% off and enter to win a signed helmet or a Škoda VIP cycling experience at the TDF.",
-      "club": "https://www.strava.com/clubs/244516",
-      "participants": "30904"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5970",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5970/5970-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5970/5970-logo.png",
-      "name": "Powerade: Pause is Power - Defy Your Limits",
-      "description": "Run 60km at your own pace and win the Powerade Pause is Power digital badge",
-      "task": "Complete 60km in three weeks",
-      "tags": [
-         "Handcycle",
-         "Hike",
-         "Run",
-         "Virtual Run",
-         "Walk",
-         "Wheelchair"
-      ],
-      "reward": "Complete the challenge to get your \\&quot;Pause Is Power\\&quot; digital badge",
-      "participants": "36784"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5971",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5971/5971-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5971/5971-logo.png",
-      "name": "HOKA: THE SPEEDGOAT QUEST — BERLIN",
-      "description": "Complete the segment to unlock exclusive HOKA rewards.",
-      "task": "Soar through the segment",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Earn your exclusive HOKA Speedgoat Quest digital badge and the chance to win exclusive rewards.",
-      "club": "https://www.strava.com/clubs/1035537",
-      "participants": "3287"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5972",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5972/5972-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5972/5972-logo.png",
-      "name": "Audible: Great Manchester Run Challenge",
-      "description": "Run through to mile 12 and get a 2-month free Audible trial.",
-      "task": "Run through the 12-mile mark",
-      "tags": [
-         "Run"
-      ],
-      "reward": "Complete this segment and get a 2-month free Audible trial to stay entertained on your adventures.",
-      "participants": "29678"
-   },
-   {
-      "challenge_url": "https://www.strava.com/challenges/5973",
-      "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5973/5973-cover.png",
-      "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5973/5973-logo.png",
-      "name": "June Ten Days Active Challenge",
-      "description": "Can you get 10 days in a row?",
-      "time": "Jun 1, 2026 to Jun 30, 2026  —  4 days left",
-      "start_date": "Jun 1, 2026",
-      "end_date": "Jun 30, 2026",
-      "status": "running",
-      "challenge_days": "30",
-      "task": "Do 10 minutes of activity for 10 days this month. Any activity counts!",
-      "tags": [
-         "Alpine Ski",
-         "Backcountry Ski",
-         "Badminton",
-         "Basketball",
-         "Canoe",
-         "Cricket",
-         "Crossfit",
-         "Dance",
-         "E-Bike Ride",
-         "E-Mountain Bike Ride",
-         "Elliptical",
-         "Football (Soccer)",
-         "Golf",
-         "Gravel Ride",
-         "Handcycle",
-         "HIIT",
-         "Hike",
-         "Ice Skate",
-         "Inline Skate",
-         "Kayaking",
-         "Kitesurf",
-         "Mountain Bike Ride",
-         "Nordic Ski",
-         "Padel",
-         "Pickleball",
-         "Pilates",
-         "Racquetball",
-         "Ride",
-         "Rock Climb",
-         "Roller Ski",
-         "Rowing",
-         "Run",
-         "Sail",
-         "Skateboard",
-         "Snowboard",
-         "Snowshoe",
-         "Squash",
-         "Stair-Stepper",
-         "Stand Up Paddling",
-         "Surfing",
-         "Swim",
-         "Table Tennis",
-         "Tennis",
-         "Trail Run",
-         "Velomobile",
-         "Virtual Ride",
-         "Virtual Rowing",
-         "Virtual Run",
-         "Volleyball",
-         "Walk",
-         "Weight Training",
-         "Wheelchair",
-         "Windsurf",
-         "Workout",
-         "Yoga"
-      ],
-      "reward": "Earn a digital finisher's badge for your Trophy Case.",
-      "club": "https://www.strava.com/clubs/231407",
-      "participants": "1252677"
-   },
-   {
       "challenge_url": "https://www.strava.com/challenges/5974",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/5974/5974-cover.png",
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/5974/5974-logo.png",
@@ -2790,7 +84,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "907324"
+      "participants": "908247"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5977",
@@ -2830,7 +124,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "341935"
+      "participants": "342325"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5979",
@@ -2853,7 +147,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "392581"
+      "participants": "393012"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5980",
@@ -2876,7 +170,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "331971"
+      "participants": "332407"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5981",
@@ -2898,7 +192,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "724087"
+      "participants": "724835"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5982",
@@ -2923,7 +217,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "540621"
+      "participants": "541267"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5983",
@@ -2945,7 +239,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "555269"
+      "participants": "555754"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5984",
@@ -2967,7 +261,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "986643"
+      "participants": "987556"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5985",
@@ -2987,7 +281,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "602164"
+      "participants": "602951"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5986",
@@ -3006,7 +300,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "131176"
+      "participants": "131419"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5987",
@@ -3045,7 +339,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "279519"
+      "participants": "279940"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5988",
@@ -3118,7 +412,7 @@
       ],
       "reward": "Earn your badge, unlock 2 weeks of Runna, and enter to win the Ultimate Runner Giveaway.",
       "club": "https://www.strava.com/clubs/886292",
-      "participants": "1216520"
+      "participants": "1218238"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5989",
@@ -3140,7 +434,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/512841",
-      "participants": "1265807"
+      "participants": "1268413"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5991",
@@ -3397,7 +691,7 @@
          "Yoga"
       ],
       "reward": "Get 50% cashback on a six-pack of JEVER FUN 0.0% and a chance to win a sports gear package.",
-      "participants": "69979"
+      "participants": "70130"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5995",
@@ -3425,7 +719,7 @@
          "Wheelchair"
       ],
       "reward": "Challenge finishers earn the T-Mobile | National Park Foundation ‘Free to Wander’ digital badge",
-      "participants": "72639"
+      "participants": "73321"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/5996",
@@ -3602,7 +896,7 @@
          "Yoga"
       ],
       "reward": "Do your thing on Strava, unlock millions for charity. No fundraising needed.",
-      "participants": "115643"
+      "participants": "115964"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6000",
@@ -3674,7 +968,7 @@
          "Yoga"
       ],
       "reward": "Complete 200 active minutes to unlock 50% from three NIVEA products and a chance to win 1 of 10 NIVEA care boxes.",
-      "participants": "24842"
+      "participants": "24882"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6001",
@@ -3761,7 +1055,7 @@
       ],
       "reward": "Finishers unlock FREE SaltStick samples (just pay shipping) + a chance to win a $5,000 fitness shopping spree!",
       "club": "https://www.strava.com/clubs/1103257",
-      "participants": "132855"
+      "participants": "133311"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6003",
@@ -3829,7 +1123,7 @@
       ],
       "reward": "Enjoy discounts on HUAWEI WATCH FIT 5 SERIES",
       "club": "https://www.strava.com/clubs/1766292",
-      "participants": "96057"
+      "participants": "96056"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6004",
@@ -3846,7 +1140,7 @@
          "Wheelchair"
       ],
       "reward": "Complete the challenge and get two weeks free of Runna – a personalized training plan built around your goals.",
-      "participants": "679059"
+      "participants": "679054"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6005",
@@ -3882,7 +1176,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "126966"
+      "participants": "127251"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6007",
@@ -3899,7 +1193,7 @@
       ],
       "reward": "Finishers earn 50% off an annual iFIT Personal Trainer membership + entry to win the NordicTrack Ultra 1 Reformer.",
       "club": "https://www.strava.com/clubs/1868758",
-      "participants": "69489"
+      "participants": "69487"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6008",
@@ -3919,7 +1213,7 @@
       ],
       "reward": "Ride 100 km to win an official UAE Team Emirates–XRG kit plus prizes from fizik and Scicon.",
       "club": "https://www.strava.com/clubs/291691",
-      "participants": "180614"
+      "participants": "180613"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6009",
@@ -3942,7 +1236,7 @@
          "Wheelchair"
       ],
       "reward": "Earn 2 months of free Audible by logging 18km on Strava before the time runs out, or it's game over!",
-      "participants": "36140"
+      "participants": "36188"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6010",
@@ -3979,7 +1273,7 @@
       ],
       "reward": "Your wins matter. Hydration should too. Say YES - earn free Liquid I.V. + a chance to win a year's supply.",
       "club": "https://www.strava.com/clubs/1657743",
-      "participants": "126918"
+      "participants": "127223"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6012",
@@ -4069,7 +1363,7 @@
       ],
       "reward": "Unlock a new badge and have a chance to win a VIP experience at the Tour de France.",
       "club": "https://www.strava.com/clubs/1527433",
-      "participants": "76808"
+      "participants": "77211"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6015",
@@ -4141,7 +1435,7 @@
          "Yoga"
       ],
       "reward": "Complete 180 min. 10% extra off Samsung Galaxy Watch \\u0026 Buds — up to 40% with current Samsung.com offers.",
-      "participants": "27300"
+      "participants": "27452"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6016",
@@ -4161,7 +1455,7 @@
       ],
       "reward": "Log a kilometer for a chance to win one of five pairs of shoes customized by Jay du Temple.",
       "club": "https://www.strava.com/clubs/2115292",
-      "participants": "30516"
+      "participants": "30590"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6017",
@@ -4290,7 +1584,7 @@
       ],
       "reward": "Complete 100 minutes of movement and unlock 15% off from Thorne. *Discount applied at checkout.",
       "club": "https://www.strava.com/clubs/2085866",
-      "participants": "33321"
+      "participants": "33436"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6022",
@@ -4363,7 +1657,7 @@
       ],
       "reward": "Complete the challenge and unlock your exclusive HelloFresh Reward.",
       "club": "https://www.strava.com/clubs/290924",
-      "participants": "392013"
+      "participants": "392966"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6023",
@@ -4436,7 +1730,7 @@
       ],
       "reward": "Challenge finishers earn $50 off IM8 and chance to win an Inter Miami CF Experience",
       "club": "https://www.strava.com/clubs/2057638",
-      "participants": "193494"
+      "participants": "193986"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6024",
@@ -4524,7 +1818,7 @@
       ],
       "reward": "Complete the challenge and try to win a Suunto watch or a topoguides of the FFRando",
       "club": "https://www.strava.com/clubs/1066332",
-      "participants": "36816"
+      "participants": "36815"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6030",
@@ -4550,7 +1844,7 @@
          "Wheelchair"
       ],
       "reward": "Complete 339 km and enter the draw for a VIP experience to enjoy l'Étape du Tour",
-      "participants": "29382"
+      "participants": "29499"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6031",
@@ -4588,7 +1882,7 @@
       ],
       "reward": "Earn your Cycle to Work Day 2026 badge for a chance to win some un-bear-lievable prizes!",
       "club": "https://www.strava.com/clubs/1239247",
-      "participants": "16359"
+      "participants": "16830"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6035",
@@ -4679,7 +1973,7 @@
       ],
       "reward": "Join the Attaquer Time Attack Challenge! Complete 170 minutes of any activity to unlock an Attaquer code.",
       "club": "https://www.strava.com/clubs/22528",
-      "participants": "130210"
+      "participants": "130805"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6037",
@@ -4752,7 +2046,7 @@
       ],
       "reward": "Complete the challenge to earn 30% off GU Energy Gels + a FREE Challenge Bottle",
       "club": "https://www.strava.com/clubs/280372",
-      "participants": "150830"
+      "participants": "151178"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6038",
@@ -4825,7 +2119,7 @@
       ],
       "reward": "Earn the 2026 Sweat with Pride finisher’s badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "281540"
+      "participants": "282392"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6039",
@@ -4844,7 +2138,7 @@
       ],
       "reward": "By running the route and taking the detour to the bar, runners earn a Heineken 0.0 to toast the finish line.",
       "club": "https://www.strava.com/clubs/2021212",
-      "participants": "44357"
+      "participants": "44381"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6040",
@@ -4868,7 +2162,7 @@
       ],
       "reward": "Earn 20% OFF your first order plus your chance to win a FREE curated Pedal Mafia kit tailored to your ride style.",
       "club": "https://www.strava.com/clubs/482682",
-      "participants": "56032"
+      "participants": "56175"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6041",
@@ -4938,7 +2232,7 @@
       ],
       "reward": "Complete 80 minutes of movement to unlock a digital trophy badge.",
       "club": "https://www.strava.com/clubs/1868907",
-      "participants": "81231"
+      "participants": "81531"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6042",
@@ -4960,7 +2254,7 @@
       ],
       "reward": "Try to win an exclusive, up-close experience with the Red Bull BORA hansgrohe in Paris",
       "club": "https://www.strava.com/clubs/577639",
-      "participants": "37795"
+      "participants": "37975"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6044",
@@ -5039,7 +2333,7 @@
       ],
       "reward": "Complete the Midsummer Challenge, earn your digital badge and a chance to win one of 10 Pas Normal Studios kits.",
       "club": "https://www.strava.com/clubs/205018",
-      "participants": "86997"
+      "participants": "87788"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6049",
@@ -5070,7 +2364,7 @@
       ],
       "reward": "Challenge finishers earn a discount to Tracksmith.com and are entered to win 1 of 3 Summer Kits valued at $500.",
       "club": "https://www.strava.com/clubs/176890",
-      "participants": "86034"
+      "participants": "86033"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6051",
@@ -5143,7 +2437,7 @@
       ],
       "reward": "Challenge finishers are eligible for a chance to win Oura Ring 5. T\\u0026Cs apply.",
       "club": "https://www.strava.com/clubs/1210751",
-      "participants": "263108"
+      "participants": "264119"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6052",
@@ -5169,7 +2463,7 @@
       ],
       "reward": "Complete the challenge for a chance to win a holiday in South Styria",
       "club": "https://www.strava.com/clubs/1364532",
-      "participants": "12928"
+      "participants": "12993"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6054",
@@ -5186,9 +2480,9 @@
       "tags": [
          "Ride"
       ],
-      "reward": "Complete the challenge to receive a 30% discount on access to AQUAGRANDA.",
+      "reward": "Complete the challenge to receive a 50% discount on access to AQUAGRANDA.",
       "club": "https://www.strava.com/clubs/1662395",
-      "participants": "2167"
+      "participants": "2262"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6055",
@@ -5205,9 +2499,9 @@
       "tags": [
          "Ride"
       ],
-      "reward": "Complete the challenge to receive a 30% discount on access to AQUAGRANDA.",
+      "reward": "Complete the challenge to receive a 50% discount on access to AQUAGRANDA.",
       "club": "https://www.strava.com/clubs/1662395",
-      "participants": "2029"
+      "participants": "2110"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6056",
@@ -5224,9 +2518,9 @@
       "tags": [
          "Ride"
       ],
-      "reward": "Complete the challenge to receive a 30% discount on access to AQUAGRANDA.",
+      "reward": "Complete the challenge to receive a 50% discount on access to AQUAGRANDA.",
       "club": "https://www.strava.com/clubs/1662395",
-      "participants": "2032"
+      "participants": "2115"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6057",
@@ -5271,7 +2565,7 @@
       ],
       "reward": "Complete 11.11km for £11.11 credit and a chance to win prizes up to £1,111",
       "club": "https://www.strava.com/clubs/2170395",
-      "participants": "182978"
+      "participants": "184500"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6061",
@@ -5294,7 +2588,7 @@
       ],
       "reward": "Complete this Challenge to add an exclusive digital badge to your Trophy Board.",
       "club": "https://www.strava.com/clubs/164277",
-      "participants": "19181"
+      "participants": "19364"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6062",
@@ -5312,7 +2606,7 @@
          "Run"
       ],
       "reward": "Challenge finishers earn the T-Mobile | National Park Foundation ‘Free to Wander’ digital badge",
-      "participants": "1598"
+      "participants": "1606"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6063",
@@ -5330,7 +2624,7 @@
          "Run"
       ],
       "reward": "Challenge finishers earn the T-Mobile | National Park Foundation ‘Free to Wander’ digital badge",
-      "participants": "1164"
+      "participants": "1170"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6065",
@@ -5348,7 +2642,7 @@
          "Run"
       ],
       "reward": "Complete the segment to learn more about Strava for Business.",
-      "participants": "1872"
+      "participants": "1897"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6066",
@@ -5366,7 +2660,7 @@
          "Run"
       ],
       "reward": "Complete the segment to learn more about Strava for Business.",
-      "participants": "1786"
+      "participants": "1815"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6071",
@@ -5438,7 +2732,7 @@
          "Yoga"
       ],
       "reward": "Complete the challenge to discover the Invictus Elixir Universe",
-      "participants": "27011"
+      "participants": "27428"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6073",
@@ -5460,7 +2754,7 @@
       ],
       "reward": "Can you manage to raise 500 euros? Then you will receive the unique KWF running shirt at home.",
       "club": "https://www.strava.com/clubs/1115642",
-      "participants": "12366"
+      "participants": "12509"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6074",
@@ -5533,7 +2827,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "201193"
+      "participants": "219973"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6075",
@@ -5606,7 +2900,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "156961"
+      "participants": "171238"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6076",
@@ -5629,7 +2923,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "103928"
+      "participants": "112658"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6077",
@@ -5652,7 +2946,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "76803"
+      "participants": "82865"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6078",
@@ -5675,7 +2969,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "86091"
+      "participants": "93042"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6079",
@@ -5698,7 +2992,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "72345"
+      "participants": "77984"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6080",
@@ -5720,7 +3014,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "128975"
+      "participants": "140426"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6081",
@@ -5745,7 +3039,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "98104"
+      "participants": "106304"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6082",
@@ -5767,7 +3061,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "107655"
+      "participants": "116760"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6083",
@@ -5789,7 +3083,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "164588"
+      "participants": "179668"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6084",
@@ -5809,7 +3103,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "96654"
+      "participants": "105093"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6085",
@@ -5828,7 +3122,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "34902"
+      "participants": "37081"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6086",
@@ -5867,7 +3161,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "59947"
+      "participants": "64455"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6087",
@@ -5940,7 +3234,7 @@
       ],
       "reward": "Complete the challenge to earn your badge and unlock a 2-week free Runna trial (new users only).",
       "club": "https://www.strava.com/clubs/886292",
-      "participants": "211579"
+      "participants": "231185"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6088",
@@ -5962,7 +3256,7 @@
       ],
       "reward": "Earn a digital finisher's badge for your Trophy Case.",
       "club": "https://www.strava.com/clubs/231407",
-      "participants": "208943"
+      "participants": "228963"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6090",
@@ -5982,7 +3276,7 @@
          "Wheelchair"
       ],
       "reward": "Well done, you have completed the NAMEDSPORT Energy 5 Challenge: here's your badge! Stay Trained!",
-      "participants": "10396"
+      "participants": "10650"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6091",
@@ -6055,7 +3349,7 @@
       ],
       "reward": "Hit 350 minutes and enter for a chance to win a year's supply of FOCUSWATER and exclusive price packs.",
       "club": "https://www.strava.com/clubs/2173357",
-      "participants": "6782"
+      "participants": "7051"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6093",
@@ -6078,7 +3372,7 @@
       ],
       "reward": "Complete the challenge for a chance to win 1 of 50 French Athletics Team kits \\u0026 the Open de France 5 km badge!",
       "club": "https://www.strava.com/clubs/476574",
-      "participants": "21627"
+      "participants": "22584"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6094",
@@ -6103,7 +3397,7 @@
       ],
       "reward": "Log 1,000 feet of elevation on your bike and you'll receive a 30% off coupon for clothing made by Backcountry.",
       "club": "https://www.strava.com/clubs/409",
-      "participants": "32697"
+      "participants": "33020"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6095",
@@ -6175,7 +3469,7 @@
          "Yoga"
       ],
       "reward": "Complete the challenge and enjoy a free 1-month Apple Music trial for new members only.",
-      "participants": "16361"
+      "participants": "17440"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6096",
@@ -6248,7 +3542,7 @@
       ],
       "reward": "Earn 20% off your new FlavCity subscription for life!",
       "club": "https://www.strava.com/clubs/1877310",
-      "participants": "26042"
+      "participants": "27502"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6099",
@@ -6273,7 +3567,7 @@
       ],
       "reward": "Complete the challenge for the chance to win 1 of 42 great prizes, including $500 vouchers and fresh merch packs!",
       "club": "https://www.strava.com/clubs/1825874",
-      "participants": "777"
+      "participants": "1793"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6101",
@@ -6296,14 +3590,14 @@
       ],
       "reward": "Unlock the exclusive Le Col 8848 jersey for £60, plus 30% off all other Le Col products on orders over £125",
       "club": "https://www.strava.com/clubs/88156",
-      "participants": "77687"
+      "participants": "85214"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6104",
       "cover_url": "https://dgalywyr863hv.cloudfront.net/challenges/6104/6104-cover.png",
       "logo_url": "https://dgalywyr863hv.cloudfront.net/challenges/6104/6104-logo.png",
       "name": "The Roads That Made Us: The Rapha Challenge",
-      "description": "Reach 250 miles, claim your reward + win $10,000* of Rapha kit.",
+      "description": "Reach 250 miles, claim your reward + win $1,000* of Rapha kit.",
       "time": "Jul 3, 2026 to Jul 26, 2026  —  7 days until start",
       "start_date": "Jul 3, 2026",
       "end_date": "Jul 26, 2026",
@@ -6320,7 +3614,7 @@
       ],
       "reward": "Reach the finish line and unlock $50 off a $200 spend on full-price Rapha kit, alongside an exclusive Rapha digital badge. T\\u0026Cs apply.",
       "club": "https://www.strava.com/clubs/234087",
-      "participants": "48"
+      "participants": "2172"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6105",
@@ -6392,7 +3686,7 @@
          "Yoga"
       ],
       "reward": "Complete the Citizens 26-Mile Challenge for your chance to win a bib for the 2026 TCS NYC Marathon!*",
-      "participants": "4405"
+      "participants": "4873"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6106",
@@ -6465,7 +3759,7 @@
       ],
       "reward": "Get 20% off SunGod sunglasses that are built your lifestyle, AND win an alpine holiday to Verbier, Switzerland",
       "club": "https://www.strava.com/clubs/617591",
-      "participants": "4307"
+      "participants": "7795"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6107",
@@ -6538,7 +3832,7 @@
       ],
       "reward": "Unlock a FREE Challenge Bottle + 33% off an 18-pack of CLIF Bloks",
       "club": "https://www.strava.com/clubs/280372",
-      "participants": "28609"
+      "participants": "30366"
    },
    {
       "challenge_url": "https://www.strava.com/challenges/6111",
@@ -6557,6 +3851,6 @@
       ],
       "reward": "Complete the segment the most times for a chance to win 1 year’s supply of CELSIUS and exclusive co-branded swag.",
       "club": "https://www.strava.com/clubs/1944736",
-      "participants": "4701"
+      "participants": "4990"
    }
 ]
