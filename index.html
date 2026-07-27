@@ -1,20 +1,121 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>🔥 Strava Challenges</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <title>Strava Challenges Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="icon" href="https://krazeplanet.com/favicon.ico" type="image/png">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
-  <div class="container">
-    <h1>🔥 Strava Challenges</h1>
-    <div id="top-tags" class="tags"></div>
-    <input type="text" id="search" placeholder="Search challenges..." />
-    <div id="challenges-container" class="cards"></div>
-  </div>
+  <header class="app-header">
+    <div class="container header-content">
+      <div class="brand">
+        <div class="brand-icon">⚡</div>
+        <div class="brand-text">
+          <h1>Strava Challenges</h1>
+          <p class="subtitle">Discover active challenges, earn badges, and push your limits.</p>
+        </div>
+      </div>
+
+      <div class="stats-bar">
+        <div class="stat-pill total">
+          <span class="stat-value" id="stats-total">0</span>
+          <span class="stat-label">Active</span>
+        </div>
+        <div class="stat-pill running">
+          <span class="stat-value" id="stats-running">0</span>
+          <span class="stat-label">Running</span>
+        </div>
+        <div class="stat-pill upcoming">
+          <span class="stat-value" id="stats-upcoming">0</span>
+          <span class="stat-label">Upcoming</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Controls Bar -->
+    <div class="controls-panel">
+      <div class="controls-top">
+        <div class="status-tabs" id="status-tabs">
+          <button class="status-tab active" data-status="all">All Challenges</button>
+          <button class="status-tab" data-status="running">🟢 Running</button>
+          <button class="status-tab" data-status="upcoming">🔵 Upcoming</button>
+        </div>
+
+        <div class="custom-dropdown" id="sort-dropdown">
+          <span class="sort-label">Sort by:</span>
+          <button type="button" class="dropdown-trigger" id="dropdown-trigger" aria-haspopup="true" aria-expanded="false">
+            <span id="selected-sort-label">🔥 Most Popular</span>
+            <span class="chevron">▾</span>
+          </button>
+
+          <div class="dropdown-menu" id="dropdown-menu">
+            <div class="dropdown-item active" data-value="popular">
+              <span class="item-icon">🔥</span>
+              <span class="item-text">Most Popular</span>
+              <span class="check-mark">✓</span>
+            </div>
+            <div class="dropdown-item" data-value="days-asc">
+              <span class="item-icon">⏱️</span>
+              <span class="item-text">Ending Soonest</span>
+              <span class="check-mark">✓</span>
+            </div>
+            <div class="dropdown-item" data-value="days-desc">
+              <span class="item-icon">📅</span>
+              <span class="item-text">Longest Duration</span>
+              <span class="check-mark">✓</span>
+            </div>
+            <div class="dropdown-item" data-value="name">
+              <span class="item-icon">🔤</span>
+              <span class="item-text">Name (A-Z)</span>
+              <span class="check-mark">✓</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search" placeholder="Search by challenge, activity, reward..." />
+        <button id="clear-search" class="clear-btn" style="display:none;">✕</button>
+      </div>
+
+      <!-- Activity Tags Bar -->
+      <div class="tags-section">
+        <span class="tags-label">Activities:</span>
+        <div id="top-tags" class="tags"></div>
+      </div>
+    </div>
+
+    <!-- Challenges Grid -->
+    <div id="challenges-container" class="cards-grid"></div>
+
+    <!-- Empty State -->
+    <div id="empty-state" class="empty-state" style="display: none;">
+      <div class="empty-icon">🚴‍♂️</div>
+      <h3>No challenges found</h3>
+      <p>Try searching for a different activity or keyword, or reset your filters.</p>
+      <button id="reset-filters-btn" class="reset-btn">Reset All Filters</button>
+    </div>
+  </main>
+
+  <footer class="app-footer">
+    <div class="container footer-content">
+      <p>Powered by Strava Challenges Data • Updated Live</p>
+    </div>
+  </footer>
 
   <script src="script.js"></script>
 </body>
+
 </html>

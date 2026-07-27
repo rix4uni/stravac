@@ -82,16 +82,11 @@ for challenge_id in range(start, end):  # 5097 to 5250
         # Start date
         challenge_data["start_date"] = str(start_date_str)
         
-        # End date
-        challenge_data["end_date"] = str(end_date_str)
-        
         # Challenge status
         if "days left" in suffix or "day left" in suffix:
             challenge_data["status"] = "running"
         elif "days until start" in suffix or "day until start" in suffix:
             challenge_data["status"] = "upcoming"
-        else:
-            challenge_data["status"] = "ended"
 
         # Calculate days
         try:
@@ -128,6 +123,10 @@ for challenge_id in range(start, end):  # 5097 to 5250
     participants = re.search(r';Participants&quot;,&quot;value&quot;:(.*?)}],&quot;auxiliaryStats', html_content)
     if participants:
         challenge_data["participants"] = participants.group(1)
+
+    # Skip ended or unstatused challenges
+    if challenge_data.get("status") not in ("running", "upcoming"):
+        continue
 
     all_challenges.append(challenge_data)  # Add the challenge data to the list
 
